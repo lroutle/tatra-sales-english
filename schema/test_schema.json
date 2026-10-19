@@ -1,0 +1,139 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Tatra Sales and Engineering Test Schema",
+  "type": "object",
+  "required": [
+    "test_id",
+    "title",
+    "level",
+    "category",
+    "workplace_track",
+    "estimated_time_minutes",
+    "description",
+    "questions"
+  ],
+  "properties": {
+    "test_id": {
+      "type": "string",
+      "pattern": "^TTR-SALES-(A2|B1|B2|C2|SP)-\\d{3}$"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 5
+    },
+    "level": {
+      "type": "string",
+      "enum": [
+        "A2",
+        "B1",
+        "B2",
+        "B1/B2",
+        "C2"
+      ]
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "core",
+        "specialized"
+      ]
+    },
+    "workplace_track": {
+      "type": "string"
+    },
+    "estimated_time_minutes": {
+      "type": "integer",
+      "minimum": 8,
+      "maximum": 30
+    },
+    "description": {
+      "type": "string"
+    },
+    "learning_objectives": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "questions": {
+      "type": "array",
+      "minItems": 8,
+      "maxItems": 12,
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "prompt",
+          "options",
+          "correct_key",
+          "explanations",
+          "cz_learning_point",
+          "workplace_track"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "prompt": {
+            "type": "string",
+            "minLength": 8
+          },
+          "options": {
+            "type": "array",
+            "minItems": 3,
+            "maxItems": 5,
+            "items": {
+              "type": "object",
+              "required": [
+                "key",
+                "text"
+              ],
+              "properties": {
+                "key": {
+                  "type": "string",
+                  "enum": [
+                    "A",
+                    "B",
+                    "C",
+                    "D",
+                    "E"
+                  ]
+                },
+                "text": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              }
+            }
+          },
+          "correct_key": {
+            "type": "string",
+            "enum": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E"
+            ]
+          },
+          "explanations": {
+            "type": "object",
+            "required": [
+              "correct"
+            ],
+            "additionalProperties": {
+              "type": "string"
+            }
+          },
+          "cz_learning_point": {
+            "type": "string",
+            "minLength": 10
+          },
+          "workplace_track": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

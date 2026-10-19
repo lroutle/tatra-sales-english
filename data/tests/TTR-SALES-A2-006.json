@@ -1,0 +1,326 @@
+{
+  "test_id": "TTR-SALES-A2-006",
+  "title": "Booking Hotel & Airport Transfers for Foreign Delegations",
+  "level": "A2",
+  "category": "core",
+  "workplace_track": "Polite Business Communication & Dealership Correspondence",
+  "estimated_time_minutes": 10,
+  "description": "Foundational sales English module covering booking hotel & airport transfers for foreign delegations.",
+  "learning_objectives": [
+    "Master professional Future with going to & Present Continuous in technical sales and export contracts",
+    "Eliminate common Czech interference errors in booking hotel & airport transfers for foreign delegations",
+    "Demonstrate mastery in international negotiations and Incoterms documentation"
+  ],
+  "questions": [
+    {
+      "id": "TTR-SALES-A2-006-Q1",
+      "prompt": "Could you please _____ the revised quotation for twenty 8x8 chassis to the Egyptian ministry as soon as possible?",
+      "options": [
+        {
+          "key": "A",
+          "text": "to send"
+        },
+        {
+          "key": "B",
+          "text": "send"
+        },
+        {
+          "key": "C",
+          "text": "sends"
+        },
+        {
+          "key": "D",
+          "text": "sending"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Polite modal request 'Could you please...' is followed by bare infinitive 'send' without 'to'.",
+        "wrong_A": "'to send' is incorrect; modal 'could' does not take 'to'.",
+        "wrong_C": "3rd person singular 'sends' cannot follow modal auxiliary 'could'.",
+        "wrong_D": "Participle 'sending' cannot follow modal auxiliary 'could'."
+      },
+      "cz_learning_point": "Czech 'Mohl byste prosím poslat...'. After 'Could you please', use the bare verb 'send' without 'to'.",
+      "workplace_track": "Polite Business Communication & Dealership Correspondence"
+    },
+    {
+      "id": "TTR-SALES-A2-006-Q2",
+      "prompt": "Could you please _____ the proforma invoice before arranging the bank wire transfer as soon as possible?",
+      "options": [
+        {
+          "key": "A",
+          "text": "to review"
+        },
+        {
+          "key": "B",
+          "text": "reviews"
+        },
+        {
+          "key": "C",
+          "text": "review"
+        },
+        {
+          "key": "D",
+          "text": "reviewing"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Polite modal request 'Could you please...' is followed by bare infinitive 'review' without 'to'.",
+        "wrong_A": "'to review' is incorrect; modal 'could' does not take 'to'.",
+        "wrong_B": "3rd person singular 'reviews' cannot follow modal auxiliary 'could'.",
+        "wrong_D": "Participle 'reviewing' cannot follow modal auxiliary 'could'."
+      },
+      "cz_learning_point": "Czech 'Mohl byste prosím poslat...'. After 'Could you please', use the bare verb 'review' without 'to'.",
+      "workplace_track": "Polite Business Communication & Dealership Correspondence"
+    },
+    {
+      "id": "TTR-SALES-A2-006-Q3",
+      "prompt": "Could you please _____ the delivery schedule with the Hamburg sea freight forwarder as soon as possible?",
+      "options": [
+        {
+          "key": "A",
+          "text": "confirm"
+        },
+        {
+          "key": "B",
+          "text": "to confirm"
+        },
+        {
+          "key": "C",
+          "text": "confirms"
+        },
+        {
+          "key": "D",
+          "text": "confirming"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Polite modal request 'Could you please...' is followed by bare infinitive 'confirm' without 'to'.",
+        "wrong_B": "'to confirm' is incorrect; modal 'could' does not take 'to'.",
+        "wrong_C": "3rd person singular 'confirms' cannot follow modal auxiliary 'could'.",
+        "wrong_D": "Participle 'confirming' cannot follow modal auxiliary 'could'."
+      },
+      "cz_learning_point": "Czech 'Mohl byste prosím poslat...'. After 'Could you please', use the bare verb 'confirm' without 'to'.",
+      "workplace_track": "Polite Business Communication & Dealership Correspondence"
+    },
+    {
+      "id": "TTR-SALES-A2-006-Q4",
+      "prompt": "Could you please _____ about the payload capacity of the Tatra Phoenix mining tipper as soon as possible?",
+      "options": [
+        {
+          "key": "A",
+          "text": "to inquire"
+        },
+        {
+          "key": "B",
+          "text": "inquires"
+        },
+        {
+          "key": "C",
+          "text": "inquiring"
+        },
+        {
+          "key": "D",
+          "text": "inquire"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Polite modal request 'Could you please...' is followed by bare infinitive 'inquire' without 'to'.",
+        "wrong_A": "'to inquire' is incorrect; modal 'could' does not take 'to'.",
+        "wrong_B": "3rd person singular 'inquires' cannot follow modal auxiliary 'could'.",
+        "wrong_C": "Participle 'inquiring' cannot follow modal auxiliary 'could'."
+      },
+      "cz_learning_point": "Czech 'Mohl byste prosím poslat...'. After 'Could you please', use the bare verb 'inquire' without 'to'.",
+      "workplace_track": "Polite Business Communication & Dealership Correspondence"
+    },
+    {
+      "id": "TTR-SALES-A2-006-Q5",
+      "prompt": "Could you please _____ all export customs documents into the digital freight portal as soon as possible?",
+      "options": [
+        {
+          "key": "A",
+          "text": "to upload"
+        },
+        {
+          "key": "B",
+          "text": "uploads"
+        },
+        {
+          "key": "C",
+          "text": "upload"
+        },
+        {
+          "key": "D",
+          "text": "uploading"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Polite modal request 'Could you please...' is followed by bare infinitive 'upload' without 'to'.",
+        "wrong_A": "'to upload' is incorrect; modal 'could' does not take 'to'.",
+        "wrong_B": "3rd person singular 'uploads' cannot follow modal auxiliary 'could'.",
+        "wrong_D": "Participle 'uploading' cannot follow modal auxiliary 'could'."
+      },
+      "cz_learning_point": "Czech 'Mohl byste prosím poslat...'. After 'Could you please', use the bare verb 'upload' without 'to'.",
+      "workplace_track": "Polite Business Communication & Dealership Correspondence"
+    },
+    {
+      "id": "TTR-SALES-A2-006-Q6",
+      "prompt": "Could you please _____ the VIP client delegation at Prague Airport tomorrow morning as soon as possible?",
+      "options": [
+        {
+          "key": "A",
+          "text": "to meet"
+        },
+        {
+          "key": "B",
+          "text": "meet"
+        },
+        {
+          "key": "C",
+          "text": "meets"
+        },
+        {
+          "key": "D",
+          "text": "meeting"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Polite modal request 'Could you please...' is followed by bare infinitive 'meet' without 'to'.",
+        "wrong_A": "'to meet' is incorrect; modal 'could' does not take 'to'.",
+        "wrong_C": "3rd person singular 'meets' cannot follow modal auxiliary 'could'.",
+        "wrong_D": "Participle 'meeting' cannot follow modal auxiliary 'could'."
+      },
+      "cz_learning_point": "Czech 'Mohl byste prosím poslat...'. After 'Could you please', use the bare verb 'meet' without 'to'.",
+      "workplace_track": "Polite Business Communication & Dealership Correspondence"
+    },
+    {
+      "id": "TTR-SALES-A2-006-Q7",
+      "prompt": "Could you please _____ the chassis technical parameters during the video conference as soon as possible?",
+      "options": [
+        {
+          "key": "A",
+          "text": "to explain"
+        },
+        {
+          "key": "B",
+          "text": "explains"
+        },
+        {
+          "key": "C",
+          "text": "explaining"
+        },
+        {
+          "key": "D",
+          "text": "explain"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Polite modal request 'Could you please...' is followed by bare infinitive 'explain' without 'to'.",
+        "wrong_A": "'to explain' is incorrect; modal 'could' does not take 'to'.",
+        "wrong_B": "3rd person singular 'explains' cannot follow modal auxiliary 'could'.",
+        "wrong_C": "Participle 'explaining' cannot follow modal auxiliary 'could'."
+      },
+      "cz_learning_point": "Czech 'Mohl byste prosím poslat...'. After 'Could you please', use the bare verb 'explain' without 'to'.",
+      "workplace_track": "Polite Business Communication & Dealership Correspondence"
+    },
+    {
+      "id": "TTR-SALES-A2-006-Q8",
+      "prompt": "Could you please _____ five spare drive axles under warranty reimbursement as soon as possible?",
+      "options": [
+        {
+          "key": "A",
+          "text": "claim"
+        },
+        {
+          "key": "B",
+          "text": "to claim"
+        },
+        {
+          "key": "C",
+          "text": "claims"
+        },
+        {
+          "key": "D",
+          "text": "claiming"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Polite modal request 'Could you please...' is followed by bare infinitive 'claim' without 'to'.",
+        "wrong_B": "'to claim' is incorrect; modal 'could' does not take 'to'.",
+        "wrong_C": "3rd person singular 'claims' cannot follow modal auxiliary 'could'.",
+        "wrong_D": "Participle 'claiming' cannot follow modal auxiliary 'could'."
+      },
+      "cz_learning_point": "Czech 'Mohl byste prosím poslat...'. After 'Could you please', use the bare verb 'claim' without 'to'.",
+      "workplace_track": "Polite Business Communication & Dealership Correspondence"
+    },
+    {
+      "id": "TTR-SALES-A2-006-Q9",
+      "prompt": "Could you please _____ order confirmation letters to foreign dealerships every Friday as soon as possible?",
+      "options": [
+        {
+          "key": "A",
+          "text": "to email"
+        },
+        {
+          "key": "B",
+          "text": "emails"
+        },
+        {
+          "key": "C",
+          "text": "email"
+        },
+        {
+          "key": "D",
+          "text": "emailing"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Polite modal request 'Could you please...' is followed by bare infinitive 'email' without 'to'.",
+        "wrong_A": "'to email' is incorrect; modal 'could' does not take 'to'.",
+        "wrong_B": "3rd person singular 'emails' cannot follow modal auxiliary 'could'.",
+        "wrong_D": "Participle 'emailing' cannot follow modal auxiliary 'could'."
+      },
+      "cz_learning_point": "Czech 'Mohl byste prosím poslat...'. After 'Could you please', use the bare verb 'email' without 'to'.",
+      "workplace_track": "Polite Business Communication & Dealership Correspondence"
+    },
+    {
+      "id": "TTR-SALES-A2-006-Q10",
+      "prompt": "Could you please _____ the contract payment milestone once shipping containers are sealed as soon as possible?",
+      "options": [
+        {
+          "key": "A",
+          "text": "to release"
+        },
+        {
+          "key": "B",
+          "text": "release"
+        },
+        {
+          "key": "C",
+          "text": "releases"
+        },
+        {
+          "key": "D",
+          "text": "releasing"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Polite modal request 'Could you please...' is followed by bare infinitive 'release' without 'to'.",
+        "wrong_A": "'to release' is incorrect; modal 'could' does not take 'to'.",
+        "wrong_C": "3rd person singular 'releases' cannot follow modal auxiliary 'could'.",
+        "wrong_D": "Participle 'releasing' cannot follow modal auxiliary 'could'."
+      },
+      "cz_learning_point": "Czech 'Mohl byste prosím poslat...'. After 'Could you please', use the bare verb 'release' without 'to'.",
+      "workplace_track": "Polite Business Communication & Dealership Correspondence"
+    }
+  ]
+}

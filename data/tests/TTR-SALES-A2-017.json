@@ -1,0 +1,326 @@
+{
+  "test_id": "TTR-SALES-A2-017",
+  "title": "Inquiring About Sea Freight Container Availability",
+  "level": "A2",
+  "category": "core",
+  "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)",
+  "estimated_time_minutes": 10,
+  "description": "Foundational sales English module covering inquiring about sea freight container availability.",
+  "learning_objectives": [
+    "Master professional Polite Inquiries (Is there, Are there) in technical sales and export contracts",
+    "Eliminate common Czech interference errors in inquiring about sea freight container availability",
+    "Demonstrate mastery in international negotiations and Incoterms documentation"
+  ],
+  "questions": [
+    {
+      "id": "TTR-SALES-A2-017-Q1",
+      "prompt": "The export consignment must clear customs _____ Friday afternoon to meet the vessel sailing date.",
+      "options": [
+        {
+          "key": "A",
+          "text": "at"
+        },
+        {
+          "key": "B",
+          "text": "by"
+        },
+        {
+          "key": "C",
+          "text": "on"
+        },
+        {
+          "key": "D",
+          "text": "in"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Preposition 'by' correctly expresses the required time deadline or constraint.",
+        "wrong_A": "Preposition 'at' expresses incorrect temporal relationship.",
+        "wrong_C": "Preposition 'on' does not fit the deadline context.",
+        "wrong_D": "Preposition 'in' is ungrammatical with this time phrase."
+      },
+      "cz_learning_point": "Deadline prepositions: 'by Friday' = nejpozději do pátku. Do not confuse with 'until' (až do).",
+      "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
+    },
+    {
+      "id": "TTR-SALES-A2-017-Q2",
+      "prompt": "The export consignment must clear customs _____ Friday afternoon to meet the vessel sailing date.",
+      "options": [
+        {
+          "key": "A",
+          "text": "by"
+        },
+        {
+          "key": "B",
+          "text": "on"
+        },
+        {
+          "key": "C",
+          "text": "at"
+        },
+        {
+          "key": "D",
+          "text": "in"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Preposition 'at' correctly expresses the required time deadline or constraint.",
+        "wrong_A": "Preposition 'by' expresses incorrect temporal relationship.",
+        "wrong_B": "Preposition 'on' does not fit the deadline context.",
+        "wrong_D": "Preposition 'in' is ungrammatical with this time phrase."
+      },
+      "cz_learning_point": "Deadline prepositions: 'by Friday' = nejpozději do pátku. Do not confuse with 'until' (až do).",
+      "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
+    },
+    {
+      "id": "TTR-SALES-A2-017-Q3",
+      "prompt": "The export consignment must clear customs _____ Friday afternoon to meet the vessel sailing date.",
+      "options": [
+        {
+          "key": "A",
+          "text": "on"
+        },
+        {
+          "key": "B",
+          "text": "by"
+        },
+        {
+          "key": "C",
+          "text": "at"
+        },
+        {
+          "key": "D",
+          "text": "in"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Preposition 'on' correctly expresses the required time deadline or constraint.",
+        "wrong_B": "Preposition 'by' expresses incorrect temporal relationship.",
+        "wrong_C": "Preposition 'at' does not fit the deadline context.",
+        "wrong_D": "Preposition 'in' is ungrammatical with this time phrase."
+      },
+      "cz_learning_point": "Deadline prepositions: 'by Friday' = nejpozději do pátku. Do not confuse with 'until' (až do).",
+      "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
+    },
+    {
+      "id": "TTR-SALES-A2-017-Q4",
+      "prompt": "The export consignment must clear customs _____ Friday afternoon to meet the vessel sailing date.",
+      "options": [
+        {
+          "key": "A",
+          "text": "by"
+        },
+        {
+          "key": "B",
+          "text": "at"
+        },
+        {
+          "key": "C",
+          "text": "on"
+        },
+        {
+          "key": "D",
+          "text": "in"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Preposition 'in' correctly expresses the required time deadline or constraint.",
+        "wrong_A": "Preposition 'by' expresses incorrect temporal relationship.",
+        "wrong_B": "Preposition 'at' does not fit the deadline context.",
+        "wrong_C": "Preposition 'on' is ungrammatical with this time phrase."
+      },
+      "cz_learning_point": "Deadline prepositions: 'by Friday' = nejpozději do pátku. Do not confuse with 'until' (až do).",
+      "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
+    },
+    {
+      "id": "TTR-SALES-A2-017-Q5",
+      "prompt": "The export consignment must clear customs _____ Friday afternoon to meet the vessel sailing date.",
+      "options": [
+        {
+          "key": "A",
+          "text": "by"
+        },
+        {
+          "key": "B",
+          "text": "at"
+        },
+        {
+          "key": "C",
+          "text": "until"
+        },
+        {
+          "key": "D",
+          "text": "on"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Preposition 'until' correctly expresses the required time deadline or constraint.",
+        "wrong_A": "Preposition 'by' expresses incorrect temporal relationship.",
+        "wrong_B": "Preposition 'at' does not fit the deadline context.",
+        "wrong_D": "Preposition 'on' is ungrammatical with this time phrase."
+      },
+      "cz_learning_point": "Deadline prepositions: 'by Friday' = nejpozději do pátku. Do not confuse with 'until' (až do).",
+      "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
+    },
+    {
+      "id": "TTR-SALES-A2-017-Q6",
+      "prompt": "The export consignment must clear customs _____ Friday afternoon to meet the vessel sailing date.",
+      "options": [
+        {
+          "key": "A",
+          "text": "by"
+        },
+        {
+          "key": "B",
+          "text": "before"
+        },
+        {
+          "key": "C",
+          "text": "at"
+        },
+        {
+          "key": "D",
+          "text": "on"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Preposition 'before' correctly expresses the required time deadline or constraint.",
+        "wrong_A": "Preposition 'by' expresses incorrect temporal relationship.",
+        "wrong_C": "Preposition 'at' does not fit the deadline context.",
+        "wrong_D": "Preposition 'on' is ungrammatical with this time phrase."
+      },
+      "cz_learning_point": "Deadline prepositions: 'by Friday' = nejpozději do pátku. Do not confuse with 'until' (až do).",
+      "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
+    },
+    {
+      "id": "TTR-SALES-A2-017-Q7",
+      "prompt": "The export consignment must clear customs _____ Friday afternoon to meet the vessel sailing date.",
+      "options": [
+        {
+          "key": "A",
+          "text": "by"
+        },
+        {
+          "key": "B",
+          "text": "at"
+        },
+        {
+          "key": "C",
+          "text": "on"
+        },
+        {
+          "key": "D",
+          "text": "during"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Preposition 'during' correctly expresses the required time deadline or constraint.",
+        "wrong_A": "Preposition 'by' expresses incorrect temporal relationship.",
+        "wrong_B": "Preposition 'at' does not fit the deadline context.",
+        "wrong_C": "Preposition 'on' is ungrammatical with this time phrase."
+      },
+      "cz_learning_point": "Deadline prepositions: 'by Friday' = nejpozději do pátku. Do not confuse with 'until' (až do).",
+      "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
+    },
+    {
+      "id": "TTR-SALES-A2-017-Q8",
+      "prompt": "The export consignment must clear customs _____ Friday afternoon to meet the vessel sailing date.",
+      "options": [
+        {
+          "key": "A",
+          "text": "after"
+        },
+        {
+          "key": "B",
+          "text": "by"
+        },
+        {
+          "key": "C",
+          "text": "at"
+        },
+        {
+          "key": "D",
+          "text": "on"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Preposition 'after' correctly expresses the required time deadline or constraint.",
+        "wrong_B": "Preposition 'by' expresses incorrect temporal relationship.",
+        "wrong_C": "Preposition 'at' does not fit the deadline context.",
+        "wrong_D": "Preposition 'on' is ungrammatical with this time phrase."
+      },
+      "cz_learning_point": "Deadline prepositions: 'by Friday' = nejpozději do pátku. Do not confuse with 'until' (až do).",
+      "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
+    },
+    {
+      "id": "TTR-SALES-A2-017-Q9",
+      "prompt": "The export consignment must clear customs _____ Friday afternoon to meet the vessel sailing date.",
+      "options": [
+        {
+          "key": "A",
+          "text": "by"
+        },
+        {
+          "key": "B",
+          "text": "at"
+        },
+        {
+          "key": "C",
+          "text": "within"
+        },
+        {
+          "key": "D",
+          "text": "on"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Preposition 'within' correctly expresses the required time deadline or constraint.",
+        "wrong_A": "Preposition 'by' expresses incorrect temporal relationship.",
+        "wrong_B": "Preposition 'at' does not fit the deadline context.",
+        "wrong_D": "Preposition 'on' is ungrammatical with this time phrase."
+      },
+      "cz_learning_point": "Deadline prepositions: 'by Friday' = nejpozději do pátku. Do not confuse with 'until' (až do).",
+      "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
+    },
+    {
+      "id": "TTR-SALES-A2-017-Q10",
+      "prompt": "The export consignment must clear customs _____ Friday afternoon to meet the vessel sailing date.",
+      "options": [
+        {
+          "key": "A",
+          "text": "by"
+        },
+        {
+          "key": "B",
+          "text": "throughout"
+        },
+        {
+          "key": "C",
+          "text": "at"
+        },
+        {
+          "key": "D",
+          "text": "on"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Preposition 'throughout' correctly expresses the required time deadline or constraint.",
+        "wrong_A": "Preposition 'by' expresses incorrect temporal relationship.",
+        "wrong_C": "Preposition 'at' does not fit the deadline context.",
+        "wrong_D": "Preposition 'on' is ungrammatical with this time phrase."
+      },
+      "cz_learning_point": "Deadline prepositions: 'by Friday' = nejpozději do pátku. Do not confuse with 'until' (až do).",
+      "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
+    }
+  ]
+}

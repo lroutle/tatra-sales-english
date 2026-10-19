@@ -1,0 +1,326 @@
+{
+  "test_id": "TTR-SALES-B1-001",
+  "title": "Spare Parts Dispatch & Export Clearance: Present Perfect vs Past Simple",
+  "level": "B1",
+  "category": "core",
+  "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)",
+  "estimated_time_minutes": 15,
+  "description": "Differentiate finished past time from ongoing status up to the present when updating foreign dealerships on consignments, customs clearances, and delivery milestones.",
+  "learning_objectives": [
+    "Distinguish Present Perfect with indefinite/unfinished time from Past Simple with definite past dates",
+    "Eliminate Czenglish transfer with 'since' and 'already'",
+    "Communicate accurate logistics milestones to overseas truck dealers"
+  ],
+  "questions": [
+    {
+      "id": "TTR-SALES-B1-001-Q1",
+      "prompt": "Our logistics coordinator _____ the bill of lading to the Australian dealer yesterday afternoon.",
+      "options": [
+        {
+          "key": "A",
+          "text": "has emailed"
+        },
+        {
+          "key": "B",
+          "text": "emailed"
+        },
+        {
+          "key": "C",
+          "text": "is emailing"
+        },
+        {
+          "key": "D",
+          "text": "has been emailing"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "With a specific completed time reference ('yesterday afternoon'), English strictly requires Past Simple ('emailed').",
+        "wrong_A": "Present Perfect cannot co-occur with specific past time indicators like 'yesterday afternoon'.",
+        "wrong_C": "Present Continuous refers to current or future scheduled action, not yesterday's finished dispatch.",
+        "wrong_D": "Present Perfect Continuous cannot be used with a closed past time adverbial."
+      },
+      "cz_learning_point": "Czech speakers often overuse Present Perfect when an action feels recent, saying 'has emailed yesterday'. In English, 'yesterday' always triggers Past Simple.",
+      "workplace_track": "Export Logistics & Incoterms 2020"
+    },
+    {
+      "id": "TTR-SALES-B1-001-Q2",
+      "prompt": "We _____ with this Polish defense distributor since 2017, and our partnership remains very strong.",
+      "options": [
+        {
+          "key": "A",
+          "text": "work"
+        },
+        {
+          "key": "B",
+          "text": "are working"
+        },
+        {
+          "key": "C",
+          "text": "have worked"
+        },
+        {
+          "key": "D",
+          "text": "worked"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "For a state or action starting in the past and continuing up to the present with 'since', Present Perfect ('have worked') is required.",
+        "wrong_A": "Present Simple cannot express duration continuing from a past point to the present.",
+        "wrong_B": "Present Continuous cannot be used with 'since 2017' to express long-term duration.",
+        "wrong_D": "Past Simple ('worked') implies the partnership has already ended, contradicting 'remains very strong'."
+      },
+      "cz_learning_point": "Czech uses Present Simple with 'od' ('Pracujeme s nimi od roku 2017'). Translating this as 'We work with them since 2017' is one of the most frequent Czenglish errors.",
+      "workplace_track": "Export Logistics & Incoterms 2020"
+    },
+    {
+      "id": "TTR-SALES-B1-001-Q3",
+      "prompt": "\"_____ the sea freight forwarder yet regarding the delayed shipping container?\"",
+      "options": [
+        {
+          "key": "A",
+          "text": "Have you contacted"
+        },
+        {
+          "key": "B",
+          "text": "Did you contacted"
+        },
+        {
+          "key": "C",
+          "text": "Were you contact"
+        },
+        {
+          "key": "D",
+          "text": "Do you contacted"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "'Yet' in inquiries about unconfirmed actions up to the present requires Present Perfect ('Have you contacted').",
+        "wrong_B": "Double past error: auxiliary 'did' cannot take past form 'contacted'.",
+        "wrong_C": "Malformed interrogative construction.",
+        "wrong_D": "Auxiliary 'do' cannot take past participle 'contacted'."
+      },
+      "cz_learning_point": "Czech uses simple past ('Už jsi kontaktoval...?'). In English, 'yet' with an open time frame requires Present Perfect.",
+      "workplace_track": "Export Logistics & Incoterms 2020"
+    },
+    {
+      "id": "TTR-SALES-B1-001-Q4",
+      "prompt": "The container vessel carrying ten Tatra 4x4 cabins _____ in Hamburg two days ago.",
+      "options": [
+        {
+          "key": "A",
+          "text": "has docked"
+        },
+        {
+          "key": "B",
+          "text": "has been docking"
+        },
+        {
+          "key": "C",
+          "text": "is docked"
+        },
+        {
+          "key": "D",
+          "text": "docked"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "The time expression 'two days ago' specifies a completed past point, demanding Past Simple ('docked').",
+        "wrong_A": "'Ago' always demands Past Simple; Present Perfect ('has docked') is incorrect.",
+        "wrong_B": "Present Perfect Continuous is incompatible with 'two days ago'.",
+        "wrong_C": "'is docked' describes current state but clashes with 'two days ago'."
+      },
+      "cz_learning_point": "Time phrases with 'ago' ('před dvěma dny') in Czech use past tense; never use Present Perfect with 'ago' in English.",
+      "workplace_track": "Export Logistics & Incoterms 2020"
+    },
+    {
+      "id": "TTR-SALES-B1-001-Q5",
+      "prompt": "So far this quarter, Tatra _____ twenty-four Phoenix heavy-duty tippers to Scandinavia.",
+      "options": [
+        {
+          "key": "A",
+          "text": "delivered"
+        },
+        {
+          "key": "B",
+          "text": "delivers"
+        },
+        {
+          "key": "C",
+          "text": "has delivered"
+        },
+        {
+          "key": "D",
+          "text": "was delivering"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'So far this quarter' refers to an unfinished time period up to now, requiring Present Perfect ('has delivered').",
+        "wrong_A": "Past Simple would imply the quarter is finished and closed.",
+        "wrong_B": "Present Simple denotes general routine, not cumulative accomplishments to date.",
+        "wrong_D": "Past Continuous implies an interrupted past background action, not a total count."
+      },
+      "cz_learning_point": "Czech says 'Zatím v tomto čtvrtletí dodala' with past tense. In English, 'so far' strongly triggers Present Perfect.",
+      "workplace_track": "Export Logistics & Incoterms 2020"
+    },
+    {
+      "id": "TTR-SALES-B1-001-Q6",
+      "prompt": "When _____ the official purchase order for the spare swing half-axles?",
+      "options": [
+        {
+          "key": "A",
+          "text": "has the customer signed"
+        },
+        {
+          "key": "B",
+          "text": "did the customer sign"
+        },
+        {
+          "key": "C",
+          "text": "the customer signed"
+        },
+        {
+          "key": "D",
+          "text": "did the customer signed"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Questions beginning with 'When' ask for a specific point in time and therefore require Past Simple ('did the customer sign').",
+        "wrong_A": "'When' questions cannot use Present Perfect because they ask for a specific point in the past.",
+        "wrong_C": "Missing auxiliary verb 'did' in direct question word order.",
+        "wrong_D": "Double past error: auxiliary 'did' takes base form 'sign', not 'signed'."
+      },
+      "cz_learning_point": "Czechs frequently ask 'When have you signed...?' which is ungrammatical in standard English; always ask 'When did you sign...?'.",
+      "workplace_track": "Export Logistics & Incoterms 2020"
+    },
+    {
+      "id": "TTR-SALES-B1-001-Q7",
+      "prompt": "Our sales director is away from the office; he _____ to Abu Dhabi to attend the military vehicle expo.",
+      "options": [
+        {
+          "key": "A",
+          "text": "has been"
+        },
+        {
+          "key": "B",
+          "text": "went to"
+        },
+        {
+          "key": "C",
+          "text": "was gone"
+        },
+        {
+          "key": "D",
+          "text": "has gone"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "'Has gone' means he has traveled there and is still there now (away from office).",
+        "wrong_A": "'Has been' means he went and has already returned.",
+        "wrong_B": "'went to' does not explain the present result ('is away right now') as effectively without time reference.",
+        "wrong_C": "'was gone' denotes past absence rather than current whereabouts."
+      },
+      "cz_learning_point": "Czech uses 'odjel' for both situations; English differentiates 'has been' (returned) from 'has gone' (still there).",
+      "workplace_track": "Export Logistics & Incoterms 2020"
+    },
+    {
+      "id": "TTR-SALES-B1-001-Q8",
+      "prompt": "In May 2024, our procurement department _____ a new long-term supply agreement for Paccar engines.",
+      "options": [
+        {
+          "key": "A",
+          "text": "negotiated"
+        },
+        {
+          "key": "B",
+          "text": "has negotiated"
+        },
+        {
+          "key": "C",
+          "text": "had negotiate"
+        },
+        {
+          "key": "D",
+          "text": "was negotiate"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "'In May 2024' specifies a past closed period, requiring Past Simple ('negotiated').",
+        "wrong_B": "Present Perfect cannot accompany past calendar dates like 'In May 2024'.",
+        "wrong_C": "Invalid verb form.",
+        "wrong_D": "Syntactically invalid construction."
+      },
+      "cz_learning_point": "Whenever a past month or year is stated, always select Past Simple, never Present Perfect.",
+      "workplace_track": "Export Logistics & Incoterms 2020"
+    },
+    {
+      "id": "TTR-SALES-B1-001-Q9",
+      "prompt": "I can confirm that the export customs documents _____ already _____ by the financial authority.",
+      "options": [
+        {
+          "key": "A",
+          "text": "were / clear"
+        },
+        {
+          "key": "B",
+          "text": "are / cleared"
+        },
+        {
+          "key": "C",
+          "text": "have / been cleared"
+        },
+        {
+          "key": "D",
+          "text": "did / cleared"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Present Perfect Passive ('have already been cleared') expresses current validity and completed status.",
+        "wrong_A": "'were clear' is active or adjectival and does not represent the passive action of clearance.",
+        "wrong_B": "'are cleared' is less natural with 'already' when confirming recent completion.",
+        "wrong_D": "Auxiliary 'did' cannot form passive voice."
+      },
+      "cz_learning_point": "Czech uses passive participle or active reflexive ('už byly procleny' or 'už se proclily'). English technical emails favor Present Perfect Passive.",
+      "workplace_track": "Export Logistics & Incoterms 2020"
+    },
+    {
+      "id": "TTR-SALES-B1-001-Q10",
+      "prompt": "Our technical service team _____ any unresolved customer claims this month.",
+      "options": [
+        {
+          "key": "A",
+          "text": "did not received"
+        },
+        {
+          "key": "B",
+          "text": "has not received"
+        },
+        {
+          "key": "C",
+          "text": "does not received"
+        },
+        {
+          "key": "D",
+          "text": "was not received"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'This month' is an ongoing time period, so Present Perfect ('has not received') is required.",
+        "wrong_A": "Double past error: auxiliary 'did' takes base verb 'receive', not 'received'.",
+        "wrong_C": "'does not' requires base verb 'receive'.",
+        "wrong_D": "Passive voice 'was not received' would mean the team itself was not received."
+      },
+      "cz_learning_point": "When the time period ('this month', 'this week', 'today') is still ongoing, English uses Present Perfect.",
+      "workplace_track": "Export Logistics & Incoterms 2020"
+    }
+  ]
+}

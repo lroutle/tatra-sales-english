@@ -1,0 +1,326 @@
+{
+  "test_id": "TTR-SALES-A2-003",
+  "title": "Trade Fairs & Client Negotiations: Past Simple",
+  "level": "A2",
+  "category": "core",
+  "workplace_track": "Commercial Negotiation & Payment Milestones",
+  "estimated_time_minutes": 10,
+  "description": "Report trade fair meetings (IDET Brno, Eurosatory Paris) and past sales discussions with foreign partners.",
+  "learning_objectives": [
+    "Use Past Simple regular and irregular verbs (met, spoke, agreed, showed)",
+    "Summarize past commercial negotiations and trade fair contacts",
+    "Avoid present tense confusion when discussing past trade events"
+  ],
+  "questions": [
+    {
+      "id": "TTR-SALES-A2-003-Q1",
+      "prompt": "Last week, our sales team _____ with delegates from the UAE defense ministry at IDET.",
+      "options": [
+        {
+          "key": "A",
+          "text": "meet"
+        },
+        {
+          "key": "B",
+          "text": "met"
+        },
+        {
+          "key": "C",
+          "text": "meeted"
+        },
+        {
+          "key": "D",
+          "text": "was meet"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Irregular past tense of 'meet' is 'met'.",
+        "wrong_A": "'meet' is present tense.",
+        "wrong_C": "'meeted' is invalid irregular morphology.",
+        "wrong_D": "Ungrammatical."
+      },
+      "cz_learning_point": "Czech 'Náš tým se setkal...'. Irregular verb: 'meet $\\rightarrow$ met'.",
+      "workplace_track": "International Sales & Customer Inquiries"
+    },
+    {
+      "id": "TTR-SALES-A2-003-Q2",
+      "prompt": "We _____ the prototype 8x8 chassis with the armored cab at Eurosatory in Paris.",
+      "options": [
+        {
+          "key": "A",
+          "text": "show"
+        },
+        {
+          "key": "B",
+          "text": "are show"
+        },
+        {
+          "key": "C",
+          "text": "showed"
+        },
+        {
+          "key": "D",
+          "text": "showing"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Regular past tense is 'showed'.",
+        "wrong_A": "'show' is present.",
+        "wrong_B": "Ungrammatical.",
+        "wrong_D": "Participle alone cannot be verb."
+      },
+      "cz_learning_point": "Czech 'Vystavovali jsme / předvedli jsme...'. Use Past Simple 'showed'.",
+      "workplace_track": "International Sales & Customer Inquiries"
+    },
+    {
+      "id": "TTR-SALES-A2-003-Q3",
+      "prompt": "The foreign client _____ keen interest in our swinging half-axle technology.",
+      "options": [
+        {
+          "key": "A",
+          "text": "expressed"
+        },
+        {
+          "key": "B",
+          "text": "express"
+        },
+        {
+          "key": "C",
+          "text": "was express"
+        },
+        {
+          "key": "D",
+          "text": "expressing"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Regular past tense is 'expressed'.",
+        "wrong_B": "'express' is present.",
+        "wrong_C": "Ungrammatical.",
+        "wrong_D": "Participle alone cannot be verb."
+      },
+      "cz_learning_point": "Czech 'Klient vyjádřil velký zájem'. Use Past Simple 'expressed'.",
+      "workplace_track": "International Sales & Customer Inquiries"
+    },
+    {
+      "id": "TTR-SALES-A2-003-Q4",
+      "prompt": "_____ the Polish dealer agree to the minimum annual order volume?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Were"
+        },
+        {
+          "key": "B",
+          "text": "Do"
+        },
+        {
+          "key": "C",
+          "text": "Have"
+        },
+        {
+          "key": "D",
+          "text": "Did"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Past Simple questions take auxiliary 'Did' + base verb 'agree'.",
+        "wrong_A": "'Were' cannot pair with bare verb 'agree'.",
+        "wrong_B": "'Do' is present.",
+        "wrong_C": "'Have' requires past participle 'agreed'."
+      },
+      "cz_learning_point": "Czech 'Souhlasil polský dealer s...?'. In past questions, use 'Did the dealer agree...'.",
+      "workplace_track": "International Sales & Customer Inquiries"
+    },
+    {
+      "id": "TTR-SALES-A2-003-Q5",
+      "prompt": "The customer _____ our technical proposal because delivery time was too long.",
+      "options": [
+        {
+          "key": "A",
+          "text": "reject"
+        },
+        {
+          "key": "B",
+          "text": "was reject"
+        },
+        {
+          "key": "C",
+          "text": "rejected"
+        },
+        {
+          "key": "D",
+          "text": "rejecting"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Regular past tense is 'rejected'.",
+        "wrong_A": "'reject' is present.",
+        "wrong_B": "Ungrammatical.",
+        "wrong_D": "Participle alone cannot be verb."
+      },
+      "cz_learning_point": "Czech 'Zákazník zamítl naši nabídku'. Use Past Simple 'rejected'.",
+      "workplace_track": "International Sales & Customer Inquiries"
+    },
+    {
+      "id": "TTR-SALES-A2-003-Q6",
+      "prompt": "We _____ two commercial contracts with Scandinavian forestry operators yesterday.",
+      "options": [
+        {
+          "key": "A",
+          "text": "sign"
+        },
+        {
+          "key": "B",
+          "text": "signed"
+        },
+        {
+          "key": "C",
+          "text": "are signed"
+        },
+        {
+          "key": "D",
+          "text": "signing"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Regular past tense is 'signed'.",
+        "wrong_A": "'sign' is present.",
+        "wrong_C": "'are signed' is present passive.",
+        "wrong_D": "Participle alone cannot be verb."
+      },
+      "cz_learning_point": "Czech 'Včera jsme podepsali dvě smlouvy'. Use Past Simple 'signed'.",
+      "workplace_track": "International Sales & Customer Inquiries"
+    },
+    {
+      "id": "TTR-SALES-A2-003-Q7",
+      "prompt": "Why _____ the client request an extension on the tender submission deadline?",
+      "options": [
+        {
+          "key": "A",
+          "text": "does"
+        },
+        {
+          "key": "B",
+          "text": "is"
+        },
+        {
+          "key": "C",
+          "text": "was"
+        },
+        {
+          "key": "D",
+          "text": "did"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Past Simple question requires auxiliary 'did': 'Why did the client request...'.",
+        "wrong_A": "'does' is present.",
+        "wrong_B": "'is' is present.",
+        "wrong_C": "'was' cannot pair with bare base verb 'request'."
+      },
+      "cz_learning_point": "Czech 'Proč klient požádal o prodloužení?'. Use auxiliary 'did'.",
+      "workplace_track": "International Sales & Customer Inquiries"
+    },
+    {
+      "id": "TTR-SALES-A2-003-Q8",
+      "prompt": "Our export director _____ directly with the defense procurement minister in Warsaw.",
+      "options": [
+        {
+          "key": "A",
+          "text": "spoke"
+        },
+        {
+          "key": "B",
+          "text": "speak"
+        },
+        {
+          "key": "C",
+          "text": "speaked"
+        },
+        {
+          "key": "D",
+          "text": "was speak"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Irregular past tense of 'speak' is 'spoke'.",
+        "wrong_B": "'speak' is present.",
+        "wrong_C": "'speaked' is incorrect irregular morphology.",
+        "wrong_D": "Ungrammatical."
+      },
+      "cz_learning_point": "Czech 'Ředitel hovořil přímo s...'. Irregular verb: 'speak $\\rightarrow$ spoke'.",
+      "workplace_track": "International Sales & Customer Inquiries"
+    },
+    {
+      "id": "TTR-SALES-A2-003-Q9",
+      "prompt": "The dealer _____ not provide the required bank guarantee before the contract expired.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was"
+        },
+        {
+          "key": "B",
+          "text": "is"
+        },
+        {
+          "key": "C",
+          "text": "did"
+        },
+        {
+          "key": "D",
+          "text": "does"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Past negative takes 'did not provide'.",
+        "wrong_A": "'was not provide' is ungrammatical.",
+        "wrong_B": "'is' is present.",
+        "wrong_D": "'does' is present."
+      },
+      "cz_learning_point": "Czech 'Dealer neposkytl záruku'. Use 'did not provide'.",
+      "workplace_track": "Commercial Contracts & Incoterms 2020"
+    },
+    {
+      "id": "TTR-SALES-A2-003-Q10",
+      "prompt": "At the Paris defense expo, we _____ over 50 qualified business leads.",
+      "options": [
+        {
+          "key": "A",
+          "text": "gather"
+        },
+        {
+          "key": "B",
+          "text": "gathered"
+        },
+        {
+          "key": "C",
+          "text": "are gather"
+        },
+        {
+          "key": "D",
+          "text": "gathering"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Regular past tense is 'gathered'.",
+        "wrong_A": "'gather' is present.",
+        "wrong_C": "Ungrammatical.",
+        "wrong_D": "Participle alone cannot be verb."
+      },
+      "cz_learning_point": "Czech 'Získali jsme přes 50 kontaktů'. Use Past Simple 'gathered'.",
+      "workplace_track": "International Sales & Customer Inquiries"
+    }
+  ]
+}

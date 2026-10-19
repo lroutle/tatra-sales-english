@@ -1,0 +1,326 @@
+{
+  "test_id": "TTR-SALES-SP-001",
+  "title": "Professional Negotiation Idioms & Incoterms 2020 Definitions",
+  "level": "B1/B2",
+  "category": "specialized",
+  "workplace_track": "Export Logistics & Incoterms 2020",
+  "estimated_time_minutes": 15,
+  "description": "Master nuanced business idioms used during international automotive fleet sales, dealer conferences, and cross-border commercial bargaining.",
+  "learning_objectives": [
+    "Deploy idiomatic business metaphors with confidence in meetings and negotiations",
+    "Avoid literal translations of Czech idioms into English commercial discussions",
+    "Understand idiomatic nuances used by international fleet buyers and military procurement officials"
+  ],
+  "questions": [
+    {
+      "id": "TTR-SALES-SP-001-Q1",
+      "prompt": "We have submitted our best possible CIF pricing; now the _____ is in their court to finalize the contract.",
+      "options": [
+        {
+          "key": "A",
+          "text": "truck"
+        },
+        {
+          "key": "B",
+          "text": "ball"
+        },
+        {
+          "key": "C",
+          "text": "card"
+        },
+        {
+          "key": "D",
+          "text": "game"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'The ball is in their court' is a classic negotiation idiom meaning it is now their responsibility or turn to take action.",
+        "wrong_A": "Literal replacement that ruins the idiomatic expression.",
+        "wrong_C": "Non-standard phrase.",
+        "wrong_D": "Incorrect metaphor."
+      },
+      "cz_learning_point": "Czech says 'míč je na jejich straně hřiště'. In English, the exact idiom is 'the ball is in their court'.",
+      "workplace_track": "Export Logistics & Incoterms 2020"
+    },
+    {
+      "id": "TTR-SALES-SP-001-Q2",
+      "prompt": "To _____ the deal for the municipal fire department, we included three years of free spare parts and oil filters.",
+      "options": [
+        {
+          "key": "A",
+          "text": "sugar"
+        },
+        {
+          "key": "B",
+          "text": "soften"
+        },
+        {
+          "key": "C",
+          "text": "sweeten"
+        },
+        {
+          "key": "D",
+          "text": "grease"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'Sweeten the deal' means to add extra incentives or perks to make a commercial proposal more attractive to the buyer.",
+        "wrong_A": "'Sugar the deal' is non-standard.",
+        "wrong_B": "'Soften the deal' means to make terms less harsh, not add attractive bonuses.",
+        "wrong_D": "'Grease' (e.g. grease palms) implies bribery, which is completely inappropriate."
+      },
+      "cz_learning_point": "Czech 'osladit / vylepšit nabídku' translates to 'sweeten the deal' or 'sweeten the pot'.",
+      "workplace_track": "Export Logistics & Incoterms 2020"
+    },
+    {
+      "id": "TTR-SALES-SP-001-Q3",
+      "prompt": "Both legal teams spent four hours in the boardroom trying to _____ out the kinks in the intellectual property licensing agreement.",
+      "options": [
+        {
+          "key": "A",
+          "text": "iron"
+        },
+        {
+          "key": "B",
+          "text": "hammer"
+        },
+        {
+          "key": "C",
+          "text": "weld"
+        },
+        {
+          "key": "D",
+          "text": "file"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "'Iron out the kinks' (or 'iron out wrinkles/details') means to resolve small remaining problems or complications.",
+        "wrong_B": "The phrase is 'hammer out an agreement', but with 'kinks' the fixed collocation is 'iron out'.",
+        "wrong_C": "Literal welding metaphor not found in this idiom.",
+        "wrong_D": "Incorrect verb."
+      },
+      "cz_learning_point": "Czech 'vychytat mouchy / vyhladit nesrovnalosti' is translated idiomatically as 'iron out the kinks'.",
+      "workplace_track": "Export Logistics & Incoterms 2020"
+    },
+    {
+      "id": "TTR-SALES-SP-001-Q4",
+      "prompt": "Let's stop discussing minor administrative details and get down to _____ tacks: what is the bottom-line price per vehicle?",
+      "options": [
+        {
+          "key": "A",
+          "text": "copper"
+        },
+        {
+          "key": "B",
+          "text": "steel"
+        },
+        {
+          "key": "C",
+          "text": "iron"
+        },
+        {
+          "key": "D",
+          "text": "brass"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "'Get down to brass tacks' is a well-known English idiom meaning to focus on the essential facts or core issues.",
+        "wrong_A": "Incorrect metal.",
+        "wrong_B": "Incorrect metal.",
+        "wrong_C": "Incorrect metal."
+      },
+      "cz_learning_point": "Czech 'přejít k jádru pudla / k věci' translates idiomatically to 'get down to brass tacks'.",
+      "workplace_track": "Export Logistics & Incoterms 2020"
+    },
+    {
+      "id": "TTR-SALES-SP-001-Q5",
+      "prompt": "Neither side was willing to compromise on delivery penalty rates, and the negotiations reached a complete _____.",
+      "options": [
+        {
+          "key": "A",
+          "text": "check"
+        },
+        {
+          "key": "B",
+          "text": "blockade"
+        },
+        {
+          "key": "C",
+          "text": "stalemate"
+        },
+        {
+          "key": "D",
+          "text": "deadlock-end"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'Reach a stalemate' (or 'reach an impasse / deadlock') means reaching a situation where neither side can make progress.",
+        "wrong_A": "'Check' is a chess threat, not a stalemate.",
+        "wrong_B": "'Blockade' refers to military naval cordons.",
+        "wrong_D": "Malformed compound."
+      },
+      "cz_learning_point": "Czech 'patová situace' translates to 'stalemate' (e.g. 'reach a stalemate' or 'end in stalemate').",
+      "workplace_track": "Export Logistics & Incoterms 2020"
+    },
+    {
+      "id": "TTR-SALES-SP-001-Q6",
+      "prompt": "Before we sign the final distribution agreement, I want to touch _____ with our homologation engineer regarding local emissions.",
+      "options": [
+        {
+          "key": "A",
+          "text": "ground"
+        },
+        {
+          "key": "B",
+          "text": "base"
+        },
+        {
+          "key": "C",
+          "text": "flange"
+        },
+        {
+          "key": "D",
+          "text": "wire"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'Touch base with [someone]' means to make brief contact or confer with someone to update status.",
+        "wrong_A": "'Touch ground' is literal aviation contact.",
+        "wrong_C": "Mechanical part, not an idiom.",
+        "wrong_D": "'Touch wire' is non-idiomatic."
+      },
+      "cz_learning_point": "Czech 'spojit se s někým / krátce to zkonzultovat' is very commonly expressed in corporate English as 'touch base'.",
+      "workplace_track": "Export Logistics & Incoterms 2020"
+    },
+    {
+      "id": "TTR-SALES-SP-001-Q7",
+      "prompt": "Our sales team was caught off _____ when the competitor announced a 10-year chassis warranty at the trade fair.",
+      "options": [
+        {
+          "key": "A",
+          "text": "hand"
+        },
+        {
+          "key": "B",
+          "text": "track"
+        },
+        {
+          "key": "C",
+          "text": "step"
+        },
+        {
+          "key": "D",
+          "text": "guard"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "'Caught off guard' means surprised and unprepared for an unexpected development.",
+        "wrong_A": "'Off hand' means impromptu or without prior thought.",
+        "wrong_B": "'Off track' means diverted from the subject.",
+        "wrong_C": "'Off step' is non-standard."
+      },
+      "cz_learning_point": "Czech 'být zaskočen / nachytán na švestkách' translates to 'be caught off guard'.",
+      "workplace_track": "Export Logistics & Incoterms 2020"
+    },
+    {
+      "id": "TTR-SALES-SP-001-Q8",
+      "prompt": "If we want to close this defense deal before fiscal year-end, we need to _____ a compromise that satisfies both ministries.",
+      "options": [
+        {
+          "key": "A",
+          "text": "hammer out"
+        },
+        {
+          "key": "B",
+          "text": "knock off"
+        },
+        {
+          "key": "C",
+          "text": "cut out"
+        },
+        {
+          "key": "D",
+          "text": "break down"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "'Hammer out a compromise / agreement' means to negotiate persistently until a mutually acceptable solution is forged.",
+        "wrong_B": "'Knock off' means reduce price or stop working.",
+        "wrong_C": "'Cut out' means eliminate.",
+        "wrong_D": "'Break down' means collapse or fail mechanically."
+      },
+      "cz_learning_point": "Czech 'vyjednat po těžkém boji kompromis' is expressed as 'hammer out a compromise'.",
+      "workplace_track": "Export Logistics & Incoterms 2020"
+    },
+    {
+      "id": "TTR-SALES-SP-001-Q9",
+      "prompt": "The foreign dealer was clearly playing his cards close to his _____ during the pricing negotiations.",
+      "options": [
+        {
+          "key": "A",
+          "text": "head"
+        },
+        {
+          "key": "B",
+          "text": "table"
+        },
+        {
+          "key": "C",
+          "text": "chest"
+        },
+        {
+          "key": "D",
+          "text": "sleeves"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'Play cards close to one's chest' means to be very secretive and cautious about revealing one's plans or real intentions.",
+        "wrong_A": "Incorrect anatomy.",
+        "wrong_B": "Playing on the table means open transparency (opposite meaning).",
+        "wrong_D": "Having something up one's sleeve is a secret trick, but the idiom with cards close is 'chest'."
+      },
+      "cz_learning_point": "Czech 'neodkrývat karty / držet karty při těle' translates to 'play one's cards close to one's chest'.",
+      "workplace_track": "Export Logistics & Incoterms 2020"
+    },
+    {
+      "id": "TTR-SALES-SP-001-Q10",
+      "prompt": "I will send a follow-up email tomorrow morning to close the _____ on all unanswered technical questions.",
+      "options": [
+        {
+          "key": "A",
+          "text": "circle"
+        },
+        {
+          "key": "B",
+          "text": "loop"
+        },
+        {
+          "key": "C",
+          "text": "ring"
+        },
+        {
+          "key": "D",
+          "text": "circuit"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'Close the loop' means to finalize, resolve, and confirm the conclusion of an open communication or task.",
+        "wrong_A": "'Close the circle' is a geometric phrase.",
+        "wrong_C": "'Ring' is not part of this idiom.",
+        "wrong_D": "'Close the circuit' is an electrical action, not an organizational communication idiom."
+      },
+      "cz_learning_point": "Czech 'dotáhnout věc do konce a potvrdit to' is idiomatically 'close the loop'.",
+      "workplace_track": "Export Logistics & Incoterms 2020"
+    }
+  ]
+}

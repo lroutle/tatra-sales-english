@@ -1,0 +1,326 @@
+{
+  "test_id": "TTR-SALES-A2-002",
+  "title": "Polite Email Requests to Foreign Dealers: Can, Could & Please",
+  "level": "A2",
+  "category": "core",
+  "workplace_track": "Polite Business Communication & Dealership Correspondence",
+  "estimated_time_minutes": 10,
+  "description": "Compose polite, clear email requests to international truck distributors regarding order confirmations and vehicle specs.",
+  "learning_objectives": [
+    "Use polite request modals: Could you please, Can you send",
+    "Structure polite professional opening and closing phrases",
+    "Avoid overly blunt imperative commands in customer communications"
+  ],
+  "questions": [
+    {
+      "id": "TTR-SALES-A2-002-Q1",
+      "prompt": "Dear Mr. Schmidt, _____ you please send us the updated chassis delivery address?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Can to"
+        },
+        {
+          "key": "B",
+          "text": "Could"
+        },
+        {
+          "key": "C",
+          "text": "Are"
+        },
+        {
+          "key": "D",
+          "text": "Do"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Polite email request formula takes 'Could you please + base verb': 'Could you please send'.",
+        "wrong_A": "'Can to' is ungrammatical.",
+        "wrong_C": "'Are' requires continuous -ing.",
+        "wrong_D": "'Do' is not a polite request modal here."
+      },
+      "cz_learning_point": "Czech 'Mohl byste nám prosím poslat...?'. Standard polite business inquiry: 'Could you please send us...'.",
+      "workplace_track": "International Sales & Customer Inquiries"
+    },
+    {
+      "id": "TTR-SALES-A2-002-Q2",
+      "prompt": "Please _____ the attached proforma invoice for the five military chassis units.",
+      "options": [
+        {
+          "key": "A",
+          "text": "finding"
+        },
+        {
+          "key": "B",
+          "text": "to find"
+        },
+        {
+          "key": "C",
+          "text": "find"
+        },
+        {
+          "key": "D",
+          "text": "finds"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Polite request with 'Please' takes base verb form: 'Please find'.",
+        "wrong_A": "'-ing' cannot follow 'Please'.",
+        "wrong_B": "Infinitive with 'to' cannot follow 'Please'.",
+        "wrong_D": "'-s' form is incorrect."
+      },
+      "cz_learning_point": "Czech 'V příloze naleznete...'. Standard formula: 'Please find the attached invoice'.",
+      "workplace_track": "International Sales & Customer Inquiries"
+    },
+    {
+      "id": "TTR-SALES-A2-002-Q3",
+      "prompt": "Could you confirm if the customer _____ right-hand drive or left-hand drive cabs?",
+      "options": [
+        {
+          "key": "A",
+          "text": "requires"
+        },
+        {
+          "key": "B",
+          "text": "require"
+        },
+        {
+          "key": "C",
+          "text": "is require"
+        },
+        {
+          "key": "D",
+          "text": "requiring"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Singular subject 'the customer' takes 3rd person -s: 'requires'.",
+        "wrong_B": "'require' lacks 3rd person -s.",
+        "wrong_C": "Ungrammatical.",
+        "wrong_D": "Participle alone cannot be verb."
+      },
+      "cz_learning_point": "Czech 'Zda zákazník požaduje...'. Singular customer takes '-s': 'requires'.",
+      "workplace_track": "International Sales & Customer Inquiries"
+    },
+    {
+      "id": "TTR-SALES-A2-002-Q4",
+      "prompt": "We _____ forward the full technical datasheet by 15:00 today.",
+      "options": [
+        {
+          "key": "A",
+          "text": "can to"
+        },
+        {
+          "key": "B",
+          "text": "are"
+        },
+        {
+          "key": "C",
+          "text": "do"
+        },
+        {
+          "key": "D",
+          "text": "can"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Capability/willingness modal takes bare verb: 'can forward'.",
+        "wrong_A": "'can to' is ungrammatical.",
+        "wrong_B": "'are' cannot pair with base verb 'forward'.",
+        "wrong_C": "'do' is emphatic."
+      },
+      "cz_learning_point": "Czech 'Můžeme přeposlat...'. Modal 'can' takes bare base verb without 'to': 'can forward'.",
+      "workplace_track": "International Sales & Customer Inquiries"
+    },
+    {
+      "id": "TTR-SALES-A2-002-Q5",
+      "prompt": "Please let me know if you _____ any further assistance with the tender documentation.",
+      "options": [
+        {
+          "key": "A",
+          "text": "are need"
+        },
+        {
+          "key": "B",
+          "text": "needs"
+        },
+        {
+          "key": "C",
+          "text": "need"
+        },
+        {
+          "key": "D",
+          "text": "needing"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Pronoun 'you' takes base verb 'need'.",
+        "wrong_A": "Ungrammatical.",
+        "wrong_B": "'needs' is 3rd person singular.",
+        "wrong_D": "Participle alone cannot be verb."
+      },
+      "cz_learning_point": "Czech 'pokud potřebujete jakoukoliv pomoc'. Standard email formula: 'if you need any assistance'.",
+      "workplace_track": "International Sales & Customer Inquiries"
+    },
+    {
+      "id": "TTR-SALES-A2-002-Q6",
+      "prompt": "_____ you like us to schedule a Teams video call with our chief suspension engineer?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Do"
+        },
+        {
+          "key": "B",
+          "text": "Would"
+        },
+        {
+          "key": "C",
+          "text": "Could"
+        },
+        {
+          "key": "D",
+          "text": "Can"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Polite offer formula is 'Would you like [someone] to [verb]'.",
+        "wrong_A": "'Do you like' asks about general preference, not an offer.",
+        "wrong_C": "'Could you like' is ungrammatical.",
+        "wrong_D": "'Can you like' is ungrammatical."
+      },
+      "cz_learning_point": "Czech 'Přáli byste si, abychom naplánovali...?'. Polite offer takes 'Would you like us to schedule...'.",
+      "workplace_track": "International Sales & Customer Inquiries"
+    },
+    {
+      "id": "TTR-SALES-A2-002-Q7",
+      "prompt": "I look forward to _____ from you regarding the dealer agreement contract.",
+      "options": [
+        {
+          "key": "A",
+          "text": "hear"
+        },
+        {
+          "key": "B",
+          "text": "heard"
+        },
+        {
+          "key": "C",
+          "text": "be hear"
+        },
+        {
+          "key": "D",
+          "text": "hearing"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Prepositional idiom 'look forward to' must be followed by gerund (-ing): 'to hearing'.",
+        "wrong_A": "'hear' is a frequent Czenglish error following 'to'.",
+        "wrong_B": "'heard' is past tense.",
+        "wrong_C": "Ungrammatical."
+      },
+      "cz_learning_point": "Czech 'Těším se na vaši zprávu'. 'Look forward to' is a preposition $\\rightarrow$ requires '-ing': 'look forward to hearing from you'.",
+      "workplace_track": "International Sales & Customer Inquiries"
+    },
+    {
+      "id": "TTR-SALES-A2-002-Q8",
+      "prompt": "Could you please inform us when the bank transfer _____ completed?",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "does"
+        },
+        {
+          "key": "C",
+          "text": "are"
+        },
+        {
+          "key": "D",
+          "text": "has"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Passive construction for completed state takes 'is completed'.",
+        "wrong_B": "'does' is auxiliary for active verbs.",
+        "wrong_C": "'are' is plural.",
+        "wrong_D": "'has' requires past participle 'been completed'."
+      },
+      "cz_learning_point": "Czech 'kdy bude převod dokončen'. Use 'when the transfer is completed'.",
+      "workplace_track": "International Sales & Customer Inquiries"
+    },
+    {
+      "id": "TTR-SALES-A2-002-Q9",
+      "prompt": "We are pleased to _____ you that the first three prototype trucks are ready for inspection.",
+      "options": [
+        {
+          "key": "A",
+          "text": "say"
+        },
+        {
+          "key": "B",
+          "text": "telling"
+        },
+        {
+          "key": "C",
+          "text": "inform"
+        },
+        {
+          "key": "D",
+          "text": "speech"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Formal business email formula: 'We are pleased to inform you that...'.",
+        "wrong_A": "'say you' is ungrammatical without 'to'.",
+        "wrong_B": "'-ing' cannot follow infinitive 'to'.",
+        "wrong_D": "'speech' is a noun."
+      },
+      "cz_learning_point": "Czech 'S potěšením vám oznamujeme'. Standard formula: 'pleased to inform you'.",
+      "workplace_track": "International Sales & Customer Inquiries"
+    },
+    {
+      "id": "TTR-SALES-A2-002-Q10",
+      "prompt": "Thank you for your inquiry; we will reply _____ your technical questions by Friday.",
+      "options": [
+        {
+          "key": "A",
+          "text": "at"
+        },
+        {
+          "key": "B",
+          "text": "to"
+        },
+        {
+          "key": "C",
+          "text": "on"
+        },
+        {
+          "key": "D",
+          "text": "for"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Verb 'reply' pairs strictly with preposition 'to': 'reply to your questions'.",
+        "wrong_A": "'reply at' is incorrect.",
+        "wrong_C": "'reply on' is a literal Czenglish error (*odpovědět na*).",
+        "wrong_D": "'reply for' is incorrect."
+      },
+      "cz_learning_point": "Czech 'odpovědět na dotazy'. Never say *reply on*. Always use 'reply TO your questions'.",
+      "workplace_track": "International Sales & Customer Inquiries"
+    }
+  ]
+}

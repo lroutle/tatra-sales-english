@@ -1,0 +1,802 @@
+[
+  {
+    "test_id": "TTR-SALES-A2-001",
+    "title": "Customer Inquiries, Vehicle Pricing & Stock: Present Simple",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Customer Inquiries, Quotations & Specifications",
+    "grammar_focus": "Present Simple for Vehicle Catalogs",
+    "estimated_time_minutes": 10,
+    "description": "Foundational sales English module covering customer inquiries, vehicle pricing & stock: present simple."
+  },
+  {
+    "test_id": "TTR-SALES-A2-002",
+    "title": "Polite Email Requests to Foreign Dealers: Can, Could & Please",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Polite Business Communication & Dealership Correspondence",
+    "grammar_focus": "Polite modals (could you, please, would)",
+    "estimated_time_minutes": 10,
+    "description": "Foundational sales English module covering polite email requests to foreign dealers: can, could & please."
+  },
+  {
+    "test_id": "TTR-SALES-A2-003",
+    "title": "Trade Fairs & Client Negotiations: Past Simple",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Commercial Negotiation & Payment Milestones",
+    "grammar_focus": "Past Simple for Meetings & Visits",
+    "estimated_time_minutes": 10,
+    "description": "Foundational sales English module covering trade fairs & client negotiations: past simple."
+  },
+  {
+    "test_id": "TTR-SALES-A2-004",
+    "title": "Truck Quantities, Weights & Prices: Numbers & Quantifiers",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Customer Inquiries, Quotations & Specifications",
+    "grammar_focus": "Numbers, Prices, Currencies & Quantifiers",
+    "estimated_time_minutes": 10,
+    "description": "Foundational sales English module covering truck quantities, weights & prices: numbers & quantifiers."
+  },
+  {
+    "test_id": "TTR-SALES-A2-005",
+    "title": "Delivery Deadlines & Shipping Schedules: Prepositions of Time",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)",
+    "grammar_focus": "Prepositions of Time (at, on, in, by)",
+    "estimated_time_minutes": 10,
+    "description": "Foundational sales English module covering delivery deadlines & shipping schedules: prepositions of time."
+  },
+  {
+    "test_id": "TTR-SALES-A2-006",
+    "title": "Booking Hotel & Airport Transfers for Foreign Delegations",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Polite Business Communication & Dealership Correspondence",
+    "grammar_focus": "Future with going to & Present Continuous",
+    "estimated_time_minutes": 10,
+    "description": "Foundational sales English module covering booking hotel & airport transfers for foreign delegations."
+  },
+  {
+    "test_id": "TTR-SALES-A2-007",
+    "title": "Product Catalog Inquiries: Chassis Configurations & Axle Ratios",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Customer Inquiries, Quotations & Specifications",
+    "grammar_focus": "Question Formation with Wh- Words",
+    "estimated_time_minutes": 10,
+    "description": "Foundational sales English module covering product catalog inquiries: chassis configurations & axle ratios."
+  },
+  {
+    "test_id": "TTR-SALES-A2-008",
+    "title": "Writing Quotation Follow-Up Emails to Prospective Buyers",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Customer Inquiries, Quotations & Specifications",
+    "grammar_focus": "Present Perfect with just & already",
+    "estimated_time_minutes": 10,
+    "description": "Foundational sales English module covering writing quotation follow-up emails to prospective buyers."
+  },
+  {
+    "test_id": "TTR-SALES-A2-009",
+    "title": "Confirming Spare Parts Orders & Invoice Totals",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Letters of Credit, Customs & Freight Documentation",
+    "grammar_focus": "Verbs of Confirmation & Simple Modals",
+    "estimated_time_minutes": 10,
+    "description": "Foundational sales English module covering confirming spare parts orders & invoice totals."
+  },
+  {
+    "test_id": "TTR-SALES-A2-010",
+    "title": "Dealing with Simple Delivery Delay Inquiries",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)",
+    "grammar_focus": "Apologetic Phrasing & Present Continuous",
+    "estimated_time_minutes": 10,
+    "description": "Foundational sales English module covering dealing with simple delivery delay inquiries."
+  },
+  {
+    "test_id": "TTR-SALES-A2-011",
+    "title": "Client Registration at the International Defense Expo",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Polite Business Communication & Dealership Correspondence",
+    "grammar_focus": "Articles (a, an, the) & Demonstratives",
+    "estimated_time_minutes": 10,
+    "description": "Foundational sales English module covering client registration at the international defense expo."
+  },
+  {
+    "test_id": "TTR-SALES-A2-012",
+    "title": "Basic Payment Terms: Wire Transfers & Proforma Invoices",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Commercial Negotiation & Payment Milestones",
+    "grammar_focus": "Imperatives & Polite Requests in Invoicing",
+    "estimated_time_minutes": 10,
+    "description": "Foundational sales English module covering basic payment terms: wire transfers & proforma invoices."
+  },
+  {
+    "test_id": "TTR-SALES-A2-013",
+    "title": "Explaining Warranty Duration & Standard Coverage Limits",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Customer Inquiries, Quotations & Specifications",
+    "grammar_focus": "Comparative Adjectives & Coverage Rules",
+    "estimated_time_minutes": 10,
+    "description": "Foundational sales English module covering explaining warranty duration & standard coverage limits."
+  },
+  {
+    "test_id": "TTR-SALES-A2-014",
+    "title": "Scheduling Online Video Demonstrations Across Time Zones",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Polite Business Communication & Dealership Correspondence",
+    "grammar_focus": "Time Expressions & Availability Formulas",
+    "estimated_time_minutes": 10,
+    "description": "Foundational sales English module covering scheduling online video demonstrations across time zones."
+  },
+  {
+    "test_id": "TTR-SALES-A2-015",
+    "title": "Foreign Dealership Contact Details & Directory Updates",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Polite Business Communication & Dealership Correspondence",
+    "grammar_focus": "Personal Pronouns & Possessive Forms",
+    "estimated_time_minutes": 10,
+    "description": "Foundational sales English module covering foreign dealership contact details & directory updates."
+  },
+  {
+    "test_id": "TTR-SALES-A2-016",
+    "title": "Truck Color, Cabin Options & Custom Paint Requests",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Customer Inquiries, Quotations & Specifications",
+    "grammar_focus": "Adjectives of Specification & Options",
+    "estimated_time_minutes": 10,
+    "description": "Foundational sales English module covering truck color, cabin options & custom paint requests."
+  },
+  {
+    "test_id": "TTR-SALES-A2-017",
+    "title": "Inquiring About Sea Freight Container Availability",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)",
+    "grammar_focus": "Polite Inquiries (Is there, Are there)",
+    "estimated_time_minutes": 10,
+    "description": "Foundational sales English module covering inquiring about sea freight container availability."
+  },
+  {
+    "test_id": "TTR-SALES-A2-018",
+    "title": "Handling Simple Pricing Objections on Base Chassis Models",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Commercial Negotiation & Payment Milestones",
+    "grammar_focus": "Concessive Connectors (but, although)",
+    "estimated_time_minutes": 10,
+    "description": "Foundational sales English module covering handling simple pricing objections on base chassis models."
+  },
+  {
+    "test_id": "TTR-SALES-A2-019",
+    "title": "Thank-You Notes Following Successful Factory Visits",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Polite Business Communication & Dealership Correspondence",
+    "grammar_focus": "Formal Appreciation Formulas",
+    "estimated_time_minutes": 10,
+    "description": "Foundational sales English module covering thank-you notes following successful factory visits."
+  },
+  {
+    "test_id": "TTR-SALES-A2-020",
+    "title": "Export Packaging Instructions for Humid Tropical Climates",
+    "level": "A2",
+    "category": "core",
+    "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)",
+    "grammar_focus": "Imperatives for Packing Guidelines",
+    "estimated_time_minutes": 10,
+    "description": "Foundational sales English module covering export packaging instructions for humid tropical climates."
+  },
+  {
+    "test_id": "TTR-SALES-B1-001",
+    "title": "Spare Parts Dispatch & Export Clearance: Present Perfect vs Past Simple",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)",
+    "grammar_focus": "Present Perfect vs Past Simple",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate sales and logistics module analyzing spare parts dispatch & export clearance: present perfect vs past simple."
+  },
+  {
+    "test_id": "TTR-SALES-B1-002",
+    "title": "Incoterms 2020 Obligations: EXW vs FCA vs DAP Risk Transfer",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)",
+    "grammar_focus": "Passive Voice & Responsibility Clauses",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate sales and logistics module analyzing incoterms 2020 obligations: exw vs fca vs dap risk transfer."
+  },
+  {
+    "test_id": "TTR-SALES-B1-003",
+    "title": "Letter of Credit (L/C) Discrepancy Rectification with Issuing Banks",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Letters of Credit, Customs & Freight Documentation",
+    "grammar_focus": "First Conditional & Temporal Clauses",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate sales and logistics module analyzing letter of credit (l/c) discrepancy rectification with issuing banks."
+  },
+  {
+    "test_id": "TTR-SALES-B1-004",
+    "title": "Dealership Margin & Annual Sales Target Negotiations",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Commercial Negotiation & Payment Milestones",
+    "grammar_focus": "Modals of Negotiation & Softening",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate sales and logistics module analyzing dealership margin & annual sales target negotiations."
+  },
+  {
+    "test_id": "TTR-SALES-B1-005",
+    "title": "Bill of Lading Amendments & Sea Freight Consignment Tracking",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Letters of Credit, Customs & Freight Documentation",
+    "grammar_focus": "Present Perfect Continuous (tracking duration)",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate sales and logistics module analyzing bill of lading amendments & sea freight consignment tracking."
+  },
+  {
+    "test_id": "TTR-SALES-B1-006",
+    "title": "Government Fleet Tender Submission Checklist & Compliance Sheets",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)",
+    "grammar_focus": "Relative Clauses in Tender Criteria",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate sales and logistics module analyzing government fleet tender submission checklist & compliance sheets."
+  },
+  {
+    "test_id": "TTR-SALES-B1-007",
+    "title": "Customs Bonded Warehouse Entry & Import Tariff Classification",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Letters of Credit, Customs & Freight Documentation",
+    "grammar_focus": "Prepositions of Origin & Transit",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate sales and logistics module analyzing customs bonded warehouse entry & import tariff classification."
+  },
+  {
+    "test_id": "TTR-SALES-B1-008",
+    "title": "Explaining Tatra Chassis Superiority in Mining & Off-Road Tenders",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Customer Inquiries, Quotations & Specifications",
+    "grammar_focus": "Comparative & Superlative Structures",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate sales and logistics module analyzing explaining tatra chassis superiority in mining & off-road tenders."
+  },
+  {
+    "test_id": "TTR-SALES-B1-009",
+    "title": "Contractual Liquidated Damages for Late Shipment: Avoiding Penalties",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Commercial Negotiation & Payment Milestones",
+    "grammar_focus": "Second Conditional in Risk Assessment",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate sales and logistics module analyzing contractual liquidated damages for late shipment: avoiding penalties."
+  },
+  {
+    "test_id": "TTR-SALES-B1-010",
+    "title": "End-User Certificate (EUC) Verification for Defense Export Control",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)",
+    "grammar_focus": "Passive Reporting Verbs",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate sales and logistics module analyzing end-user certificate (euc) verification for defense export control."
+  },
+  {
+    "test_id": "TTR-SALES-B1-011",
+    "title": "After-Sales Service Level Agreements (SLA) & Technician Dispatch",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Commercial Negotiation & Payment Milestones",
+    "grammar_focus": "Future Continuous & Future Perfect",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate sales and logistics module analyzing after-sales service level agreements (sla) & technician dispatch."
+  },
+  {
+    "test_id": "TTR-SALES-B1-012",
+    "title": "Foreign Currency Exchange Fluctuation Clauses in Long-Term Bids",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Commercial Negotiation & Payment Milestones",
+    "grammar_focus": "Connectors of Cause, Purpose & Condition",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate sales and logistics module analyzing foreign currency exchange fluctuation clauses in long-term bids."
+  },
+  {
+    "test_id": "TTR-SALES-B1-013",
+    "title": "Freight Forwarder Carrier Liability for Sea-Transit Salt Corrosion",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)",
+    "grammar_focus": "Past Perfect for Sequence of Damage",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate sales and logistics module analyzing freight forwarder carrier liability for sea-transit salt corrosion."
+  },
+  {
+    "test_id": "TTR-SALES-B1-014",
+    "title": "Dealership Warranty Reimbursement Claim Verification & Auditing",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Polite Business Communication & Dealership Correspondence",
+    "grammar_focus": "Modal Verbs of Deduction",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate sales and logistics module analyzing dealership warranty reimbursement claim verification & auditing."
+  },
+  {
+    "test_id": "TTR-SALES-B1-015",
+    "title": "Technical Deviation Requests from Tender Minimum Specifications",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)",
+    "grammar_focus": "Polite Assertiveness & Hedging",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate sales and logistics module analyzing technical deviation requests from tender minimum specifications."
+  },
+  {
+    "test_id": "TTR-SALES-B1-016",
+    "title": "Roll-on/Roll-off (Ro-Ro) Vessel Stevedore Loading Coordination",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)",
+    "grammar_focus": "Phrasal Verbs in Maritime Logistics",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate sales and logistics module analyzing roll-on/roll-off (ro-ro) vessel stevedore loading coordination."
+  },
+  {
+    "test_id": "TTR-SALES-B1-017",
+    "title": "Counter-Trade Offsets: Local Assembly Kit (CKD) Proposals",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)",
+    "grammar_focus": "Reported Speech in Government Meetings",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate sales and logistics module analyzing counter-trade offsets: local assembly kit (ckd) proposals."
+  },
+  {
+    "test_id": "TTR-SALES-B1-018",
+    "title": "Distributor Termination Warnings Due to Contractual Non-Performance",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Polite Business Communication & Dealership Correspondence",
+    "grammar_focus": "Conditional Structures & Legal Directives",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate sales and logistics module analyzing distributor termination warnings due to contractual non-performance."
+  },
+  {
+    "test_id": "TTR-SALES-B1-019",
+    "title": "Tender Performance Bond Bank Guarantees & Escrow Accounts",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Commercial Negotiation & Payment Milestones",
+    "grammar_focus": "Obligation Verbs (shall, must, undertake)",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate sales and logistics module analyzing tender performance bond bank guarantees & escrow accounts."
+  },
+  {
+    "test_id": "TTR-SALES-B1-020",
+    "title": "Post-Sale Customer Satisfaction Audits & Fleet Utilization Reviews",
+    "level": "B1",
+    "category": "core",
+    "workplace_track": "Customer Inquiries, Quotations & Specifications",
+    "grammar_focus": "Evaluative Adjectives & Feedback Syntax",
+    "estimated_time_minutes": 15,
+    "description": "Intermediate sales and logistics module analyzing post-sale customer satisfaction audits & fleet utilization reviews."
+  },
+  {
+    "test_id": "TTR-SALES-B2-001",
+    "title": "High-Stakes Defense Tender Bargaining: Inversion for Emphasis",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)",
+    "grammar_focus": "Inversion for Diplomatic Emphasis",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate commercial and defense sales module analyzing high-stakes defense tender bargaining: inversion for emphasis."
+  },
+  {
+    "test_id": "TTR-SALES-B2-002",
+    "title": "NATO STANAG Homologation Defense Bid Deviations & Exceptions",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)",
+    "grammar_focus": "Subjunctive in Contractual Deviations",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate commercial and defense sales module analyzing nato stanag homologation defense bid deviations & exceptions."
+  },
+  {
+    "test_id": "TTR-SALES-B2-003",
+    "title": "Commercial Contract Risk Mitigation: Force Majeure & Hardship Clauses",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "International Defense Tender Arbitration & ICC Contracts",
+    "grammar_focus": "Third Conditional in Contract Breach",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate commercial and defense sales module analyzing commercial contract risk mitigation: force majeure & hardship clauses."
+  },
+  {
+    "test_id": "TTR-SALES-B2-004",
+    "title": "Exclusive Master Dealership Territory Rights & Non-Compete Clauses",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Commercial Negotiation & Payment Milestones",
+    "grammar_focus": "Restrictive & Non-Restrictive Relative Clauses",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate commercial and defense sales module analyzing exclusive master dealership territory rights & non-compete clauses."
+  },
+  {
+    "test_id": "TTR-SALES-B2-005",
+    "title": "Multi-Million Euro Tender Financing: Export Credit Agency (EGAP) Guarantees",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Commercial Negotiation & Payment Milestones",
+    "grammar_focus": "Passive Causative & Financial Modals",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate commercial and defense sales module analyzing multi-million euro tender financing: export credit agency (egap) guarantees."
+  },
+  {
+    "test_id": "TTR-SALES-B2-006",
+    "title": "Sovereign Debt Repayment Default Safeguards in UN Mining Concessions",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Commercial Negotiation & Payment Milestones",
+    "grammar_focus": "Mixed Conditionals in Sovereign Risk",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate commercial and defense sales module analyzing sovereign debt repayment default safeguards in un mining concessions."
+  },
+  {
+    "test_id": "TTR-SALES-B2-007",
+    "title": "Competitive Defense Tender Inquests Against Western European Truck OEMs",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)",
+    "grammar_focus": "Counter-Argumentative Discourse Markers",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate commercial and defense sales module analyzing competitive defense tender inquests against western european truck oems."
+  },
+  {
+    "test_id": "TTR-SALES-B2-008",
+    "title": "Multilateral Consortium Joint Bidding Governance & Liability Allocation",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)",
+    "grammar_focus": "Complex Nominalizations in Contracts",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate commercial and defense sales module analyzing multilateral consortium joint bidding governance & liability allocation."
+  },
+  {
+    "test_id": "TTR-SALES-B2-009",
+    "title": "Liquidated Damages Dispute Escalation & Mediation Protocols",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "International Defense Tender Arbitration & ICC Contracts",
+    "grammar_focus": "Formal Diplomatic Hedging",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate commercial and defense sales module analyzing liquidated damages dispute escalation & mediation protocols."
+  },
+  {
+    "test_id": "TTR-SALES-B2-010",
+    "title": "Anti-Bribery & FCPA Compliance Certification in International Sales",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)",
+    "grammar_focus": "Mandative Subjunctive & Legal Directives",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate commercial and defense sales module analyzing anti-bribery & fcpa compliance certification in international sales."
+  },
+  {
+    "test_id": "TTR-SALES-B2-011",
+    "title": "Defense Offset Industrial Participation Agreements: Technology Transfer",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)",
+    "grammar_focus": "Participle Clauses in Trade Agreements",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate commercial and defense sales module analyzing defense offset industrial participation agreements: technology transfer."
+  },
+  {
+    "test_id": "TTR-SALES-B2-012",
+    "title": "Sanctions Screening & Dual-Use Export Control Compliance Verification",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)",
+    "grammar_focus": "Negative Restrictive Adverbials",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate commercial and defense sales module analyzing sanctions screening & dual-use export control compliance verification."
+  },
+  {
+    "test_id": "TTR-SALES-B2-013",
+    "title": "Customs Valuation Audits on Intercompany Transfer Pricing",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Letters of Credit, Customs & Freight Documentation",
+    "grammar_focus": "Complex Prepositional Phrases",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate commercial and defense sales module analyzing customs valuation audits on intercompany transfer pricing."
+  },
+  {
+    "test_id": "TTR-SALES-B2-014",
+    "title": "Heavy Mining Fleet Full-Life Maintenance & Repair Contract (MARC) Bids",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Commercial Negotiation & Payment Milestones",
+    "grammar_focus": "Conditional Concessives (even if, provided that)",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate commercial and defense sales module analyzing heavy mining fleet full-life maintenance & repair contract (marc) bids."
+  },
+  {
+    "test_id": "TTR-SALES-B2-015",
+    "title": "Dealer Network De-Stocking Strategies During Global Supply Chain Shocks",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Polite Business Communication & Dealership Correspondence",
+    "grammar_focus": "Hypothetical Inversion in Financial Forecasting",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate commercial and defense sales module analyzing dealer network de-stocking strategies during global supply chain shocks."
+  },
+  {
+    "test_id": "TTR-SALES-B2-016",
+    "title": "Bid Bond Forfeiture Risk Management During Political Upheaval",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)",
+    "grammar_focus": "Unreal Past Conditionals with Modals",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate commercial and defense sales module analyzing bid bond forfeiture risk management during political upheaval."
+  },
+  {
+    "test_id": "TTR-SALES-B2-017",
+    "title": "Maritime General Average Declarations & Cargo Insurance Litigation",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)",
+    "grammar_focus": "Passive Constructions in Marine Law",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate commercial and defense sales module analyzing maritime general average declarations & cargo insurance litigation."
+  },
+  {
+    "test_id": "TTR-SALES-B2-018",
+    "title": "Tender Protests & Legal Appeals Against Biased Procurement Specifications",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)",
+    "grammar_focus": "Adversative Conjunctions & Legal Stance",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate commercial and defense sales module analyzing tender protests & legal appeals against biased procurement specifications."
+  },
+  {
+    "test_id": "TTR-SALES-B2-019",
+    "title": "Tripartite Trade Financing via Irrevocable Confirmed Letters of Credit",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Letters of Credit, Customs & Freight Documentation",
+    "grammar_focus": "Verbs of Binding Legal Undertaking",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate commercial and defense sales module analyzing tripartite trade financing via irrevocable confirmed letters of credit."
+  },
+  {
+    "test_id": "TTR-SALES-B2-020",
+    "title": "Key Account Executive Presentations to General Staff Military Procurement",
+    "level": "B2",
+    "category": "core",
+    "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)",
+    "grammar_focus": "Rhetorical Fronting & Nuanced Persuasion",
+    "estimated_time_minutes": 15,
+    "description": "Upper-intermediate commercial and defense sales module analyzing key account executive presentations to general staff military procurement."
+  },
+  {
+    "test_id": "TTR-SALES-C2-001",
+    "title": "International Defense Tender Arbitration, ICC Jurisdiction & Force Majeure",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "International Defense Tender Arbitration & ICC Contracts",
+    "grammar_focus": "Contractual Subjunctive & Risk Hedging",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier international commercial and defense sales module examining international defense tender arbitration, icc jurisdiction & force majeure."
+  },
+  {
+    "test_id": "TTR-SALES-C2-002",
+    "title": "Sovereign Debt Default & Paris Club Intergovernmental Rescheduling",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Commercial Negotiation & Payment Milestones",
+    "grammar_focus": "Intergovernmental Treaty Syntax",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier international commercial and defense sales module examining sovereign debt default & paris club intergovernmental rescheduling."
+  },
+  {
+    "test_id": "TTR-SALES-C2-003",
+    "title": "Cross-Border Patent Invalidation Defense in Military All-Wheel Drive",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "International Defense Tender Arbitration & ICC Contracts",
+    "grammar_focus": "Litigation Counter-Plea Formulas",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier international commercial and defense sales module examining cross-border patent invalidation defense in military all-wheel drive."
+  },
+  {
+    "test_id": "TTR-SALES-C2-004",
+    "title": "Geopolitical Embargo Repudiation & Bilateral Defense Supply Arbitration",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "International Defense Tender Arbitration & ICC Contracts",
+    "grammar_focus": "Deontic Inversion & Diplomatic Reserve",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier international commercial and defense sales module examining geopolitical embargo repudiation & bilateral defense supply arbitration."
+  },
+  {
+    "test_id": "TTR-SALES-C2-005",
+    "title": "Multi-Billion Dollar NATO Framework Agreement Defense Consortium Inquest",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)",
+    "grammar_focus": "High-Register Executive Governance",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier international commercial and defense sales module examining multi-billion dollar nato framework agreement defense consortium inquest."
+  },
+  {
+    "test_id": "TTR-SALES-C2-006",
+    "title": "Foreign Corrupt Practices Act (FCPA) Multi-Jurisdictional Forensic Audit",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)",
+    "grammar_focus": "Forensic Interrogative Syntax & Caveats",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier international commercial and defense sales module examining foreign corrupt practices act (fcpa) multi-jurisdictional forensic audit."
+  },
+  {
+    "test_id": "TTR-SALES-C2-007",
+    "title": "Bilateral Defense Offset Technology Co-Production Treaty Drafting",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)",
+    "grammar_focus": "Diplomatic Treaty Drafting Terminology",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier international commercial and defense sales module examining bilateral defense offset technology co-production treaty drafting."
+  },
+  {
+    "test_id": "TTR-SALES-C2-008",
+    "title": "WTO Subsidies & Countervailing Measures Appellate Body Defense",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Commercial Negotiation & Payment Milestones",
+    "grammar_focus": "International Trade Dispute Syntax",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier international commercial and defense sales module examining wto subsidies & countervailing measures appellate body defense."
+  },
+  {
+    "test_id": "TTR-SALES-C2-009",
+    "title": "International Chamber of Commerce (ICC) Emergency Arbitrator Injunctions",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "International Defense Tender Arbitration & ICC Contracts",
+    "grammar_focus": "Judicial Injunctive Imperatives",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier international commercial and defense sales module examining international chamber of commerce (icc) emergency arbitrator injunctions."
+  },
+  {
+    "test_id": "TTR-SALES-C2-010",
+    "title": "Sovereign Immunity Waiver Clauses in Military Vehicle Supply Pacts",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "International Defense Tender Arbitration & ICC Contracts",
+    "grammar_focus": "Legalistic Exemption & Waiver Formulas",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier international commercial and defense sales module examining sovereign immunity waiver clauses in military vehicle supply pacts."
+  },
+  {
+    "test_id": "TTR-SALES-C2-011",
+    "title": "Transnational Joint Venture Shareholder Deadlock Dissolution Inquest",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "International Defense Tender Arbitration & ICC Contracts",
+    "grammar_focus": "Corporate Governance Litigation Discourse",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier international commercial and defense sales module examining transnational joint venture shareholder deadlock dissolution inquest."
+  },
+  {
+    "test_id": "TTR-SALES-C2-012",
+    "title": "Strategic Dual-Use Export License Revocation Judicial Review",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)",
+    "grammar_focus": "Administrative Law Adjudication Syntax",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier international commercial and defense sales module examining strategic dual-use export license revocation judicial review."
+  },
+  {
+    "test_id": "TTR-SALES-C2-013",
+    "title": "Catastrophic Maritime Cargo Loss: Hague-Visby Rules Carrier Liability",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)",
+    "grammar_focus": "Maritime Admiralty Law Inquest Register",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier international commercial and defense sales module examining catastrophic maritime cargo loss: hague-visby rules carrier liability."
+  },
+  {
+    "test_id": "TTR-SALES-C2-014",
+    "title": "UN Sanctions Implementation & Third-Country Transshipment Inquests",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)",
+    "grammar_focus": "Regulatory Compliance Investigation Syntax",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier international commercial and defense sales module examining un sanctions implementation & third-country transshipment inquests."
+  },
+  {
+    "test_id": "TTR-SALES-C2-015",
+    "title": "Hostile Takeover Defense & Defense Asset Golden Share Protection",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Commercial Negotiation & Payment Milestones",
+    "grammar_focus": "Corporate Legal Stance & Hedging",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier international commercial and defense sales module examining hostile takeover defense & defense asset golden share protection."
+  },
+  {
+    "test_id": "TTR-SALES-C2-016",
+    "title": "Sovereign Buyer Repudiation of Defense Contracts in Post-War Transition",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "International Defense Tender Arbitration & ICC Contracts",
+    "grammar_focus": "Repudiation & Compensation Discourse",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier international commercial and defense sales module examining sovereign buyer repudiation of defense contracts in post-war transition."
+  },
+  {
+    "test_id": "TTR-SALES-C2-017",
+    "title": "Multi-Tiered Alternative Dispute Resolution (ADR) Escalation Clauses",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "International Defense Tender Arbitration & ICC Contracts",
+    "grammar_focus": "Contractual Escalation Mechanics",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier international commercial and defense sales module examining multi-tiered alternative dispute resolution (adr) escalation clauses."
+  },
+  {
+    "test_id": "TTR-SALES-C2-018",
+    "title": "Public Procurement Integrity Inquests & Whistleblower Defense Protocols",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)",
+    "grammar_focus": "Ethical Governance & Investigative Register",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier international commercial and defense sales module examining public procurement integrity inquests & whistleblower defense protocols."
+  },
+  {
+    "test_id": "TTR-SALES-C2-019",
+    "title": "Cross-Border Technology Licensing Royalty Withholding Tax Litigation",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Commercial Negotiation & Payment Milestones",
+    "grammar_focus": "Fiscal Jurisdictional Argumentation",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier international commercial and defense sales module examining cross-border technology licensing royalty withholding tax litigation."
+  },
+  {
+    "test_id": "TTR-SALES-C2-020",
+    "title": "Ministerial Bilateral Defense Agreement Ratification Press Briefing",
+    "level": "C2",
+    "category": "core",
+    "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)",
+    "grammar_focus": "High-Level Diplomatic Spokesperson Register",
+    "estimated_time_minutes": 20,
+    "description": "Mastery-tier international commercial and defense sales module examining ministerial bilateral defense agreement ratification press briefing."
+  }
+]

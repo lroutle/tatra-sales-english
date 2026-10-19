@@ -1,0 +1,326 @@
+{
+  "test_id": "TTR-SALES-B2-001",
+  "title": "High-Stakes Defense Tender Bargaining: Inversion for Emphasis",
+  "level": "B2",
+  "category": "core",
+  "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)",
+  "estimated_time_minutes": 18,
+  "description": "Utilize negative and restrictive adverbials (under no circumstances, seldom, little did we know, on no account) to add decisive legal and rhetorical force to high-stakes defense contracts and tender proposals.",
+  "learning_objectives": [
+    "Construct inverted sentence structures following negative and restrictive adverbials",
+    "Employ inversion with 'Not only... but also' and 'Hardly... when'",
+    "Apply high-register rhetorical emphasis in international contract correspondence"
+  ],
+  "questions": [
+    {
+      "id": "TTR-SALES-B2-001-Q1",
+      "prompt": "Under no circumstances _____ to accept unlimited liability clauses in foreign government defense procurement tenders.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tatra is prepared"
+        },
+        {
+          "key": "B",
+          "text": "is Tatra prepared"
+        },
+        {
+          "key": "C",
+          "text": "does Tatra prepared"
+        },
+        {
+          "key": "D",
+          "text": "prepared Tatra"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "When a sentence begins with negative adverbial 'Under no circumstances', inversion of auxiliary and subject is required ('is Tatra prepared').",
+        "wrong_A": "Lacks inversion (standard declarative order cannot follow initial negative adverbials).",
+        "wrong_C": "Auxiliary 'does' requires base form 'prepare', not participle 'prepared'.",
+        "wrong_D": "Corrupt archaic word order without auxiliary verb."
+      },
+      "cz_learning_point": "Czech relies on word order freedom and intonation ('Za žádných okolností není Tatra ochotna'). In English, an initial negative adverbial strictly triggers inversion (question word order).",
+      "workplace_track": "Defense & Government Tenders (NATO STANAG)"
+    },
+    {
+      "id": "TTR-SALES-B2-001-Q2",
+      "prompt": "Seldom _____ a competitor offer a heavy off-road vehicle with independent swinging half-axles at this price point.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "has"
+        },
+        {
+          "key": "C",
+          "text": "does"
+        },
+        {
+          "key": "D",
+          "text": "did"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'Seldom' is a restrictive adverbial triggering inversion; 'does a competitor offer' correctly inverts the present simple.",
+        "wrong_A": "'Is a competitor offer' violates English auxiliary syntax.",
+        "wrong_B": "'Has' would require past participle 'offered'.",
+        "wrong_D": "'Did' refers to the past, but the statement describes a general commercial market reality."
+      },
+      "cz_learning_point": "Restrictive adverbs like 'seldom', 'rarely', and 'hardly' placed at the start of a sentence require do/does/did inversion.",
+      "workplace_track": "Defense & Government Tenders (NATO STANAG)"
+    },
+    {
+      "id": "TTR-SALES-B2-001-Q3",
+      "prompt": "Not only _____ to deliver all fifty military tactical trucks ahead of schedule, but we also agreed to provide complimentary on-site maintenance training.",
+      "options": [
+        {
+          "key": "A",
+          "text": "did our team manage"
+        },
+        {
+          "key": "B",
+          "text": "our team managed"
+        },
+        {
+          "key": "C",
+          "text": "had our team manage"
+        },
+        {
+          "key": "D",
+          "text": "was our team managed"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "'Not only' at the beginning of a clause requires inversion: auxiliary 'did' + subject 'our team' + base verb 'manage'.",
+        "wrong_B": "Lacks inverted word order.",
+        "wrong_C": "'Had' requires past participle 'managed'.",
+        "wrong_D": "Passive voice 'was managed' distorts the meaning."
+      },
+      "cz_learning_point": "Czech 'Nejenže se našemu týmu podařilo...' In English, 'Not only did our team manage...' provides authoritative executive emphasis.",
+      "workplace_track": "Defense & Government Tenders (NATO STANAG)"
+    },
+    {
+      "id": "TTR-SALES-B2-001-Q4",
+      "prompt": "Hardly _____ the ink dried on the preliminary MOU when the ministry demanded a 10% price concession.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was"
+        },
+        {
+          "key": "B",
+          "text": "did"
+        },
+        {
+          "key": "C",
+          "text": "has"
+        },
+        {
+          "key": "D",
+          "text": "had"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "'Hardly had [subject] [past participle]... when [past simple]' is a fixed high-level inverted structure for rapid sequential events.",
+        "wrong_A": "'Was' cannot form the past perfect construction.",
+        "wrong_B": "'Did' would take base form 'dry', not past participle 'dried'.",
+        "wrong_C": "Present perfect 'has' clashes with past narrative 'demanded'."
+      },
+      "cz_learning_point": "Czech 'Sotva inkoust uschl...' translates into formal English as 'Hardly had the ink dried... when...'.",
+      "workplace_track": "Defense & Government Tenders (NATO STANAG)"
+    },
+    {
+      "id": "TTR-SALES-B2-001-Q5",
+      "prompt": "On no account _____ the factory release the homologation certificates prior to receiving formal bank confirmation of payment.",
+      "options": [
+        {
+          "key": "A",
+          "text": "ought"
+        },
+        {
+          "key": "B",
+          "text": "the factory should"
+        },
+        {
+          "key": "C",
+          "text": "should"
+        },
+        {
+          "key": "D",
+          "text": "is"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'On no account should the factory release...' provides legalistic inverted prohibition.",
+        "wrong_A": "'Ought' requires 'to'.",
+        "wrong_B": "Fails to invert the subject and modal.",
+        "wrong_D": "'Is' does not fit base verb 'release'."
+      },
+      "cz_learning_point": "In legal and compliance documents, 'V žádném případě...' is translated as 'On no account should...'.",
+      "workplace_track": "Defense & Government Tenders (NATO STANAG)"
+    },
+    {
+      "id": "TTR-SALES-B2-001-Q6",
+      "prompt": "Only after extensive field trials in the Australian outback _____ that the cooling system was completely dust-resistant.",
+      "options": [
+        {
+          "key": "A",
+          "text": "the mining client conceded"
+        },
+        {
+          "key": "B",
+          "text": "did the mining client concede"
+        },
+        {
+          "key": "C",
+          "text": "conceded the mining client"
+        },
+        {
+          "key": "D",
+          "text": "has the mining client conceded"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Clauses introduced by 'Only after [time/clause]' trigger inversion in the main clause: 'did the client concede'.",
+        "wrong_A": "Main clause lacks inversion.",
+        "wrong_C": "Inversion in English requires an auxiliary verb ('did'), not inversion of main verb.",
+        "wrong_D": "Present perfect clashes with past narrative 'was'."
+      },
+      "cz_learning_point": "Notice that 'Only after...' does NOT invert the 'after' clause itself, but inverts the MAIN clause that follows.",
+      "workplace_track": "Defense & Government Tenders (NATO STANAG)"
+    },
+    {
+      "id": "TTR-SALES-B2-001-Q7",
+      "prompt": "Little _____ that the defense ministry had already drafted the final tender evaluation matrix before our meeting.",
+      "options": [
+        {
+          "key": "A",
+          "text": "our negotiators suspected"
+        },
+        {
+          "key": "B",
+          "text": "suspected our negotiators"
+        },
+        {
+          "key": "C",
+          "text": "had our negotiators suspected"
+        },
+        {
+          "key": "D",
+          "text": "did our negotiators suspect"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "'Little did our negotiators suspect' expresses that they had no idea whatsoever (inverted with 'did').",
+        "wrong_A": "Lacks inversion.",
+        "wrong_B": "Requires auxiliary 'did'.",
+        "wrong_C": "Idiomatic 'little did someone know/suspect' uses 'did', not 'had'."
+      },
+      "cz_learning_point": "Czech 'Vůbec netušili, že...' translates elegantly into executive English as 'Little did they suspect that...'.",
+      "workplace_track": "Defense & Government Tenders (NATO STANAG)"
+    },
+    {
+      "id": "TTR-SALES-B2-001-Q8",
+      "prompt": "At no time _____ that the delivery lead times would be shortened to less than ninety days.",
+      "options": [
+        {
+          "key": "A",
+          "text": "did we guarantee"
+        },
+        {
+          "key": "B",
+          "text": "we guaranteed"
+        },
+        {
+          "key": "C",
+          "text": "guaranteed we"
+        },
+        {
+          "key": "D",
+          "text": "have we guaranteed"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "'At no time did we guarantee...' is the formal contractual denial of a commitment.",
+        "wrong_B": "Un-inverted word order.",
+        "wrong_C": "Corrupt syntax.",
+        "wrong_D": "Present perfect does not match the past perspective 'would be shortened'."
+      },
+      "cz_learning_point": "In dispute settlement emails, 'Nikdy jsme nezaručili' is expressed with maximum legal force as 'At no time did we guarantee...'.",
+      "workplace_track": "Defense & Government Tenders (NATO STANAG)"
+    },
+    {
+      "id": "TTR-SALES-B2-001-Q9",
+      "prompt": "So complex _____ the international homologation criteria that our engineering team required six months of pre-certification testing.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was"
+        },
+        {
+          "key": "B",
+          "text": "did"
+        },
+        {
+          "key": "C",
+          "text": "were"
+        },
+        {
+          "key": "D",
+          "text": "are"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Inversion with 'So + adjective': 'So complex were the criteria that...' (criteria is plural).",
+        "wrong_A": "'Criteria' is plural (singular is 'criterion'), so 'was' is a grammatical agreement error.",
+        "wrong_B": "'Did' cannot pair with adjective 'complex'.",
+        "wrong_D": "Past event 'required' demands past plural 'were'."
+      },
+      "cz_learning_point": "Remember that 'criteria' is plural in English (like 'data'). The inversion takes 'were', not 'was'.",
+      "workplace_track": "Defense & Government Tenders (NATO STANAG)"
+    },
+    {
+      "id": "TTR-SALES-B2-001-Q10",
+      "prompt": "No sooner had the commercial director opened the discussion _____ the overseas delegate raised objections to the warranty duration.",
+      "options": [
+        {
+          "key": "A",
+          "text": "when"
+        },
+        {
+          "key": "B",
+          "text": "than"
+        },
+        {
+          "key": "C",
+          "text": "that"
+        },
+        {
+          "key": "D",
+          "text": "then"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "'No sooner had [past participle]... than...' is the exact comparative correlative pair in English.",
+        "wrong_A": "'When' is used with 'Hardly / Scarcely', not with 'No sooner'.",
+        "wrong_C": "'That' does not form this correlative structure.",
+        "wrong_D": "'Then' is a common spelling/confusion error for comparative 'than'."
+      },
+      "cz_learning_point": "Correlative pairs: 'Hardly... when', but 'No sooner... THAN'. Do not mix them up.",
+      "workplace_track": "Defense & Government Tenders (NATO STANAG)"
+    }
+  ]
+}

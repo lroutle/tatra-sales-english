@@ -1,0 +1,326 @@
+{
+  "test_id": "TTR-SALES-C2-001",
+  "title": "International Defense Tender Arbitration, ICC Jurisdiction & Force Majeure",
+  "level": "C2",
+  "category": "core",
+  "workplace_track": "International Defense Tender Arbitration & ICC Contracts",
+  "estimated_time_minutes": 20,
+  "description": "Executive sales and contract legal engineering: drafting liquidated damages indemnities, managing ICC Paris arbitration clauses, navigating split liability under Incoterms 2020 DPU/DAP, and diplomatic de-escalation of foreign ministry disputes.",
+  "learning_objectives": [
+    "Master mandative and formulaic subjunctive in international military procurement contracts",
+    "Formulate precise risk transfer stipulations under Incoterms 2020 rules",
+    "Utilize high-register diplomatic hedging in multi-million dollar defense contract negotiations"
+  ],
+  "questions": [
+    {
+      "id": "TTR-SALES-C2-001-Q1",
+      "prompt": "Be it resolved that Tatra Trucks _____ harmless the defense ministry against any third-party patent infringement claims arising from the proprietary pneumatic suspension system.",
+      "options": [
+        {
+          "key": "A",
+          "text": "shall hold"
+        },
+        {
+          "key": "B",
+          "text": "hold"
+        },
+        {
+          "key": "C",
+          "text": "holds"
+        },
+        {
+          "key": "D",
+          "text": "is holding"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Formulaic legal subjunctive ('Be it resolved that [entity] hold harmless...') uses the bare base form 'hold' without third-person '-s' or modal auxiliary.",
+        "wrong_A": "'Shall hold' is standard contractual obligation, but follows standard clauses, not the archaic formulaic subjunctive preamble 'Be it resolved that'.",
+        "wrong_C": "Indicative 'holds' violates the formulaic legal subjunctive mood.",
+        "wrong_D": "Continuous aspect is completely inappropriate in legal indemnity deeds."
+      },
+      "cz_learning_point": "Czech 'Budiž ujednáno, že Tatra Trucks odškodní...'. Formal legal preambles use formulaic subjunctive base forms: 'Be it resolved that Tatra Trucks hold harmless...'.",
+      "workplace_track": "International Contract Law, ICC Arbitration & Defense Tender Litigation"
+    },
+    {
+      "id": "TTR-SALES-C2-001-Q2",
+      "prompt": "Under the agreed Incoterms 2020 DPU (Delivered at Place Unloaded) terms, at what exact juncture _____ to the procurement authority?",
+      "options": [
+        {
+          "key": "A",
+          "text": "transfers the risk of damage"
+        },
+        {
+          "key": "B",
+          "text": "the risk of accidental loss is transferring"
+        },
+        {
+          "key": "C",
+          "text": "does the risk of loss pass"
+        },
+        {
+          "key": "D",
+          "text": "passes the risk of damage"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Formal interrogative syntax requires auxiliary inversion ('does the risk of loss pass') for clean, unambiguous commercial arbitration clarity.",
+        "wrong_A": "Lacks required auxiliary verb 'does' in direct technical inquiry.",
+        "wrong_B": "Indirect word order without inversion cannot form a direct question.",
+        "wrong_D": "Inversion of full lexical verb ('passes the risk') is archaic and grammatically incorrect in modern commercial English."
+      },
+      "cz_learning_point": "Czech 'v jakém okamžiku přechází riziko škody na...?'. In English, questions require auxiliary 'does': 'At what exact juncture does the risk of loss pass...?'",
+      "workplace_track": "Commercial Contracts, Incoterms 2020 & Risk Transfer"
+    },
+    {
+      "id": "TTR-SALES-C2-001-Q3",
+      "prompt": "_____ the ministry to invoke the force majeure clause prematurely due to port customs congestion, our legal counsel would immediately initiate ICC expedited arbitration proceedings.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Were"
+        },
+        {
+          "key": "B",
+          "text": "If"
+        },
+        {
+          "key": "C",
+          "text": "Had"
+        },
+        {
+          "key": "D",
+          "text": "Should"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Inverted second conditional ('Were the ministry to invoke...') denotes a formal hypothetical future contingency with dignified diplomatic distance.",
+        "wrong_B": "'If' would require standard word order ('If the ministry were to invoke...').",
+        "wrong_C": "'Had' pairs with past counterfactual participles, not the infinitive 'to invoke'.",
+        "wrong_D": "'Should' would be followed by bare infinitive 'invoke', not 'to invoke'."
+      },
+      "cz_learning_point": "Czech 'Kdyby ministerstvo předčasně uplatnilo...'. Formal diplomatic legal phrasing inverts 'were': 'Were the ministry to invoke...'.",
+      "workplace_track": "International Contract Law, ICC Arbitration & Defense Tender Litigation"
+    },
+    {
+      "id": "TTR-SALES-C2-001-Q4",
+      "prompt": "It is stipulated in section 14.2 that the supplier _____ penalty payments in the event that spare parts deliveries fail to achieve the 98% operational availability metric.",
+      "options": [
+        {
+          "key": "A",
+          "text": "remit"
+        },
+        {
+          "key": "B",
+          "text": "remits"
+        },
+        {
+          "key": "C",
+          "text": "shall remit"
+        },
+        {
+          "key": "D",
+          "text": "to remit"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Mandative subjunctive after passive verb of requirement ('It is stipulated that [entity] remit...') requires base verb 'remit'.",
+        "wrong_B": "Third person singular 'remits' is indicative, whereas legal stipulations require the subjunctive base form.",
+        "wrong_C": "'Shall remit' is common in drafting, but when introduced by 'It is stipulated that...', the subjunctive bare form 'remit' is the most refined legal register.",
+        "wrong_D": "Infinitive 'to remit' cannot stand as the main predicate of a 'that'-clause."
+      },
+      "cz_learning_point": "Czech 'Je stanoveno, že dodavatel uhradí...'. English mandative subjunctive uses base form: 'It is stipulated that the supplier remit...'.",
+      "workplace_track": "International Contract Law, ICC Arbitration & Defense Tender Litigation"
+    },
+    {
+      "id": "TTR-SALES-C2-001-Q5",
+      "prompt": "Only by providing an unconditional standby letter of credit from an internationally rated tier-1 bank _____ the tender evaluation committee permit the bid bond exemption.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will"
+        },
+        {
+          "key": "B",
+          "text": "does"
+        },
+        {
+          "key": "C",
+          "text": "did"
+        },
+        {
+          "key": "D",
+          "text": "would"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Fronted restrictive phrase 'Only by providing...' requires subject-auxiliary inversion with future modal 'will' ('will the committee permit').",
+        "wrong_B": "'Does' refers to general habit, whereas tender evaluations are specific future conditional determinations.",
+        "wrong_C": "'Did' refers to completed past action, conflicting with the prospective tender evaluation process.",
+        "wrong_D": "'Would' requires a counterfactual condition, which is absent here."
+      },
+      "cz_learning_point": "Czech 'Pouze předložením neodvolatelného akreditivu výbor povolí...'. In English, fronted 'Only by...' demands inversion: 'Only by providing... will the committee permit...'.",
+      "workplace_track": "International Defense Bids & NATO STANAG Tenders"
+    },
+    {
+      "id": "TTR-SALES-C2-001-Q6",
+      "prompt": "Our negotiation posture must remain uncompromising regarding warranty ceilings, _____ we risk setting an adverse contractual precedent across all Eastern European defense tenders.",
+      "options": [
+        {
+          "key": "A",
+          "text": "otherwise"
+        },
+        {
+          "key": "B",
+          "text": "lest"
+        },
+        {
+          "key": "C",
+          "text": "in case"
+        },
+        {
+          "key": "D",
+          "text": "unless"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Formal conjunction 'lest' ('for fear that / in order to avoid') introduces an adverse risk and pairs with subjunctive or indicative in elevated diplomatic English.",
+        "wrong_A": "'Otherwise' is an adverb requiring a semicolon or coordinator, not a subordinating conjunction.",
+        "wrong_C": "'In case' indicates precaution, not avoidance of a direct hazard.",
+        "wrong_D": "'Unless' means 'except if', which reverses the intended causal meaning."
+      },
+      "cz_learning_point": "Czech 'abychom neriskovali... / jinak hrozí, že...'. High-level diplomatic English uses 'lest' ('lest we risk setting an adverse precedent').",
+      "workplace_track": "Executive Contract Negotiation & Dealer Relations"
+    },
+    {
+      "id": "TTR-SALES-C2-001-Q7",
+      "prompt": "No sooner had the bilateral tender contract been signed in Abu Dhabi _____ the ministry issued an addendum demanding supplementary cold-weather cabin modifications.",
+      "options": [
+        {
+          "key": "A",
+          "text": "when"
+        },
+        {
+          "key": "B",
+          "text": "that"
+        },
+        {
+          "key": "C",
+          "text": "as"
+        },
+        {
+          "key": "D",
+          "text": "than"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "'No sooner had [action]... than [second action]' is the strictly required correlative pair in high-level English.",
+        "wrong_A": "'When' pairs with 'Scarcely' or 'Hardly', not 'No sooner'.",
+        "wrong_B": "'That' cannot introduce the temporal correlative clause.",
+        "wrong_C": "'As' is colloquial and grammatically invalid here."
+      },
+      "cz_learning_point": "Czech 'Sotva byla smlouva podepsána, než ministerstvo vydalo dodatek'. Always pair 'No sooner had...' with 'THAN'.",
+      "workplace_track": "International Defense Bids & NATO STANAG Tenders"
+    },
+    {
+      "id": "TTR-SALES-C2-001-Q8",
+      "prompt": "_____ the military attache inquire regarding our export licensing status under EU dual-use regulations, reassure him that our authorization dossier is already before the licensing board.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Should"
+        },
+        {
+          "key": "B",
+          "text": "Were"
+        },
+        {
+          "key": "C",
+          "text": "Could"
+        },
+        {
+          "key": "D",
+          "text": "Had"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Inverted first conditional ('Should the attache inquire...') represents formal diplomatic courtesy for possible future inquiries.",
+        "wrong_B": "'Were the attache to inquire' would be acceptable, but 'Were' cannot pair directly with bare infinitive 'inquire'.",
+        "wrong_C": "'Could' cannot form an inverted conditional clause of this type.",
+        "wrong_D": "'Had' pairs with past counterfactual actions."
+      },
+      "cz_learning_point": "Czech 'Kdyby se vojenský atašé dotazoval...'. Formal diplomatic correspondence uses 'Should [subject] [base verb]...': 'Should the attache inquire...'.",
+      "workplace_track": "Executive Contract Negotiation & Dealer Relations"
+    },
+    {
+      "id": "TTR-SALES-C2-001-Q9",
+      "prompt": "The arbitration panel ruled that the delayed vehicle commissioning was _____ attributable to port blockades rather than any defect in Tatra's powertrain components.",
+      "options": [
+        {
+          "key": "A",
+          "text": "unquestionably"
+        },
+        {
+          "key": "B",
+          "text": "unequivocally"
+        },
+        {
+          "key": "C",
+          "text": "principally"
+        },
+        {
+          "key": "D",
+          "text": "hardly"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "In high-stakes dispute resolution, nuanced legal qualification ('principally attributable' = chiefly/primarily) accurately allocates proportional liability without absolute overclaiming.",
+        "wrong_A": "'Unquestionably' is rhetorically aggressive and weakens evidentiary arbitration credibility.",
+        "wrong_B": "'Unequivocally' is excessively absolute when dealing with multi-factor logistics delays.",
+        "wrong_D": "'Hardly' reverses the intended meaning, suggesting Tatra was to blame."
+      },
+      "cz_learning_point": "Czech 'převážně / v hlavní míře přičitatelné'. In arbitration findings, 'principally attributable' balances evidentiary accuracy and legal liability.",
+      "workplace_track": "International Contract Law, ICC Arbitration & Defense Tender Litigation"
+    },
+    {
+      "id": "TTR-SALES-C2-001-Q10",
+      "prompt": "Not for one moment _____ our commercial negotiation team consider conceding sovereign immunity jurisdiction to a local foreign domestic court.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "did"
+        },
+        {
+          "key": "C",
+          "text": "has"
+        },
+        {
+          "key": "D",
+          "text": "would"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Fronted negative phrase 'Not for one moment' with past action verb 'consider' demands past auxiliary inversion 'did' ('Not for one moment did our team consider...').",
+        "wrong_A": "'Is' cannot pair with past lexical verb 'consider'.",
+        "wrong_C": "'Has' would require past participle 'considered'.",
+        "wrong_D": "'Would' suggests hypothetical willingness rather than an emphatic historical fact."
+      },
+      "cz_learning_point": "Czech 'Ani na jediný okamžik náš tým neuvažoval...'. Inverted negative construction: 'Not for one moment did our team consider...'.",
+      "workplace_track": "International Contract Law, ICC Arbitration & Defense Tender Litigation"
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "test_id": "TTR-SALES-B1-013",
+  "title": "Freight Forwarder Carrier Liability for Sea-Transit Salt Corrosion",
+  "level": "B1",
+  "category": "core",
+  "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)",
+  "estimated_time_minutes": 15,
+  "description": "Intermediate sales and logistics module analyzing freight forwarder carrier liability for sea-transit salt corrosion.",
+  "learning_objectives": [
+    "Master professional Past Perfect for Sequence of Damage in technical sales and export contracts",
+    "Eliminate common Czech interference errors in freight forwarder carrier liability for sea-transit salt corrosion",
+    "Demonstrate mastery in international negotiations and Incoterms documentation"
+  ],
+  "questions": [
+    {
+      "id": "TTR-SALES-B1-013-Q1",
+      "prompt": "By the time the container vessel docked at Alexandria port, the irrevocable letter of credit (L/C) _____ by the issuing bank.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was issued"
+        },
+        {
+          "key": "B",
+          "text": "had been issued"
+        },
+        {
+          "key": "C",
+          "text": "has been issued"
+        },
+        {
+          "key": "D",
+          "text": "didn't issue"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Past Perfect Passive ('had been issued') correctly expresses an action completed prior to the past docking event.",
+        "wrong_A": "Past Simple ('was issued') does not show priority before past docking.",
+        "wrong_C": "Present Perfect ('has been issued') cannot connect to a completed past narrative.",
+        "wrong_D": "'didn't issue' is active voice; commercial documents are acted upon passively."
+      },
+      "cz_learning_point": "Czech narrative uses past tense for both ('než loď přistála, akreditiv byl otevřen'). English contracts require Past Perfect.",
+      "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
+    },
+    {
+      "id": "TTR-SALES-B1-013-Q2",
+      "prompt": "By the time the container vessel docked at Alexandria port, the bilateral commercial sales contract _____ by the issuing bank.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was countersigned"
+        },
+        {
+          "key": "B",
+          "text": "has been countersigned"
+        },
+        {
+          "key": "C",
+          "text": "had been countersigned"
+        },
+        {
+          "key": "D",
+          "text": "didn't countersign"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Past Perfect Passive ('had been countersigned') correctly expresses an action completed prior to the past docking event.",
+        "wrong_A": "Past Simple ('was countersigned') does not show priority before past docking.",
+        "wrong_B": "Present Perfect ('has been countersigned') cannot connect to a completed past narrative.",
+        "wrong_D": "'didn't countersign' is active voice; commercial documents are acted upon passively."
+      },
+      "cz_learning_point": "Czech narrative uses past tense for both ('než loď přistála, akreditiv byl otevřen'). English contracts require Past Perfect.",
+      "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
+    },
+    {
+      "id": "TTR-SALES-B1-013-Q3",
+      "prompt": "By the time the container vessel docked at Alexandria port, the ocean bill of lading clean-on-board endorsement _____ by the issuing bank.",
+      "options": [
+        {
+          "key": "A",
+          "text": "had been received"
+        },
+        {
+          "key": "B",
+          "text": "was received"
+        },
+        {
+          "key": "C",
+          "text": "has been received"
+        },
+        {
+          "key": "D",
+          "text": "didn't receive"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Past Perfect Passive ('had been received') correctly expresses an action completed prior to the past docking event.",
+        "wrong_B": "Past Simple ('was received') does not show priority before past docking.",
+        "wrong_C": "Present Perfect ('has been received') cannot connect to a completed past narrative.",
+        "wrong_D": "'didn't receive' is active voice; commercial documents are acted upon passively."
+      },
+      "cz_learning_point": "Czech narrative uses past tense for both ('než loď přistála, akreditiv byl otevřen'). English contracts require Past Perfect.",
+      "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
+    },
+    {
+      "id": "TTR-SALES-B1-013-Q4",
+      "prompt": "By the time the container vessel docked at Alexandria port, the customs export declaration for twenty defense trucks _____ by the issuing bank.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was cleared"
+        },
+        {
+          "key": "B",
+          "text": "has been cleared"
+        },
+        {
+          "key": "C",
+          "text": "didn't clear"
+        },
+        {
+          "key": "D",
+          "text": "had been cleared"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Past Perfect Passive ('had been cleared') correctly expresses an action completed prior to the past docking event.",
+        "wrong_A": "Past Simple ('was cleared') does not show priority before past docking.",
+        "wrong_B": "Present Perfect ('has been cleared') cannot connect to a completed past narrative.",
+        "wrong_C": "'didn't clear' is active voice; commercial documents are acted upon passively."
+      },
+      "cz_learning_point": "Czech narrative uses past tense for both ('než loď přistála, akreditiv byl otevřen'). English contracts require Past Perfect.",
+      "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
+    },
+    {
+      "id": "TTR-SALES-B1-013-Q5",
+      "prompt": "By the time the container vessel docked at Alexandria port, the end-user certificate (EUC) authentication _____ by the issuing bank.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was verified"
+        },
+        {
+          "key": "B",
+          "text": "has been verified"
+        },
+        {
+          "key": "C",
+          "text": "had been verified"
+        },
+        {
+          "key": "D",
+          "text": "didn't verify"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Past Perfect Passive ('had been verified') correctly expresses an action completed prior to the past docking event.",
+        "wrong_A": "Past Simple ('was verified') does not show priority before past docking.",
+        "wrong_B": "Present Perfect ('has been verified') cannot connect to a completed past narrative.",
+        "wrong_D": "'didn't verify' is active voice; commercial documents are acted upon passively."
+      },
+      "cz_learning_point": "Czech narrative uses past tense for both ('než loď přistála, akreditiv byl otevřen'). English contracts require Past Perfect.",
+      "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
+    },
+    {
+      "id": "TTR-SALES-B1-013-Q6",
+      "prompt": "By the time the container vessel docked at Alexandria port, the 10% advance performance bond bank guarantee _____ by the issuing bank.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was lodged"
+        },
+        {
+          "key": "B",
+          "text": "had been lodged"
+        },
+        {
+          "key": "C",
+          "text": "has been lodged"
+        },
+        {
+          "key": "D",
+          "text": "didn't lodge"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Past Perfect Passive ('had been lodged') correctly expresses an action completed prior to the past docking event.",
+        "wrong_A": "Past Simple ('was lodged') does not show priority before past docking.",
+        "wrong_C": "Present Perfect ('has been lodged') cannot connect to a completed past narrative.",
+        "wrong_D": "'didn't lodge' is active voice; commercial documents are acted upon passively."
+      },
+      "cz_learning_point": "Czech narrative uses past tense for both ('než loď přistála, akreditiv byl otevřen'). English contracts require Past Perfect.",
+      "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
+    },
+    {
+      "id": "TTR-SALES-B1-013-Q7",
+      "prompt": "By the time the container vessel docked at Alexandria port, the sea freight insurance certificate covering 110% of CIF value _____ by the issuing bank.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was endorsed"
+        },
+        {
+          "key": "B",
+          "text": "has been endorsed"
+        },
+        {
+          "key": "C",
+          "text": "didn't endorse"
+        },
+        {
+          "key": "D",
+          "text": "had been endorsed"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Past Perfect Passive ('had been endorsed') correctly expresses an action completed prior to the past docking event.",
+        "wrong_A": "Past Simple ('was endorsed') does not show priority before past docking.",
+        "wrong_B": "Present Perfect ('has been endorsed') cannot connect to a completed past narrative.",
+        "wrong_C": "'didn't endorse' is active voice; commercial documents are acted upon passively."
+      },
+      "cz_learning_point": "Czech narrative uses past tense for both ('než loď přistála, akreditiv byl otevřen'). English contracts require Past Perfect.",
+      "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
+    },
+    {
+      "id": "TTR-SALES-B1-013-Q8",
+      "prompt": "By the time the container vessel docked at Alexandria port, the spare parts consignment dispatch note _____ by the issuing bank.",
+      "options": [
+        {
+          "key": "A",
+          "text": "had been released"
+        },
+        {
+          "key": "B",
+          "text": "was released"
+        },
+        {
+          "key": "C",
+          "text": "has been released"
+        },
+        {
+          "key": "D",
+          "text": "didn't release"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Past Perfect Passive ('had been released') correctly expresses an action completed prior to the past docking event.",
+        "wrong_B": "Past Simple ('was released') does not show priority before past docking.",
+        "wrong_C": "Present Perfect ('has been released') cannot connect to a completed past narrative.",
+        "wrong_D": "'didn't release' is active voice; commercial documents are acted upon passively."
+      },
+      "cz_learning_point": "Czech narrative uses past tense for both ('než loď přistála, akreditiv byl otevřen'). English contracts require Past Perfect.",
+      "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
+    },
+    {
+      "id": "TTR-SALES-B1-013-Q9",
+      "prompt": "By the time the container vessel docked at Alexandria port, the official military homologation certificate _____ by the issuing bank.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was granted"
+        },
+        {
+          "key": "B",
+          "text": "has been granted"
+        },
+        {
+          "key": "C",
+          "text": "had been granted"
+        },
+        {
+          "key": "D",
+          "text": "didn't grant"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Past Perfect Passive ('had been granted') correctly expresses an action completed prior to the past docking event.",
+        "wrong_A": "Past Simple ('was granted') does not show priority before past docking.",
+        "wrong_B": "Present Perfect ('has been granted') cannot connect to a completed past narrative.",
+        "wrong_D": "'didn't grant' is active voice; commercial documents are acted upon passively."
+      },
+      "cz_learning_point": "Czech narrative uses past tense for both ('než loď přistála, akreditiv byl otevřen'). English contracts require Past Perfect.",
+      "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
+    },
+    {
+      "id": "TTR-SALES-B1-013-Q10",
+      "prompt": "By the time the container vessel docked at Alexandria port, the final acceptance protocol by the client's inspection committee _____ by the issuing bank.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was signed"
+        },
+        {
+          "key": "B",
+          "text": "had been signed"
+        },
+        {
+          "key": "C",
+          "text": "has been signed"
+        },
+        {
+          "key": "D",
+          "text": "didn't sign"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Past Perfect Passive ('had been signed') correctly expresses an action completed prior to the past docking event.",
+        "wrong_A": "Past Simple ('was signed') does not show priority before past docking.",
+        "wrong_C": "Present Perfect ('has been signed') cannot connect to a completed past narrative.",
+        "wrong_D": "'didn't sign' is active voice; commercial documents are acted upon passively."
+      },
+      "cz_learning_point": "Czech narrative uses past tense for both ('než loď přistála, akreditiv byl otevřen'). English contracts require Past Perfect.",
+      "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
+    }
+  ]
+}

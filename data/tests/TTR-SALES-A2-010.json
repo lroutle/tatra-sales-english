@@ -1,0 +1,326 @@
+{
+  "test_id": "TTR-SALES-A2-010",
+  "title": "Dealing with Simple Delivery Delay Inquiries",
+  "level": "A2",
+  "category": "core",
+  "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)",
+  "estimated_time_minutes": 10,
+  "description": "Foundational sales English module covering dealing with simple delivery delay inquiries.",
+  "learning_objectives": [
+    "Master professional Apologetic Phrasing & Present Continuous in technical sales and export contracts",
+    "Eliminate common Czech interference errors in dealing with simple delivery delay inquiries",
+    "Demonstrate mastery in international negotiations and Incoterms documentation"
+  ],
+  "questions": [
+    {
+      "id": "TTR-SALES-A2-010-Q1",
+      "prompt": "Our sales manager regularly _____ the revised quotation for twenty 8x8 chassis to the Egyptian ministry.",
+      "options": [
+        {
+          "key": "A",
+          "text": "send"
+        },
+        {
+          "key": "B",
+          "text": "sends"
+        },
+        {
+          "key": "C",
+          "text": "sending"
+        },
+        {
+          "key": "D",
+          "text": "is send"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('sends').",
+        "wrong_A": "Base form 'send' lacks singular '-s'.",
+        "wrong_C": "Participle 'sending' cannot act as finite verb without auxiliary.",
+        "wrong_D": "'is send' is an ungrammatical verb phrase."
+      },
+      "cz_learning_point": "Czech 'manažer posílá'. English 3rd person singular takes -s: 'sends'.",
+      "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
+    },
+    {
+      "id": "TTR-SALES-A2-010-Q2",
+      "prompt": "The dealership representative regularly _____ the proforma invoice before arranging the bank wire transfer.",
+      "options": [
+        {
+          "key": "A",
+          "text": "review"
+        },
+        {
+          "key": "B",
+          "text": "reviewing"
+        },
+        {
+          "key": "C",
+          "text": "reviews"
+        },
+        {
+          "key": "D",
+          "text": "is review"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('reviews').",
+        "wrong_A": "Base form 'review' lacks singular '-s'.",
+        "wrong_B": "Participle 'reviewing' cannot act as finite verb without auxiliary.",
+        "wrong_D": "'is review' is an ungrammatical verb phrase."
+      },
+      "cz_learning_point": "Singular subject takes 'reviews' with 3rd person singular -s.",
+      "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
+    },
+    {
+      "id": "TTR-SALES-A2-010-Q3",
+      "prompt": "Our logistics coordinator regularly _____ the delivery schedule with the Hamburg sea freight forwarder.",
+      "options": [
+        {
+          "key": "A",
+          "text": "confirms"
+        },
+        {
+          "key": "B",
+          "text": "confirm"
+        },
+        {
+          "key": "C",
+          "text": "confirming"
+        },
+        {
+          "key": "D",
+          "text": "is confirm"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('confirms').",
+        "wrong_B": "Base form 'confirm' lacks singular '-s'.",
+        "wrong_C": "Participle 'confirming' cannot act as finite verb without auxiliary.",
+        "wrong_D": "'is confirm' is an ungrammatical verb phrase."
+      },
+      "cz_learning_point": "Czech 'koordinátor potvrzuje'. Use 'confirms'.",
+      "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
+    },
+    {
+      "id": "TTR-SALES-A2-010-Q4",
+      "prompt": "The prospective client regularly _____ about the payload capacity of the Tatra Phoenix mining tipper.",
+      "options": [
+        {
+          "key": "A",
+          "text": "inquire"
+        },
+        {
+          "key": "B",
+          "text": "inquiring"
+        },
+        {
+          "key": "C",
+          "text": "is inquire"
+        },
+        {
+          "key": "D",
+          "text": "inquires"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('inquires').",
+        "wrong_A": "Base form 'inquire' lacks singular '-s'.",
+        "wrong_B": "Participle 'inquiring' cannot act as finite verb without auxiliary.",
+        "wrong_C": "'is inquire' is an ungrammatical verb phrase."
+      },
+      "cz_learning_point": "Singular subject takes 'inquires'.",
+      "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
+    },
+    {
+      "id": "TTR-SALES-A2-010-Q5",
+      "prompt": "The export specialist regularly _____ all export customs documents into the digital freight portal.",
+      "options": [
+        {
+          "key": "A",
+          "text": "upload"
+        },
+        {
+          "key": "B",
+          "text": "uploading"
+        },
+        {
+          "key": "C",
+          "text": "uploads"
+        },
+        {
+          "key": "D",
+          "text": "is upload"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('uploads').",
+        "wrong_A": "Base form 'upload' lacks singular '-s'.",
+        "wrong_B": "Participle 'uploading' cannot act as finite verb without auxiliary.",
+        "wrong_D": "'is upload' is an ungrammatical verb phrase."
+      },
+      "cz_learning_point": "Singular subject takes 'uploads'.",
+      "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
+    },
+    {
+      "id": "TTR-SALES-A2-010-Q6",
+      "prompt": "The defense liaison officer regularly _____ the VIP client delegation at Prague Airport tomorrow morning.",
+      "options": [
+        {
+          "key": "A",
+          "text": "meet"
+        },
+        {
+          "key": "B",
+          "text": "meets"
+        },
+        {
+          "key": "C",
+          "text": "meeting"
+        },
+        {
+          "key": "D",
+          "text": "is meet"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('meets').",
+        "wrong_A": "Base form 'meet' lacks singular '-s'.",
+        "wrong_C": "Participle 'meeting' cannot act as finite verb without auxiliary.",
+        "wrong_D": "'is meet' is an ungrammatical verb phrase."
+      },
+      "cz_learning_point": "Singular subject takes 'meets'.",
+      "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
+    },
+    {
+      "id": "TTR-SALES-A2-010-Q7",
+      "prompt": "The technical sales engineer regularly _____ the chassis technical parameters during the video conference.",
+      "options": [
+        {
+          "key": "A",
+          "text": "explain"
+        },
+        {
+          "key": "B",
+          "text": "explaining"
+        },
+        {
+          "key": "C",
+          "text": "is explain"
+        },
+        {
+          "key": "D",
+          "text": "explains"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('explains').",
+        "wrong_A": "Base form 'explain' lacks singular '-s'.",
+        "wrong_B": "Participle 'explaining' cannot act as finite verb without auxiliary.",
+        "wrong_C": "'is explain' is an ungrammatical verb phrase."
+      },
+      "cz_learning_point": "Singular subject takes 'explains'.",
+      "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
+    },
+    {
+      "id": "TTR-SALES-A2-010-Q8",
+      "prompt": "The international distributor regularly _____ five spare drive axles under warranty reimbursement.",
+      "options": [
+        {
+          "key": "A",
+          "text": "claims"
+        },
+        {
+          "key": "B",
+          "text": "claim"
+        },
+        {
+          "key": "C",
+          "text": "claiming"
+        },
+        {
+          "key": "D",
+          "text": "is claim"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('claims').",
+        "wrong_B": "Base form 'claim' lacks singular '-s'.",
+        "wrong_C": "Participle 'claiming' cannot act as finite verb without auxiliary.",
+        "wrong_D": "'is claim' is an ungrammatical verb phrase."
+      },
+      "cz_learning_point": "Singular subject takes 'claims'.",
+      "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
+    },
+    {
+      "id": "TTR-SALES-A2-010-Q9",
+      "prompt": "The commercial assistant regularly _____ order confirmation letters to foreign dealerships every Friday.",
+      "options": [
+        {
+          "key": "A",
+          "text": "email"
+        },
+        {
+          "key": "B",
+          "text": "emailing"
+        },
+        {
+          "key": "C",
+          "text": "emails"
+        },
+        {
+          "key": "D",
+          "text": "is email"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('emails').",
+        "wrong_A": "Base form 'email' lacks singular '-s'.",
+        "wrong_B": "Participle 'emailing' cannot act as finite verb without auxiliary.",
+        "wrong_D": "'is email' is an ungrammatical verb phrase."
+      },
+      "cz_learning_point": "Singular subject takes 'emails' with -s.",
+      "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
+    },
+    {
+      "id": "TTR-SALES-A2-010-Q10",
+      "prompt": "The procurement manager regularly _____ the contract payment milestone once shipping containers are sealed.",
+      "options": [
+        {
+          "key": "A",
+          "text": "release"
+        },
+        {
+          "key": "B",
+          "text": "releases"
+        },
+        {
+          "key": "C",
+          "text": "releasing"
+        },
+        {
+          "key": "D",
+          "text": "is release"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Singular subject takes 3rd person singular Present Simple with '-s' ('releases').",
+        "wrong_A": "Base form 'release' lacks singular '-s'.",
+        "wrong_C": "Participle 'releasing' cannot act as finite verb without auxiliary.",
+        "wrong_D": "'is release' is an ungrammatical verb phrase."
+      },
+      "cz_learning_point": "Singular subject takes 'releases'.",
+      "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
+    }
+  ]
+}

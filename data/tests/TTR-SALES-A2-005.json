@@ -1,0 +1,326 @@
+{
+  "test_id": "TTR-SALES-A2-005",
+  "title": "Delivery Deadlines & Shipping Schedules: Prepositions of Time",
+  "level": "A2",
+  "category": "core",
+  "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)",
+  "estimated_time_minutes": 10,
+  "description": "Specify vehicle dispatch dates, shipping milestones, and factory handover deadlines using prepositions of time.",
+  "learning_objectives": [
+    "Use prepositions of time: in, on, at, by, within",
+    "Distinguish deadline 'by Friday' from duration 'in two weeks'",
+    "Communicate contract delivery dates without Czech interference"
+  ],
+  "questions": [
+    {
+      "id": "TTR-SALES-A2-005-Q1",
+      "prompt": "All five chassis units will be ready for railway dispatch _____ October 24th.",
+      "options": [
+        {
+          "key": "A",
+          "text": "in"
+        },
+        {
+          "key": "B",
+          "text": "on"
+        },
+        {
+          "key": "C",
+          "text": "at"
+        },
+        {
+          "key": "D",
+          "text": "by the"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Specific calendar dates take preposition 'on': 'on October 24th'.",
+        "wrong_A": "'in' is used for months or years without specific dates.",
+        "wrong_C": "'at' is used for specific times of day.",
+        "wrong_D": "'by the' is ungrammatical before date."
+      },
+      "cz_learning_point": "Czech 'dne 24. října'. Specific dates take 'on': 'on October 24th'.",
+      "workplace_track": "Commercial Contracts & Incoterms 2020"
+    },
+    {
+      "id": "TTR-SALES-A2-005-Q2",
+      "prompt": "The customer requires final delivery _____ the end of the fourth quarter.",
+      "options": [
+        {
+          "key": "A",
+          "text": "at"
+        },
+        {
+          "key": "B",
+          "text": "in"
+        },
+        {
+          "key": "C",
+          "text": "by"
+        },
+        {
+          "key": "D",
+          "text": "on"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Deadline marker ('no later than') takes 'by': 'by the end of Q4'.",
+        "wrong_A": "'at' indicates a point in time, not a deadline limit.",
+        "wrong_B": "'in' means inside the period, not a strict deadline.",
+        "wrong_D": "'on' is for days/dates."
+      },
+      "cz_learning_point": "Czech 'nejpozději do konce 4. čtvrtletí'. Deadlines (no later than) take 'by'.",
+      "workplace_track": "Commercial Contracts & Incoterms 2020"
+    },
+    {
+      "id": "TTR-SALES-A2-005-Q3",
+      "prompt": "The international transport vessel departs from Hamburg port _____ 16:30.",
+      "options": [
+        {
+          "key": "A",
+          "text": "at"
+        },
+        {
+          "key": "B",
+          "text": "in"
+        },
+        {
+          "key": "C",
+          "text": "on"
+        },
+        {
+          "key": "D",
+          "text": "by"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Specific clock times take preposition 'at': 'at 16:30'.",
+        "wrong_B": "'in' is for months/years.",
+        "wrong_C": "'on' is for days/dates.",
+        "wrong_D": "'by' indicates a deadline, not a scheduled departure time."
+      },
+      "cz_learning_point": "Czech 'v 16:30'. Clock times take 'at'.",
+      "workplace_track": "Commercial Contracts & Incoterms 2020"
+    },
+    {
+      "id": "TTR-SALES-A2-005-Q4",
+      "prompt": "Production of the custom military tippers will commence _____ June 2027.",
+      "options": [
+        {
+          "key": "A",
+          "text": "at"
+        },
+        {
+          "key": "B",
+          "text": "on"
+        },
+        {
+          "key": "C",
+          "text": "by the"
+        },
+        {
+          "key": "D",
+          "text": "in"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Months and years without specific calendar days take 'in': 'in June 2027'.",
+        "wrong_A": "'at' is for clock times.",
+        "wrong_B": "'on' is for specific days.",
+        "wrong_C": "'by the' is ungrammatical here."
+      },
+      "cz_learning_point": "Czech 'v červnu 2027'. Months and years take 'in'.",
+      "workplace_track": "Commercial Contracts & Incoterms 2020"
+    },
+    {
+      "id": "TTR-SALES-A2-005-Q5",
+      "prompt": "The technical handover inspection will take place _____ Monday morning.",
+      "options": [
+        {
+          "key": "A",
+          "text": "in"
+        },
+        {
+          "key": "B",
+          "text": "at"
+        },
+        {
+          "key": "C",
+          "text": "on"
+        },
+        {
+          "key": "D",
+          "text": "by"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Days of the week and parts of specific days take 'on': 'on Monday morning'.",
+        "wrong_A": "'in' is used for non-specific mornings ('in the morning'), but specific days take 'on'.",
+        "wrong_B": "'at' is for clock times.",
+        "wrong_D": "'by' indicates deadline."
+      },
+      "cz_learning_point": "Czech 'v pondělí ráno'. Days of the week take 'on': 'on Monday morning'.",
+      "workplace_track": "International Sales & Customer Inquiries"
+    },
+    {
+      "id": "TTR-SALES-A2-005-Q6",
+      "prompt": "The client must submit formal acceptance documents _____ 30 calendar days of delivery.",
+      "options": [
+        {
+          "key": "A",
+          "text": "during"
+        },
+        {
+          "key": "B",
+          "text": "within"
+        },
+        {
+          "key": "C",
+          "text": "in between"
+        },
+        {
+          "key": "D",
+          "text": "at"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Time limit/window within which an action must happen takes 'within': 'within 30 days'.",
+        "wrong_A": "'during' describes simultaneous action, not a deadline limit.",
+        "wrong_C": "'in between' is spatial.",
+        "wrong_D": "'at' is for exact points."
+      },
+      "cz_learning_point": "Czech 'do 30 dnů / ve lhůtě 30 dnů'. Time window takes 'within 30 calendar days'.",
+      "workplace_track": "Commercial Contracts & Incoterms 2020"
+    },
+    {
+      "id": "TTR-SALES-A2-005-Q7",
+      "prompt": "The international sales office is closed _____ public holidays in the Czech Republic.",
+      "options": [
+        {
+          "key": "A",
+          "text": "in"
+        },
+        {
+          "key": "B",
+          "text": "on"
+        },
+        {
+          "key": "C",
+          "text": "at"
+        },
+        {
+          "key": "D",
+          "text": "by"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Holidays and named days take 'on': 'on public holidays'.",
+        "wrong_A": "'in' is incorrect for holidays.",
+        "wrong_C": "'at' is used for periods like 'at Christmas', but 'holidays' takes 'on'.",
+        "wrong_D": "'by' indicates deadline."
+      },
+      "cz_learning_point": "Czech 'o státních svátcích'. Plural holiday days take 'on public holidays'.",
+      "workplace_track": "International Sales & Customer Inquiries"
+    },
+    {
+      "id": "TTR-SALES-A2-005-Q8",
+      "prompt": "Please ensure the signed export declaration arrives _____ 17:00 tomorrow at the latest.",
+      "options": [
+        {
+          "key": "A",
+          "text": "by"
+        },
+        {
+          "key": "B",
+          "text": "in"
+        },
+        {
+          "key": "C",
+          "text": "on"
+        },
+        {
+          "key": "D",
+          "text": "to"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Deadline ('no later than') takes 'by': 'by 17:00 tomorrow'.",
+        "wrong_B": "'in' expresses duration into the future.",
+        "wrong_C": "'on' is for dates.",
+        "wrong_D": "'to' indicates movement toward."
+      },
+      "cz_learning_point": "Czech 'nejpozději do zítřejších 17:00'. Strict deadline takes 'by'.",
+      "workplace_track": "Commercial Contracts & Incoterms 2020"
+    },
+    {
+      "id": "TTR-SALES-A2-005-Q9",
+      "prompt": "The sea voyage from Antwerp to Alexandria typically takes _____ three weeks.",
+      "options": [
+        {
+          "key": "A",
+          "text": "in"
+        },
+        {
+          "key": "B",
+          "text": "around"
+        },
+        {
+          "key": "C",
+          "text": "at"
+        },
+        {
+          "key": "D",
+          "text": "on"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Approximation of duration takes 'around' (or 'about'): 'around three weeks'.",
+        "wrong_A": "'in three weeks' means three weeks from now.",
+        "wrong_C": "'at' is for clock times.",
+        "wrong_D": "'on' is for days."
+      },
+      "cz_learning_point": "Czech 'přibližně tři týdny'. Approximate duration takes 'around / about three weeks'.",
+      "workplace_track": "Commercial Contracts & Incoterms 2020"
+    },
+    {
+      "id": "TTR-SALES-A2-005-Q10",
+      "prompt": "The factory warranty coverage begins _____ the date of formal vehicle handover.",
+      "options": [
+        {
+          "key": "A",
+          "text": "at"
+        },
+        {
+          "key": "B",
+          "text": "on"
+        },
+        {
+          "key": "C",
+          "text": "in"
+        },
+        {
+          "key": "D",
+          "text": "from"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Preposition for dates/calendar days is 'on': 'on the date of handover' (or 'from the date', but 'on the date' specifies the effective start date).",
+        "wrong_A": "'at' is for clock times.",
+        "wrong_C": "'in' is for months/years.",
+        "wrong_D": "'from' is informal compared to 'on the date of'."
+      },
+      "cz_learning_point": "Czech 'dnem předání vozidla'. Formal effective date phrase: 'on the date of vehicle handover'.",
+      "workplace_track": "Commercial Contracts & Incoterms 2020"
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "test_id": "TTR-SALES-C2-005",
+  "title": "Multi-Billion Dollar NATO Framework Agreement Defense Consortium Inquest",
+  "level": "C2",
+  "category": "core",
+  "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)",
+  "estimated_time_minutes": 20,
+  "description": "Mastery-tier international commercial and defense sales module examining multi-billion dollar nato framework agreement defense consortium inquest.",
+  "learning_objectives": [
+    "Master professional High-Register Executive Governance in technical sales and export contracts",
+    "Eliminate common Czech interference errors in multi-billion dollar nato framework agreement defense consortium inquest",
+    "Demonstrate mastery in international negotiations and Incoterms documentation"
+  ],
+  "questions": [
+    {
+      "id": "TTR-SALES-C2-005-Q1",
+      "prompt": "The international arbitration tribunal mandated that the respondent sovereign state _____ all confiscated vehicle documentation forthwith.",
+      "options": [
+        {
+          "key": "A",
+          "text": "restitutes"
+        },
+        {
+          "key": "B",
+          "text": "restitute"
+        },
+        {
+          "key": "C",
+          "text": "shall restitute"
+        },
+        {
+          "key": "D",
+          "text": "must to restitute"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "C2 legal and arbitration discourse: Mandative subjunctive requires base form 'restitute' after 'mandated that'.",
+        "wrong_A": "Option 'restitutes' violates formal arbitration syntax or mandative subjunctive requirements.",
+        "wrong_C": "Option 'shall restitute' is an ungrammatical indicative construction in legal agreements.",
+        "wrong_D": "Option 'must to restitute' is completely non-standard in international contract law."
+      },
+      "cz_learning_point": "International arbitration and defense contracts demand strict subjunctive ('stipulate that dispute be referred') and auxiliary inversion ('Seldom has the court upheld').",
+      "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
+    },
+    {
+      "id": "TTR-SALES-C2-005-Q2",
+      "prompt": "Seldom _____ an international court of arbitration upheld a claim of force majeure arising purely from predictable currency devaluations.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "was"
+        },
+        {
+          "key": "C",
+          "text": "has"
+        },
+        {
+          "key": "D",
+          "text": "did"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "C2 legal and arbitration discourse: Negative inversion: 'Seldom has an international court upheld'.",
+        "wrong_A": "Option 'is' violates formal arbitration syntax or mandative subjunctive requirements.",
+        "wrong_B": "Option 'was' is an ungrammatical indicative construction in legal agreements.",
+        "wrong_D": "Option 'did' is completely non-standard in international contract law."
+      },
+      "cz_learning_point": "International arbitration and defense contracts demand strict subjunctive ('stipulate that dispute be referred') and auxiliary inversion ('Seldom has the court upheld').",
+      "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
+    },
+    {
+      "id": "TTR-SALES-C2-005-Q3",
+      "prompt": "It is of paramount legal necessity that each consortium partner _____ strict joint and several liability under the EPCMV contract.",
+      "options": [
+        {
+          "key": "A",
+          "text": "disclaim"
+        },
+        {
+          "key": "B",
+          "text": "disclaims"
+        },
+        {
+          "key": "C",
+          "text": "will disclaim"
+        },
+        {
+          "key": "D",
+          "text": "must to disclaim"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "C2 legal and arbitration discourse: Formulaic subjunctive after 'paramount legal necessity that' requires base form 'disclaim'.",
+        "wrong_B": "Option 'disclaims' violates formal arbitration syntax or mandative subjunctive requirements.",
+        "wrong_C": "Option 'will disclaim' is an ungrammatical indicative construction in legal agreements.",
+        "wrong_D": "Option 'must to disclaim' is completely non-standard in international contract law."
+      },
+      "cz_learning_point": "International arbitration and defense contracts demand strict subjunctive ('stipulate that dispute be referred') and auxiliary inversion ('Seldom has the court upheld').",
+      "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
+    },
+    {
+      "id": "TTR-SALES-C2-005-Q4",
+      "prompt": "_____ the defense procurement agency to repudiate the bilateral offset memorandum, immediate recourse to the ICC in Paris would ensue.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Had"
+        },
+        {
+          "key": "B",
+          "text": "Should"
+        },
+        {
+          "key": "C",
+          "text": "If were"
+        },
+        {
+          "key": "D",
+          "text": "Were"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "C2 legal and arbitration discourse: Second Conditional inversion with 'Were [subject] to [verb]' expresses formal hypothetical repudiation.",
+        "wrong_A": "Option 'Had' violates formal arbitration syntax or mandative subjunctive requirements.",
+        "wrong_B": "Option 'Should' is an ungrammatical indicative construction in legal agreements.",
+        "wrong_C": "Option 'If were' is completely non-standard in international contract law."
+      },
+      "cz_learning_point": "International arbitration and defense contracts demand strict subjunctive ('stipulate that dispute be referred') and auxiliary inversion ('Seldom has the court upheld').",
+      "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
+    },
+    {
+      "id": "TTR-SALES-C2-005-Q5",
+      "prompt": "Not only _____ fail to open the irrevocable confirmed letter of credit on schedule, but the buyer also repudiated the demurrage invoice.",
+      "options": [
+        {
+          "key": "A",
+          "text": "the sovereign buyer did"
+        },
+        {
+          "key": "B",
+          "text": "was the sovereign buyer"
+        },
+        {
+          "key": "C",
+          "text": "did the sovereign buyer"
+        },
+        {
+          "key": "D",
+          "text": "has the sovereign buyer"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "C2 legal and arbitration discourse: Inversion after 'Not only': 'did the sovereign buyer fail'.",
+        "wrong_A": "Option 'the sovereign buyer did' violates formal arbitration syntax or mandative subjunctive requirements.",
+        "wrong_B": "Option 'was the sovereign buyer' is an ungrammatical indicative construction in legal agreements.",
+        "wrong_D": "Option 'has the sovereign buyer' is completely non-standard in international contract law."
+      },
+      "cz_learning_point": "International arbitration and defense contracts demand strict subjunctive ('stipulate that dispute be referred') and auxiliary inversion ('Seldom has the court upheld').",
+      "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
+    },
+    {
+      "id": "TTR-SALES-C2-005-Q6",
+      "prompt": "Under no circumstances _____ the arbitral tribunal to admit unverified third-country bill of lading affidavits into evidence.",
+      "options": [
+        {
+          "key": "A",
+          "text": "are"
+        },
+        {
+          "key": "B",
+          "text": "is"
+        },
+        {
+          "key": "C",
+          "text": "will"
+        },
+        {
+          "key": "D",
+          "text": "has"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "C2 legal and arbitration discourse: Negative inversion: 'Under no circumstances is the tribunal to admit'.",
+        "wrong_A": "Option 'are' violates formal arbitration syntax or mandative subjunctive requirements.",
+        "wrong_C": "Option 'will' is an ungrammatical indicative construction in legal agreements.",
+        "wrong_D": "Option 'has' is completely non-standard in international contract law."
+      },
+      "cz_learning_point": "International arbitration and defense contracts demand strict subjunctive ('stipulate that dispute be referred') and auxiliary inversion ('Seldom has the court upheld').",
+      "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
+    },
+    {
+      "id": "TTR-SALES-C2-005-Q7",
+      "prompt": "The lead commercial litigator insisted that all settlement funds _____ in an escrow account governed by Swiss federal law.",
+      "options": [
+        {
+          "key": "A",
+          "text": "are deposited"
+        },
+        {
+          "key": "B",
+          "text": "will be deposited"
+        },
+        {
+          "key": "C",
+          "text": "must to be deposited"
+        },
+        {
+          "key": "D",
+          "text": "be deposited"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "C2 legal and arbitration discourse: Passive mandative subjunctive: 'insisted that funds be deposited'.",
+        "wrong_A": "Option 'are deposited' violates formal arbitration syntax or mandative subjunctive requirements.",
+        "wrong_B": "Option 'will be deposited' is an ungrammatical indicative construction in legal agreements.",
+        "wrong_C": "Option 'must to be deposited' is completely non-standard in international contract law."
+      },
+      "cz_learning_point": "International arbitration and defense contracts demand strict subjunctive ('stipulate that dispute be referred') and auxiliary inversion ('Seldom has the court upheld').",
+      "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
+    },
+    {
+      "id": "TTR-SALES-C2-005-Q8",
+      "prompt": "Had the state enterprise not sovereignly indemnified the manufacturer against expropriation, the multimillion-dollar fleet delivery _____ halted.",
+      "options": [
+        {
+          "key": "A",
+          "text": "would have been"
+        },
+        {
+          "key": "B",
+          "text": "would be"
+        },
+        {
+          "key": "C",
+          "text": "had been"
+        },
+        {
+          "key": "D",
+          "text": "will be"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "C2 legal and arbitration discourse: Third Conditional passive result: 'would have been halted'.",
+        "wrong_B": "Option 'would be' violates formal arbitration syntax or mandative subjunctive requirements.",
+        "wrong_C": "Option 'had been' is an ungrammatical indicative construction in legal agreements.",
+        "wrong_D": "Option 'will be' is completely non-standard in international contract law."
+      },
+      "cz_learning_point": "International arbitration and defense contracts demand strict subjunctive ('stipulate that dispute be referred') and auxiliary inversion ('Seldom has the court upheld').",
+      "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
+    },
+    {
+      "id": "TTR-SALES-C2-005-Q9",
+      "prompt": "Barely _____ the arbitral award been rendered in Zurich when the losing party initiated annulment proceedings in the federal supreme court.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was"
+        },
+        {
+          "key": "B",
+          "text": "did"
+        },
+        {
+          "key": "C",
+          "text": "had"
+        },
+        {
+          "key": "D",
+          "text": "has"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "C2 legal and arbitration discourse: Inversion: 'Barely had the award been rendered... when...'.",
+        "wrong_A": "Option 'was' violates formal arbitration syntax or mandative subjunctive requirements.",
+        "wrong_B": "Option 'did' is an ungrammatical indicative construction in legal agreements.",
+        "wrong_D": "Option 'has' is completely non-standard in international contract law."
+      },
+      "cz_learning_point": "International arbitration and defense contracts demand strict subjunctive ('stipulate that dispute be referred') and auxiliary inversion ('Seldom has the court upheld').",
+      "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
+    },
+    {
+      "id": "TTR-SALES-C2-005-Q10",
+      "prompt": "The cross-border concession agreement stipulates that any dispute arising out of or in connection with this contract _____ referred to arbitration.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "be"
+        },
+        {
+          "key": "C",
+          "text": "will be"
+        },
+        {
+          "key": "D",
+          "text": "shall to be"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "C2 legal and arbitration discourse: Mandative subjunctive in arbitration agreements: 'stipulates that any dispute be referred'.",
+        "wrong_A": "Option 'is' violates formal arbitration syntax or mandative subjunctive requirements.",
+        "wrong_C": "Option 'will be' is an ungrammatical indicative construction in legal agreements.",
+        "wrong_D": "Option 'shall to be' is completely non-standard in international contract law."
+      },
+      "cz_learning_point": "International arbitration and defense contracts demand strict subjunctive ('stipulate that dispute be referred') and auxiliary inversion ('Seldom has the court upheld').",
+      "workplace_track": "Defense & Government Tenders (NATO STANAG Bids)"
+    }
+  ]
+}

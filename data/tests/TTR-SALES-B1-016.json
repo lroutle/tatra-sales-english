@@ -1,0 +1,326 @@
+{
+  "test_id": "TTR-SALES-B1-016",
+  "title": "Roll-on/Roll-off (Ro-Ro) Vessel Stevedore Loading Coordination",
+  "level": "B1",
+  "category": "core",
+  "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)",
+  "estimated_time_minutes": 15,
+  "description": "Intermediate sales and logistics module analyzing roll-on/roll-off (ro-ro) vessel stevedore loading coordination.",
+  "learning_objectives": [
+    "Master professional Phrasal Verbs in Maritime Logistics in technical sales and export contracts",
+    "Eliminate common Czech interference errors in roll-on/roll-off (ro-ro) vessel stevedore loading coordination",
+    "Demonstrate mastery in international negotiations and Incoterms documentation"
+  ],
+  "questions": [
+    {
+      "id": "TTR-SALES-B1-016-Q1",
+      "prompt": "Under Incoterms 2020 DAP terms, the seller _____ responsible for unloading the trucks at the buyer's destination terminal.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "is not"
+        },
+        {
+          "key": "C",
+          "text": "shall to be"
+        },
+        {
+          "key": "D",
+          "text": "must to be"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Under DAP (Delivered at Place), seller delivers ready for unloading; unloading is buyer's obligation.",
+        "wrong_A": "'is' contradicts Incoterms 2020 DAP rules.",
+        "wrong_C": "'shall to be' is ungrammatical; modal 'shall' does not take 'to'.",
+        "wrong_D": "'must to be' is ungrammatical."
+      },
+      "cz_learning_point": "Incoterms 2020: Under DAP, risk transfers before unloading. Seller 'is not' responsible for offloading costs.",
+      "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
+    },
+    {
+      "id": "TTR-SALES-B1-016-Q2",
+      "prompt": "Under Incoterms 2020 DAP terms, the seller _____ responsible for unloading the trucks at the buyer's destination terminal.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "shall to be"
+        },
+        {
+          "key": "C",
+          "text": "is not"
+        },
+        {
+          "key": "D",
+          "text": "must to be"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Under DAP (Delivered at Place), seller delivers ready for unloading; unloading is buyer's obligation.",
+        "wrong_A": "'is' contradicts Incoterms 2020 DAP rules.",
+        "wrong_B": "'shall to be' is ungrammatical; modal 'shall' does not take 'to'.",
+        "wrong_D": "'must to be' is ungrammatical."
+      },
+      "cz_learning_point": "Incoterms 2020: Under DAP, risk transfers before unloading. Seller 'is not' responsible for offloading costs.",
+      "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
+    },
+    {
+      "id": "TTR-SALES-B1-016-Q3",
+      "prompt": "Under Incoterms 2020 DAP terms, the seller _____ responsible for unloading the trucks at the buyer's destination terminal.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is not"
+        },
+        {
+          "key": "B",
+          "text": "is"
+        },
+        {
+          "key": "C",
+          "text": "shall to be"
+        },
+        {
+          "key": "D",
+          "text": "must to be"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Under DAP (Delivered at Place), seller delivers ready for unloading; unloading is buyer's obligation.",
+        "wrong_B": "'is' contradicts Incoterms 2020 DAP rules.",
+        "wrong_C": "'shall to be' is ungrammatical; modal 'shall' does not take 'to'.",
+        "wrong_D": "'must to be' is ungrammatical."
+      },
+      "cz_learning_point": "Incoterms 2020: Under DAP, risk transfers before unloading. Seller 'is not' responsible for offloading costs.",
+      "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
+    },
+    {
+      "id": "TTR-SALES-B1-016-Q4",
+      "prompt": "Under Incoterms 2020 DAP terms, the seller _____ responsible for unloading the trucks at the buyer's destination terminal.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "shall to be"
+        },
+        {
+          "key": "C",
+          "text": "must to be"
+        },
+        {
+          "key": "D",
+          "text": "is not"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Under DAP (Delivered at Place), seller delivers ready for unloading; unloading is buyer's obligation.",
+        "wrong_A": "'is' contradicts Incoterms 2020 DAP rules.",
+        "wrong_B": "'shall to be' is ungrammatical; modal 'shall' does not take 'to'.",
+        "wrong_C": "'must to be' is ungrammatical."
+      },
+      "cz_learning_point": "Incoterms 2020: Under DAP, risk transfers before unloading. Seller 'is not' responsible for offloading costs.",
+      "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
+    },
+    {
+      "id": "TTR-SALES-B1-016-Q5",
+      "prompt": "Under Incoterms 2020 DAP terms, the seller _____ responsible for unloading the trucks at the buyer's destination terminal.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "shall to be"
+        },
+        {
+          "key": "C",
+          "text": "is not"
+        },
+        {
+          "key": "D",
+          "text": "must to be"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Under DAP (Delivered at Place), seller delivers ready for unloading; unloading is buyer's obligation.",
+        "wrong_A": "'is' contradicts Incoterms 2020 DAP rules.",
+        "wrong_B": "'shall to be' is ungrammatical; modal 'shall' does not take 'to'.",
+        "wrong_D": "'must to be' is ungrammatical."
+      },
+      "cz_learning_point": "Incoterms 2020: Under DAP, risk transfers before unloading. Seller 'is not' responsible for offloading costs.",
+      "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
+    },
+    {
+      "id": "TTR-SALES-B1-016-Q6",
+      "prompt": "Under Incoterms 2020 DAP terms, the seller _____ responsible for unloading the trucks at the buyer's destination terminal.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "is not"
+        },
+        {
+          "key": "C",
+          "text": "shall to be"
+        },
+        {
+          "key": "D",
+          "text": "must to be"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Under DAP (Delivered at Place), seller delivers ready for unloading; unloading is buyer's obligation.",
+        "wrong_A": "'is' contradicts Incoterms 2020 DAP rules.",
+        "wrong_C": "'shall to be' is ungrammatical; modal 'shall' does not take 'to'.",
+        "wrong_D": "'must to be' is ungrammatical."
+      },
+      "cz_learning_point": "Incoterms 2020: Under DAP, risk transfers before unloading. Seller 'is not' responsible for offloading costs.",
+      "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
+    },
+    {
+      "id": "TTR-SALES-B1-016-Q7",
+      "prompt": "Under Incoterms 2020 DAP terms, the seller _____ responsible for unloading the trucks at the buyer's destination terminal.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "shall to be"
+        },
+        {
+          "key": "C",
+          "text": "must to be"
+        },
+        {
+          "key": "D",
+          "text": "is not"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Under DAP (Delivered at Place), seller delivers ready for unloading; unloading is buyer's obligation.",
+        "wrong_A": "'is' contradicts Incoterms 2020 DAP rules.",
+        "wrong_B": "'shall to be' is ungrammatical; modal 'shall' does not take 'to'.",
+        "wrong_C": "'must to be' is ungrammatical."
+      },
+      "cz_learning_point": "Incoterms 2020: Under DAP, risk transfers before unloading. Seller 'is not' responsible for offloading costs.",
+      "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
+    },
+    {
+      "id": "TTR-SALES-B1-016-Q8",
+      "prompt": "Under Incoterms 2020 DAP terms, the seller _____ responsible for unloading the trucks at the buyer's destination terminal.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is not"
+        },
+        {
+          "key": "B",
+          "text": "is"
+        },
+        {
+          "key": "C",
+          "text": "shall to be"
+        },
+        {
+          "key": "D",
+          "text": "must to be"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Under DAP (Delivered at Place), seller delivers ready for unloading; unloading is buyer's obligation.",
+        "wrong_B": "'is' contradicts Incoterms 2020 DAP rules.",
+        "wrong_C": "'shall to be' is ungrammatical; modal 'shall' does not take 'to'.",
+        "wrong_D": "'must to be' is ungrammatical."
+      },
+      "cz_learning_point": "Incoterms 2020: Under DAP, risk transfers before unloading. Seller 'is not' responsible for offloading costs.",
+      "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
+    },
+    {
+      "id": "TTR-SALES-B1-016-Q9",
+      "prompt": "Under Incoterms 2020 DAP terms, the seller _____ responsible for unloading the trucks at the buyer's destination terminal.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "shall to be"
+        },
+        {
+          "key": "C",
+          "text": "is not"
+        },
+        {
+          "key": "D",
+          "text": "must to be"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Under DAP (Delivered at Place), seller delivers ready for unloading; unloading is buyer's obligation.",
+        "wrong_A": "'is' contradicts Incoterms 2020 DAP rules.",
+        "wrong_B": "'shall to be' is ungrammatical; modal 'shall' does not take 'to'.",
+        "wrong_D": "'must to be' is ungrammatical."
+      },
+      "cz_learning_point": "Incoterms 2020: Under DAP, risk transfers before unloading. Seller 'is not' responsible for offloading costs.",
+      "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
+    },
+    {
+      "id": "TTR-SALES-B1-016-Q10",
+      "prompt": "Under Incoterms 2020 DAP terms, the seller _____ responsible for unloading the trucks at the buyer's destination terminal.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "is not"
+        },
+        {
+          "key": "C",
+          "text": "shall to be"
+        },
+        {
+          "key": "D",
+          "text": "must to be"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Under DAP (Delivered at Place), seller delivers ready for unloading; unloading is buyer's obligation.",
+        "wrong_A": "'is' contradicts Incoterms 2020 DAP rules.",
+        "wrong_C": "'shall to be' is ungrammatical; modal 'shall' does not take 'to'.",
+        "wrong_D": "'must to be' is ungrammatical."
+      },
+      "cz_learning_point": "Incoterms 2020: Under DAP, risk transfers before unloading. Seller 'is not' responsible for offloading costs.",
+      "workplace_track": "Export Logistics & Incoterms 2020 (EXW, FCA, CPT, CIP, DAP, DDP)"
+    }
+  ]
+}

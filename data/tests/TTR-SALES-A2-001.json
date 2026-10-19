@@ -1,0 +1,326 @@
+{
+  "test_id": "TTR-SALES-A2-001",
+  "title": "Customer Inquiries, Vehicle Pricing & Stock: Present Simple",
+  "level": "A2",
+  "category": "core",
+  "workplace_track": "Customer Inquiries, Quotations & Specifications",
+  "estimated_time_minutes": 10,
+  "description": "Essential English for answering foreign dealer inquiries about truck prices, models in stock, and basic lead times.",
+  "learning_objectives": [
+    "Ask and answer basic customer questions about vehicle availability",
+    "Use correct question word order with 'How much' and 'How many'",
+    "Eliminate Czech preposition and word order transfer in sales inquiries"
+  ],
+  "questions": [
+    {
+      "id": "TTR-SALES-A2-001-Q1",
+      "prompt": "How much _____ a standard 6x6 Tatra Phoenix chassis cost under EXW terms?",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "does"
+        },
+        {
+          "key": "C",
+          "text": "do"
+        },
+        {
+          "key": "D",
+          "text": "has"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Singular subject 'chassis' with main action verb 'cost' requires auxiliary 'does'.",
+        "wrong_A": "'is' cannot be used with base verb 'cost'.",
+        "wrong_C": "'do' is plural.",
+        "wrong_D": "'has' cannot form this question."
+      },
+      "cz_learning_point": "Czech 'Kolik stojí...?'. In English questions with verbs, use 'How much does [subject] cost?'.",
+      "workplace_track": "Technical Vehicle Specifications & Pitching"
+    },
+    {
+      "id": "TTR-SALES-A2-001-Q2",
+      "prompt": "How many 8x8 military trucks _____ currently available in factory stock?",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "does"
+        },
+        {
+          "key": "C",
+          "text": "are"
+        },
+        {
+          "key": "D",
+          "text": "have"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "'How many trucks' is plural and asks about existence, taking 'are'.",
+        "wrong_A": "'is' is singular.",
+        "wrong_B": "'does' is singular auxiliary.",
+        "wrong_D": "'have' does not match the existence structure."
+      },
+      "cz_learning_point": "Czech 'Kolik nákladních vozů je skladem?'. Plural subject requires 'are'.",
+      "workplace_track": "Technical Vehicle Specifications & Pitching"
+    },
+    {
+      "id": "TTR-SALES-A2-001-Q3",
+      "prompt": "Our sales department _____ technical datasheets in English and German.",
+      "options": [
+        {
+          "key": "A",
+          "text": "provides"
+        },
+        {
+          "key": "B",
+          "text": "provide"
+        },
+        {
+          "key": "C",
+          "text": "is provide"
+        },
+        {
+          "key": "D",
+          "text": "providing"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Singular corporate subject 'Our sales department' takes 'provides' with singular '-s'.",
+        "wrong_B": "Missing third person singular '-s'.",
+        "wrong_C": "Ungrammatical verb phrase.",
+        "wrong_D": "Participle alone cannot be finite verb."
+      },
+      "cz_learning_point": "Czech 'Naše obchodní oddělení poskytuje'. Remember singular department takes '-s' in English.",
+      "workplace_track": "Technical Vehicle Specifications & Pitching"
+    },
+    {
+      "id": "TTR-SALES-A2-001-Q4",
+      "prompt": "When _____ the customer need the final commercial invoice?",
+      "options": [
+        {
+          "key": "A",
+          "text": "do"
+        },
+        {
+          "key": "B",
+          "text": "is"
+        },
+        {
+          "key": "C",
+          "text": "are"
+        },
+        {
+          "key": "D",
+          "text": "does"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Singular subject 'the customer' requires auxiliary 'does' in Present Simple questions.",
+        "wrong_A": "'do' is plural.",
+        "wrong_B": "'is' cannot pair with main verb 'need'.",
+        "wrong_C": "'are' is plural."
+      },
+      "cz_learning_point": "Czech 'Kdy zákazník potřebuje...?'. In English: 'When does the customer need...?'.",
+      "workplace_track": "Commercial Negotiation & Payment Milestones"
+    },
+    {
+      "id": "TTR-SALES-A2-001-Q5",
+      "prompt": "The client _____ not want the standard manual transmission; they prefer automatic.",
+      "options": [
+        {
+          "key": "A",
+          "text": "do"
+        },
+        {
+          "key": "B",
+          "text": "is"
+        },
+        {
+          "key": "C",
+          "text": "does"
+        },
+        {
+          "key": "D",
+          "text": "are"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Singular subject 'The client' takes 'does not want'.",
+        "wrong_A": "'do' is plural.",
+        "wrong_B": "'is not want' is ungrammatical.",
+        "wrong_D": "'are' is plural."
+      },
+      "cz_learning_point": "Czech 'Zákazník nechce'. Use 'does not want', never *is not want*.",
+      "workplace_track": "Technical Vehicle Specifications & Pitching"
+    },
+    {
+      "id": "TTR-SALES-A2-001-Q6",
+      "prompt": "_____ you send us your company VAT number before we prepare the quotation?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Can"
+        },
+        {
+          "key": "B",
+          "text": "Do"
+        },
+        {
+          "key": "C",
+          "text": "Are"
+        },
+        {
+          "key": "D",
+          "text": "Have"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Modal 'Can' expresses a polite commercial request ('Can you send us...?').",
+        "wrong_B": "'Do you send' asks about habitual routine, not a request.",
+        "wrong_C": "'Are you send' is ungrammatical.",
+        "wrong_D": "'Have you send' violates participle grammar."
+      },
+      "cz_learning_point": "In commercial email requests, start with 'Can you send us...' or 'Could you please send us...'.",
+      "workplace_track": "Commercial Negotiation & Payment Milestones"
+    },
+    {
+      "id": "TTR-SALES-A2-001-Q7",
+      "prompt": "All export prices in this price list _____ valid until the end of November.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "has"
+        },
+        {
+          "key": "C",
+          "text": "are"
+        },
+        {
+          "key": "D",
+          "text": "have"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Plural subject 'All export prices' takes 'are'.",
+        "wrong_A": "'is' is singular.",
+        "wrong_B": "'has' cannot connect subject to adjective 'valid'.",
+        "wrong_D": "'have' cannot connect subject to adjective 'valid'."
+      },
+      "cz_learning_point": "Czech 'Všechny exportní ceny jsou platné'. 'Prices' is plural $\rightarrow$ 'are valid'.",
+      "workplace_track": "Export Logistics & Incoterms 2020"
+    },
+    {
+      "id": "TTR-SALES-A2-001-Q8",
+      "prompt": "The Australian mining buyer _____ five Phoenix dump trucks every quarter.",
+      "options": [
+        {
+          "key": "A",
+          "text": "buys"
+        },
+        {
+          "key": "B",
+          "text": "buy"
+        },
+        {
+          "key": "C",
+          "text": "is buy"
+        },
+        {
+          "key": "D",
+          "text": "buying"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Singular subject 'The buyer' requires 3rd person singular 'buys'.",
+        "wrong_B": "'buy' lacks singular '-s'.",
+        "wrong_C": "Invalid verb phrase.",
+        "wrong_D": "Participle alone cannot be main verb."
+      },
+      "cz_learning_point": "Czech 'Australský těžař kupuje'. Add '-s' to third person singular: 'buys'.",
+      "workplace_track": "Commercial Negotiation & Payment Milestones"
+    },
+    {
+      "id": "TTR-SALES-A2-001-Q9",
+      "prompt": "Is the spare parts catalog available _____ our online dealer portal?",
+      "options": [
+        {
+          "key": "A",
+          "text": "at"
+        },
+        {
+          "key": "B",
+          "text": "on"
+        },
+        {
+          "key": "C",
+          "text": "in"
+        },
+        {
+          "key": "D",
+          "text": "to"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Websites, portals, and digital platforms always take the preposition 'on' ('on our portal').",
+        "wrong_A": "'at' is used for physical locations or specific email addresses.",
+        "wrong_C": "Czechs often say *in the portal* translated from 'v portálu'. English requires 'on the portal'.",
+        "wrong_D": "'to' denotes direction."
+      },
+      "cz_learning_point": "Czechs say 'v portálu / na internetu'. In English, always use 'on our website / on the dealer portal'.",
+      "workplace_track": "Warranty Claims & Dealer Network Service"
+    },
+    {
+      "id": "TTR-SALES-A2-001-Q10",
+      "prompt": "We _____ have these specific all-terrain tires in stock today.",
+      "options": [
+        {
+          "key": "A",
+          "text": "aren't"
+        },
+        {
+          "key": "B",
+          "text": "don't"
+        },
+        {
+          "key": "C",
+          "text": "doesn't"
+        },
+        {
+          "key": "D",
+          "text": "haven't"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Subject 'We' takes 'don't have' in Present Simple.",
+        "wrong_A": "'aren't have' is ungrammatical.",
+        "wrong_C": "'doesn't' is for third person singular (he/she/it).",
+        "wrong_D": "'haven't' as main verb negation without 'got' is non-standard in modern commercial English."
+      },
+      "cz_learning_point": "Czech 'Nemáme skladem'. In English, say 'We don't have in stock'.",
+      "workplace_track": "Technical Vehicle Specifications & Pitching"
+    }
+  ]
+}

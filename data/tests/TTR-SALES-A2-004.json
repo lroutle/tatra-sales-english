@@ -1,0 +1,326 @@
+{
+  "test_id": "TTR-SALES-A2-004",
+  "title": "Truck Quantities, Weights & Prices: Numbers & Quantifiers",
+  "level": "A2",
+  "category": "core",
+  "workplace_track": "Customer Inquiries, Quotations & Specifications",
+  "estimated_time_minutes": 10,
+  "description": "Accurately communicate payload capacities in metric tons, pricing per chassis unit, and order quantities in tenders.",
+  "learning_objectives": [
+    "Use quantifiers: many, much, a few, several, total",
+    "State vehicle payload weights and pricing accurately in English",
+    "Avoid common Czenglish number and pluralization errors"
+  ],
+  "questions": [
+    {
+      "id": "TTR-SALES-A2-004-Q1",
+      "prompt": "The municipal fire department ordered _____ ten tactical 4x4 tanker chassis.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a total of"
+        },
+        {
+          "key": "B",
+          "text": "a total"
+        },
+        {
+          "key": "C",
+          "text": "total of"
+        },
+        {
+          "key": "D",
+          "text": "totally"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Standard business quantifier phrase: 'a total of ten chassis'.",
+        "wrong_B": "Lacks required preposition 'of'.",
+        "wrong_C": "Lacks indefinite article 'a'.",
+        "wrong_D": "'totally' is an adverb meaning completely."
+      },
+      "cz_learning_point": "Czech 'celkem deset podvozků'. Standard commercial English idiom: 'a total of ten...'.",
+      "workplace_track": "Commercial Contracts & Incoterms 2020"
+    },
+    {
+      "id": "TTR-SALES-A2-004-Q2",
+      "prompt": "How _____ payload weight can the 8x8 heavy recovery vehicle carry off-road?",
+      "options": [
+        {
+          "key": "A",
+          "text": "many"
+        },
+        {
+          "key": "B",
+          "text": "much"
+        },
+        {
+          "key": "C",
+          "text": "far"
+        },
+        {
+          "key": "D",
+          "text": "long"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Uncountable noun 'weight' takes 'How much'.",
+        "wrong_A": "'many' is for countable nouns.",
+        "wrong_C": "'far' is distance.",
+        "wrong_D": "'long' is duration/length."
+      },
+      "cz_learning_point": "Czech 'Kolik váhy / nosnosti...?'. Uncountable nouns take 'How much weight'.",
+      "workplace_track": "Commercial Contracts & Incoterms 2020"
+    },
+    {
+      "id": "TTR-SALES-A2-004-Q3",
+      "prompt": "We have _____ spare military wheel rims in stock at the central warehouse.",
+      "options": [
+        {
+          "key": "A",
+          "text": "several"
+        },
+        {
+          "key": "B",
+          "text": "much"
+        },
+        {
+          "key": "C",
+          "text": "a little"
+        },
+        {
+          "key": "D",
+          "text": "any"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Plural countable noun 'wheel rims' takes 'several' in affirmative clauses.",
+        "wrong_B": "'much' is for uncountable nouns.",
+        "wrong_C": "'a little' is for uncountable nouns.",
+        "wrong_D": "'any' is used in negative/interrogative."
+      },
+      "cz_learning_point": "Czech 'Máme několik náhradních disků'. Countable plural takes 'several'.",
+      "workplace_track": "International Sales & Customer Inquiries"
+    },
+    {
+      "id": "TTR-SALES-A2-004-Q4",
+      "prompt": "The total contract value exceeds €2.5 _____ Euros for the complete fleet package.",
+      "options": [
+        {
+          "key": "A",
+          "text": "millions"
+        },
+        {
+          "key": "B",
+          "text": "million of"
+        },
+        {
+          "key": "C",
+          "text": "millions of"
+        },
+        {
+          "key": "D",
+          "text": "million"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "When preceded by an exact number or decimal, 'million' does not take plural -s: '€2.5 million'.",
+        "wrong_A": "*millions* with a numeral is incorrect.",
+        "wrong_B": "'million of' is incorrect after numerals.",
+        "wrong_C": "'millions of' is only used without exact numbers."
+      },
+      "cz_learning_point": "Czech '2,5 milionu eur'. After numerals, never pluralize: '2.5 million Euros', NOT *2.5 millions*.",
+      "workplace_track": "Commercial Contracts & Incoterms 2020"
+    },
+    {
+      "id": "TTR-SALES-A2-004-Q5",
+      "prompt": "There are only _____ slots remaining in our Q3 assembly schedule for international orders.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a little"
+        },
+        {
+          "key": "B",
+          "text": "much"
+        },
+        {
+          "key": "C",
+          "text": "a few"
+        },
+        {
+          "key": "D",
+          "text": "any"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Countable plural noun 'slots' takes 'a few' (small positive quantity).",
+        "wrong_A": "'a little' is for uncountable nouns.",
+        "wrong_B": "'much' is for uncountable nouns.",
+        "wrong_D": "'any' is for negative/interrogative."
+      },
+      "cz_learning_point": "Czech 'zbývá jen několik volných termínů'. Countable plural takes 'a few slots'.",
+      "workplace_track": "International Sales & Customer Inquiries"
+    },
+    {
+      "id": "TTR-SALES-A2-004-Q6",
+      "prompt": "The gross vehicle weight rating (GVWR) of this heavy dump truck is 38 _____ tons.",
+      "options": [
+        {
+          "key": "A",
+          "text": "metrics"
+        },
+        {
+          "key": "B",
+          "text": "metric"
+        },
+        {
+          "key": "C",
+          "text": "metrical"
+        },
+        {
+          "key": "D",
+          "text": "metre"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "The adjective for metric units is 'metric': '38 metric tons'.",
+        "wrong_A": "'metrics' is a plural noun (performance data).",
+        "wrong_C": "'metrical' refers to poetic meter.",
+        "wrong_D": "'metre' is a length unit."
+      },
+      "cz_learning_point": "Czech '38 tun'. The standard technical phrase in international sales is 'metric tons'.",
+      "workplace_track": "Commercial Contracts & Incoterms 2020"
+    },
+    {
+      "id": "TTR-SALES-A2-004-Q7",
+      "prompt": "How _____ trucks does the municipal forestry department plan to order this year?",
+      "options": [
+        {
+          "key": "A",
+          "text": "much"
+        },
+        {
+          "key": "B",
+          "text": "many of"
+        },
+        {
+          "key": "C",
+          "text": "many"
+        },
+        {
+          "key": "D",
+          "text": "often"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Countable plural noun 'trucks' takes 'How many'.",
+        "wrong_A": "'much' is for uncountable nouns.",
+        "wrong_B": "'many of' is redundant before bare noun.",
+        "wrong_D": "'often' asks about frequency."
+      },
+      "cz_learning_point": "Czech 'Kolik nákladních vozidel...?'. Countable plural takes 'How many trucks'.",
+      "workplace_track": "International Sales & Customer Inquiries"
+    },
+    {
+      "id": "TTR-SALES-A2-004-Q8",
+      "prompt": "The distributor paid an initial deposit of 20 _____ upon signing the sales contract.",
+      "options": [
+        {
+          "key": "A",
+          "text": "percent"
+        },
+        {
+          "key": "B",
+          "text": "percents"
+        },
+        {
+          "key": "C",
+          "text": "percentages"
+        },
+        {
+          "key": "D",
+          "text": "percentage"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "After a number, 'percent' never takes plural -s: '20 percent'.",
+        "wrong_B": "*percents* is a common Czenglish error.",
+        "wrong_C": "'percentages' is a plural noun.",
+        "wrong_D": "'percentage' requires article 'a percentage'."
+      },
+      "cz_learning_point": "Czech '20 procent'. After numerals, never say *percents*. Always say '20 percent'.",
+      "workplace_track": "Commercial Contracts & Incoterms 2020"
+    },
+    {
+      "id": "TTR-SALES-A2-004-Q9",
+      "prompt": "We received _____ inquiries from defense contractors in Southeast Asia this month.",
+      "options": [
+        {
+          "key": "A",
+          "text": "much"
+        },
+        {
+          "key": "B",
+          "text": "a little"
+        },
+        {
+          "key": "C",
+          "text": "numerous"
+        },
+        {
+          "key": "D",
+          "text": "any"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Countable plural noun 'inquiries' takes 'numerous' (= many).",
+        "wrong_A": "'much' is for uncountable nouns.",
+        "wrong_B": "'a little' is for uncountable nouns.",
+        "wrong_D": "'any' is for negative/interrogative."
+      },
+      "cz_learning_point": "Czech 'četné / mnoho poptávek'. Plural countable takes 'numerous inquiries'.",
+      "workplace_track": "International Sales & Customer Inquiries"
+    },
+    {
+      "id": "TTR-SALES-A2-004-Q10",
+      "prompt": "The base chassis price is €185,000, and customized armor plating _____ extra.",
+      "options": [
+        {
+          "key": "A",
+          "text": "costs"
+        },
+        {
+          "key": "B",
+          "text": "cost"
+        },
+        {
+          "key": "C",
+          "text": "is cost"
+        },
+        {
+          "key": "D",
+          "text": "costing"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Singular abstract/uncountable subject 'armor plating' takes 'costs' with 3rd person -s.",
+        "wrong_B": "'cost' lacks 3rd person -s.",
+        "wrong_C": "Ungrammatical.",
+        "wrong_D": "Participle alone cannot be verb."
+      },
+      "cz_learning_point": "Czech 'pancéřování stojí navíc'. Singular subject takes '-s': 'costs extra'.",
+      "workplace_track": "Commercial Contracts & Incoterms 2020"
+    }
+  ]
+}

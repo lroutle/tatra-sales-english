@@ -1,0 +1,326 @@
+{
+  "test_id": "TTR-SALES-A2-011",
+  "title": "Client Registration at the International Defense Expo",
+  "level": "A2",
+  "category": "core",
+  "workplace_track": "Polite Business Communication & Dealership Correspondence",
+  "estimated_time_minutes": 10,
+  "description": "Foundational sales English module covering client registration at the international defense expo.",
+  "learning_objectives": [
+    "Master professional Articles (a, an, the) & Demonstratives in technical sales and export contracts",
+    "Eliminate common Czech interference errors in client registration at the international defense expo",
+    "Demonstrate mastery in international negotiations and Incoterms documentation"
+  ],
+  "questions": [
+    {
+      "id": "TTR-SALES-A2-011-Q1",
+      "prompt": "Last week at the defense trade fair, our sales manager _____ the revised quotation for twenty 8x8 chassis to the Egyptian ministry.",
+      "options": [
+        {
+          "key": "A",
+          "text": "send"
+        },
+        {
+          "key": "B",
+          "text": "sent"
+        },
+        {
+          "key": "C",
+          "text": "has sent"
+        },
+        {
+          "key": "D",
+          "text": "is sending"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Completed past time reference 'Last week' strictly requires Past Simple 'sent'.",
+        "wrong_A": "Base form 'send' lacks past inflection.",
+        "wrong_C": "Present Perfect 'has sent' cannot accompany closed past date 'Last week'.",
+        "wrong_D": "Present Continuous describes current actions, not last week's events."
+      },
+      "cz_learning_point": "Czech uses past tense for both, but English 'Last week' strictly triggers Past Simple ('sent').",
+      "workplace_track": "Polite Business Communication & Dealership Correspondence"
+    },
+    {
+      "id": "TTR-SALES-A2-011-Q2",
+      "prompt": "Last week at the defense trade fair, the dealership representative _____ the proforma invoice before arranging the bank wire transfer.",
+      "options": [
+        {
+          "key": "A",
+          "text": "review"
+        },
+        {
+          "key": "B",
+          "text": "has reviewed"
+        },
+        {
+          "key": "C",
+          "text": "reviewed"
+        },
+        {
+          "key": "D",
+          "text": "is reviewing"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Completed past time reference 'Last week' strictly requires Past Simple 'reviewed'.",
+        "wrong_A": "Base form 'review' lacks past inflection.",
+        "wrong_B": "Present Perfect 'has reviewed' cannot accompany closed past date 'Last week'.",
+        "wrong_D": "Present Continuous describes current actions, not last week's events."
+      },
+      "cz_learning_point": "Czech uses past tense for both, but English 'Last week' strictly triggers Past Simple ('reviewed').",
+      "workplace_track": "Polite Business Communication & Dealership Correspondence"
+    },
+    {
+      "id": "TTR-SALES-A2-011-Q3",
+      "prompt": "Last week at the defense trade fair, our logistics coordinator _____ the delivery schedule with the Hamburg sea freight forwarder.",
+      "options": [
+        {
+          "key": "A",
+          "text": "confirmed"
+        },
+        {
+          "key": "B",
+          "text": "confirm"
+        },
+        {
+          "key": "C",
+          "text": "has confirmed"
+        },
+        {
+          "key": "D",
+          "text": "is confirming"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Completed past time reference 'Last week' strictly requires Past Simple 'confirmed'.",
+        "wrong_B": "Base form 'confirm' lacks past inflection.",
+        "wrong_C": "Present Perfect 'has confirmed' cannot accompany closed past date 'Last week'.",
+        "wrong_D": "Present Continuous describes current actions, not last week's events."
+      },
+      "cz_learning_point": "Czech uses past tense for both, but English 'Last week' strictly triggers Past Simple ('confirmed').",
+      "workplace_track": "Polite Business Communication & Dealership Correspondence"
+    },
+    {
+      "id": "TTR-SALES-A2-011-Q4",
+      "prompt": "Last week at the defense trade fair, the prospective client _____ about the payload capacity of the Tatra Phoenix mining tipper.",
+      "options": [
+        {
+          "key": "A",
+          "text": "inquire"
+        },
+        {
+          "key": "B",
+          "text": "has inquired"
+        },
+        {
+          "key": "C",
+          "text": "is inquiring"
+        },
+        {
+          "key": "D",
+          "text": "inquired"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Completed past time reference 'Last week' strictly requires Past Simple 'inquired'.",
+        "wrong_A": "Base form 'inquire' lacks past inflection.",
+        "wrong_B": "Present Perfect 'has inquired' cannot accompany closed past date 'Last week'.",
+        "wrong_C": "Present Continuous describes current actions, not last week's events."
+      },
+      "cz_learning_point": "Czech uses past tense for both, but English 'Last week' strictly triggers Past Simple ('inquired').",
+      "workplace_track": "Polite Business Communication & Dealership Correspondence"
+    },
+    {
+      "id": "TTR-SALES-A2-011-Q5",
+      "prompt": "Last week at the defense trade fair, the export specialist _____ all export customs documents into the digital freight portal.",
+      "options": [
+        {
+          "key": "A",
+          "text": "upload"
+        },
+        {
+          "key": "B",
+          "text": "has uploaded"
+        },
+        {
+          "key": "C",
+          "text": "uploaded"
+        },
+        {
+          "key": "D",
+          "text": "is uploading"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Completed past time reference 'Last week' strictly requires Past Simple 'uploaded'.",
+        "wrong_A": "Base form 'upload' lacks past inflection.",
+        "wrong_B": "Present Perfect 'has uploaded' cannot accompany closed past date 'Last week'.",
+        "wrong_D": "Present Continuous describes current actions, not last week's events."
+      },
+      "cz_learning_point": "Czech uses past tense for both, but English 'Last week' strictly triggers Past Simple ('uploaded').",
+      "workplace_track": "Polite Business Communication & Dealership Correspondence"
+    },
+    {
+      "id": "TTR-SALES-A2-011-Q6",
+      "prompt": "Last week at the defense trade fair, the defense liaison officer _____ the VIP client delegation at Prague Airport tomorrow morning.",
+      "options": [
+        {
+          "key": "A",
+          "text": "meet"
+        },
+        {
+          "key": "B",
+          "text": "met"
+        },
+        {
+          "key": "C",
+          "text": "has met"
+        },
+        {
+          "key": "D",
+          "text": "is meeting"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Completed past time reference 'Last week' strictly requires Past Simple 'met'.",
+        "wrong_A": "Base form 'meet' lacks past inflection.",
+        "wrong_C": "Present Perfect 'has met' cannot accompany closed past date 'Last week'.",
+        "wrong_D": "Present Continuous describes current actions, not last week's events."
+      },
+      "cz_learning_point": "Czech uses past tense for both, but English 'Last week' strictly triggers Past Simple ('met').",
+      "workplace_track": "Polite Business Communication & Dealership Correspondence"
+    },
+    {
+      "id": "TTR-SALES-A2-011-Q7",
+      "prompt": "Last week at the defense trade fair, the technical sales engineer _____ the chassis technical parameters during the video conference.",
+      "options": [
+        {
+          "key": "A",
+          "text": "explain"
+        },
+        {
+          "key": "B",
+          "text": "has explained"
+        },
+        {
+          "key": "C",
+          "text": "is explaining"
+        },
+        {
+          "key": "D",
+          "text": "explained"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "Completed past time reference 'Last week' strictly requires Past Simple 'explained'.",
+        "wrong_A": "Base form 'explain' lacks past inflection.",
+        "wrong_B": "Present Perfect 'has explained' cannot accompany closed past date 'Last week'.",
+        "wrong_C": "Present Continuous describes current actions, not last week's events."
+      },
+      "cz_learning_point": "Czech uses past tense for both, but English 'Last week' strictly triggers Past Simple ('explained').",
+      "workplace_track": "Polite Business Communication & Dealership Correspondence"
+    },
+    {
+      "id": "TTR-SALES-A2-011-Q8",
+      "prompt": "Last week at the defense trade fair, the international distributor _____ five spare drive axles under warranty reimbursement.",
+      "options": [
+        {
+          "key": "A",
+          "text": "claimed"
+        },
+        {
+          "key": "B",
+          "text": "claim"
+        },
+        {
+          "key": "C",
+          "text": "has claimed"
+        },
+        {
+          "key": "D",
+          "text": "is claiming"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "Completed past time reference 'Last week' strictly requires Past Simple 'claimed'.",
+        "wrong_B": "Base form 'claim' lacks past inflection.",
+        "wrong_C": "Present Perfect 'has claimed' cannot accompany closed past date 'Last week'.",
+        "wrong_D": "Present Continuous describes current actions, not last week's events."
+      },
+      "cz_learning_point": "Czech uses past tense for both, but English 'Last week' strictly triggers Past Simple ('claimed').",
+      "workplace_track": "Polite Business Communication & Dealership Correspondence"
+    },
+    {
+      "id": "TTR-SALES-A2-011-Q9",
+      "prompt": "Last week at the defense trade fair, the commercial assistant _____ order confirmation letters to foreign dealerships every Friday.",
+      "options": [
+        {
+          "key": "A",
+          "text": "email"
+        },
+        {
+          "key": "B",
+          "text": "has emailed"
+        },
+        {
+          "key": "C",
+          "text": "emailed"
+        },
+        {
+          "key": "D",
+          "text": "is emailing"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "Completed past time reference 'Last week' strictly requires Past Simple 'emailed'.",
+        "wrong_A": "Base form 'email' lacks past inflection.",
+        "wrong_B": "Present Perfect 'has emailed' cannot accompany closed past date 'Last week'.",
+        "wrong_D": "Present Continuous describes current actions, not last week's events."
+      },
+      "cz_learning_point": "Czech uses past tense for both, but English 'Last week' strictly triggers Past Simple ('emailed').",
+      "workplace_track": "Polite Business Communication & Dealership Correspondence"
+    },
+    {
+      "id": "TTR-SALES-A2-011-Q10",
+      "prompt": "Last week at the defense trade fair, the procurement manager _____ the contract payment milestone once shipping containers are sealed.",
+      "options": [
+        {
+          "key": "A",
+          "text": "release"
+        },
+        {
+          "key": "B",
+          "text": "released"
+        },
+        {
+          "key": "C",
+          "text": "has released"
+        },
+        {
+          "key": "D",
+          "text": "is releasing"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "Completed past time reference 'Last week' strictly requires Past Simple 'released'.",
+        "wrong_A": "Base form 'release' lacks past inflection.",
+        "wrong_C": "Present Perfect 'has released' cannot accompany closed past date 'Last week'.",
+        "wrong_D": "Present Continuous describes current actions, not last week's events."
+      },
+      "cz_learning_point": "Czech uses past tense for both, but English 'Last week' strictly triggers Past Simple ('released').",
+      "workplace_track": "Polite Business Communication & Dealership Correspondence"
+    }
+  ]
+}

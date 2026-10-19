@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tatra Sales and Engineering | Interactive English Test Runner</title>
+  <link rel="stylesheet" href="engine/styles.css">
+</head>
+<body>
+  <header class="suite-header">
+    <div class="header-container">
+      <a href="index.html" class="brand-wrapper">
+        <span class="brand-logo-badge">TATRA SALES</span>
+        <div class="brand-titles">
+          <h1>Tatra Sales and Engineering Testing Suite</h1>
+          <p>TATRA TRUCKS a.s. | International Defense, Commercial Sales & Tender Engineering</p>
+        </div>
+      </a>
+      <div>
+        <a href="index.html" class="btn btn-secondary">← Suite Portal</a>
+      </div>
+    </div>
+  </header>
+
+  <div class="main-layout" id="test-app-root"></div>
+
+  <footer class="suite-footer">
+    <p><strong>TATRA TRUCKS a.s.</strong> | Tatra Sales and Engineering English Assessment Suite (Levels A2, B1, B2 & Specialized)</p>
+    <p style="margin-top:6px; font-size:0.8rem; color:#94a3b8;">Standalone Testing Environment with Contrastive Czech-English Diagnostics</p>
+  </footer>
+
+  <script src="engine/app.js"></script>
+  <script src="data/tests_registry.js"></script>
+  <script>
+    async function startRunner() {
+      const urlParams = new URLSearchParams(window.location.search);
+      const testId = urlParams.get('test') || 'TTR-SALES-A2-001';
+      const engine = new SuiteTestEngine({ containerId: 'test-app-root' });
+
+      try {
+        let testData = null;
+        if (window.TEST_REGISTRY && window.TEST_REGISTRY[testId]) {
+          testData = window.TEST_REGISTRY[testId];
+        } else {
+          const resp = await fetch(`data/tests/${testId}.json`);
+          if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+          testData = await resp.json();
+        }
+        engine.init(testData);
+      } catch (err) {
+        document.getElementById('test-app-root').innerHTML = `
+          <div class="question-card" style="text-align: center; padding: 40px;">
+            <h2 style="color: var(--primary); margin-bottom: 12px;">⚠️ Test Module Not Found</h2>
+            <p style="color: var(--text-secondary); margin-bottom: 20px;">
+              Could not load <strong>${testId}.json</strong>. Please ensure the test JSON file exists in <code>data/tests/</code>.
+            </p>
+            <div style="display:flex; justify-content:center; gap:12px;">
+              <a href="test_runner.html?test=TTR-SALES-A2-001" class="btn btn-primary">Load A2 Pilot Test</a>
+              <a href="index.html" class="btn btn-secondary">Return to Portal</a>
+            </div>
+          </div>
+        `;
+      }
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', startRunner);
+    } else {
+      startRunner();
+    }
+  </script>
+</body>
+</html>

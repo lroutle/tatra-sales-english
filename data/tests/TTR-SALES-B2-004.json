@@ -1,0 +1,326 @@
+{
+  "test_id": "TTR-SALES-B2-004",
+  "title": "Exclusive Master Dealership Territory Rights & Non-Compete Clauses",
+  "level": "B2",
+  "category": "core",
+  "workplace_track": "Commercial Negotiation & Payment Milestones",
+  "estimated_time_minutes": 15,
+  "description": "Upper-intermediate commercial and defense sales module analyzing exclusive master dealership territory rights & non-compete clauses.",
+  "learning_objectives": [
+    "Master professional Restrictive & Non-Restrictive Relative Clauses in technical sales and export contracts",
+    "Eliminate common Czech interference errors in exclusive master dealership territory rights & non-compete clauses",
+    "Demonstrate mastery in international negotiations and Incoterms documentation"
+  ],
+  "questions": [
+    {
+      "id": "TTR-SALES-B2-004-Q1",
+      "prompt": "The defense tender evaluation committee stipulated that Tatra _____ an irrevocable warranty bond for 5% of the total contract value.",
+      "options": [
+        {
+          "key": "A",
+          "text": "furnishes"
+        },
+        {
+          "key": "B",
+          "text": "furnish"
+        },
+        {
+          "key": "C",
+          "text": "shall furnish"
+        },
+        {
+          "key": "D",
+          "text": "must to furnish"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "B2 commercial negotiation syntax: Mandative subjunctive after 'stipulated that' requires base form 'furnish'.",
+        "wrong_A": "Option 'furnishes' fails to apply the required inversion or subjunctive base form.",
+        "wrong_C": "Option 'shall furnish' is grammatically inappropriate for this formal commercial context.",
+        "wrong_D": "Option 'must to furnish' is ungrammatical in standard business English."
+      },
+      "cz_learning_point": "High-stakes commercial tenders prioritize formal subjunctive ('insisted that it be capped') and negative inversion ('Rarely does a buyer agree').",
+      "workplace_track": "Commercial Negotiation & Payment Milestones"
+    },
+    {
+      "id": "TTR-SALES-B2-004-Q2",
+      "prompt": "Rarely _____ an international buyer agree to 100% advance payment without demanding a standby letter of credit.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "will"
+        },
+        {
+          "key": "C",
+          "text": "does"
+        },
+        {
+          "key": "D",
+          "text": "has"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "B2 commercial negotiation syntax: Negative restrictive 'Rarely' triggers auxiliary inversion: 'Rarely does an international buyer agree'.",
+        "wrong_A": "Option 'is' fails to apply the required inversion or subjunctive base form.",
+        "wrong_B": "Option 'will' is grammatically inappropriate for this formal commercial context.",
+        "wrong_D": "Option 'has' is ungrammatical in standard business English."
+      },
+      "cz_learning_point": "High-stakes commercial tenders prioritize formal subjunctive ('insisted that it be capped') and negative inversion ('Rarely does a buyer agree').",
+      "workplace_track": "Commercial Negotiation & Payment Milestones"
+    },
+    {
+      "id": "TTR-SALES-B2-004-Q3",
+      "prompt": "Under no circumstances _____ accept payment from a third-party account not specified in the End-User Certificate.",
+      "options": [
+        {
+          "key": "A",
+          "text": "may our sales executives"
+        },
+        {
+          "key": "B",
+          "text": "our sales executives may"
+        },
+        {
+          "key": "C",
+          "text": "our sales executives must to"
+        },
+        {
+          "key": "D",
+          "text": "shall our sales executives to"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "B2 commercial negotiation syntax: Negative inversion: 'Under no circumstances may our sales executives accept'.",
+        "wrong_B": "Option 'our sales executives may' fails to apply the required inversion or subjunctive base form.",
+        "wrong_C": "Option 'our sales executives must to' is grammatically inappropriate for this formal commercial context.",
+        "wrong_D": "Option 'shall our sales executives to' is ungrammatical in standard business English."
+      },
+      "cz_learning_point": "High-stakes commercial tenders prioritize formal subjunctive ('insisted that it be capped') and negative inversion ('Rarely does a buyer agree').",
+      "workplace_track": "Commercial Negotiation & Payment Milestones"
+    },
+    {
+      "id": "TTR-SALES-B2-004-Q4",
+      "prompt": "Had the distributor notified us of the import tariff increase earlier, we _____ the CIF quotation accordingly.",
+      "options": [
+        {
+          "key": "A",
+          "text": "would adjust"
+        },
+        {
+          "key": "B",
+          "text": "had adjusted"
+        },
+        {
+          "key": "C",
+          "text": "will adjust"
+        },
+        {
+          "key": "D",
+          "text": "would have adjusted"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "B2 commercial negotiation syntax: Inverted Third Conditional result clause: 'Had the distributor notified... we would have adjusted'.",
+        "wrong_A": "Option 'would adjust' fails to apply the required inversion or subjunctive base form.",
+        "wrong_B": "Option 'had adjusted' is grammatically inappropriate for this formal commercial context.",
+        "wrong_C": "Option 'will adjust' is ungrammatical in standard business English."
+      },
+      "cz_learning_point": "High-stakes commercial tenders prioritize formal subjunctive ('insisted that it be capped') and negative inversion ('Rarely does a buyer agree').",
+      "workplace_track": "Commercial Negotiation & Payment Milestones"
+    },
+    {
+      "id": "TTR-SALES-B2-004-Q5",
+      "prompt": "It is vital that the export compliance officer _____ every chassis serial number against international military sanctions lists.",
+      "options": [
+        {
+          "key": "A",
+          "text": "cross-checks"
+        },
+        {
+          "key": "B",
+          "text": "cross-checked"
+        },
+        {
+          "key": "C",
+          "text": "cross-check"
+        },
+        {
+          "key": "D",
+          "text": "must cross-checks"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "B2 commercial negotiation syntax: Formulaic subjunctive after 'vital that' takes base form 'cross-check'.",
+        "wrong_A": "Option 'cross-checks' fails to apply the required inversion or subjunctive base form.",
+        "wrong_B": "Option 'cross-checked' is grammatically inappropriate for this formal commercial context.",
+        "wrong_D": "Option 'must cross-checks' is ungrammatical in standard business English."
+      },
+      "cz_learning_point": "High-stakes commercial tenders prioritize formal subjunctive ('insisted that it be capped') and negative inversion ('Rarely does a buyer agree').",
+      "workplace_track": "Commercial Negotiation & Payment Milestones"
+    },
+    {
+      "id": "TTR-SALES-B2-004-Q6",
+      "prompt": "Scarcely _____ the defense contract been signed in Abu Dhabi when geopolitical instability disrupted the maritime transit corridor.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was"
+        },
+        {
+          "key": "B",
+          "text": "had"
+        },
+        {
+          "key": "C",
+          "text": "did"
+        },
+        {
+          "key": "D",
+          "text": "has"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "B2 commercial negotiation syntax: Negative inversion: 'Scarcely had the contract been signed... when...'.",
+        "wrong_A": "Option 'was' fails to apply the required inversion or subjunctive base form.",
+        "wrong_C": "Option 'did' is grammatically inappropriate for this formal commercial context.",
+        "wrong_D": "Option 'has' is ungrammatical in standard business English."
+      },
+      "cz_learning_point": "High-stakes commercial tenders prioritize formal subjunctive ('insisted that it be capped') and negative inversion ('Rarely does a buyer agree').",
+      "workplace_track": "Commercial Negotiation & Payment Milestones"
+    },
+    {
+      "id": "TTR-SALES-B2-004-Q7",
+      "prompt": "If Tatra had not secured the EGAP export credit insurance policy, the company _____ significant sovereign default risk today.",
+      "options": [
+        {
+          "key": "A",
+          "text": "would have faced"
+        },
+        {
+          "key": "B",
+          "text": "will face"
+        },
+        {
+          "key": "C",
+          "text": "faces"
+        },
+        {
+          "key": "D",
+          "text": "would face"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "B2 commercial negotiation syntax: Mixed conditional: past condition ('had not secured') with present consequence ('today') takes 'would face'.",
+        "wrong_A": "Option 'would have faced' fails to apply the required inversion or subjunctive base form.",
+        "wrong_B": "Option 'will face' is grammatically inappropriate for this formal commercial context.",
+        "wrong_C": "Option 'faces' is ungrammatical in standard business English."
+      },
+      "cz_learning_point": "High-stakes commercial tenders prioritize formal subjunctive ('insisted that it be capped') and negative inversion ('Rarely does a buyer agree').",
+      "workplace_track": "Commercial Negotiation & Payment Milestones"
+    },
+    {
+      "id": "TTR-SALES-B2-004-Q8",
+      "prompt": "The tender board insisted that liquidated damages for delayed delivery _____ at a maximum ceiling of 5% of contract value.",
+      "options": [
+        {
+          "key": "A",
+          "text": "be capped"
+        },
+        {
+          "key": "B",
+          "text": "is capped"
+        },
+        {
+          "key": "C",
+          "text": "will be capped"
+        },
+        {
+          "key": "D",
+          "text": "must to be capped"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "B2 commercial negotiation syntax: Passive mandative subjunctive: 'insisted that damages be capped'.",
+        "wrong_B": "Option 'is capped' fails to apply the required inversion or subjunctive base form.",
+        "wrong_C": "Option 'will be capped' is grammatically inappropriate for this formal commercial context.",
+        "wrong_D": "Option 'must to be capped' is ungrammatical in standard business English."
+      },
+      "cz_learning_point": "High-stakes commercial tenders prioritize formal subjunctive ('insisted that it be capped') and negative inversion ('Rarely does a buyer agree').",
+      "workplace_track": "Commercial Negotiation & Payment Milestones"
+    },
+    {
+      "id": "TTR-SALES-B2-004-Q9",
+      "prompt": "Only by establishing a local assembly kit (CKD) joint venture _____ qualify for the mandatory 40% domestic industrial offset requirement.",
+      "options": [
+        {
+          "key": "A",
+          "text": "our consortium could"
+        },
+        {
+          "key": "B",
+          "text": "our consortium can"
+        },
+        {
+          "key": "C",
+          "text": "could our consortium"
+        },
+        {
+          "key": "D",
+          "text": "was our consortium could"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "B2 commercial negotiation syntax: Inversion after 'Only by...': 'could our consortium qualify'.",
+        "wrong_A": "Option 'our consortium could' fails to apply the required inversion or subjunctive base form.",
+        "wrong_B": "Option 'our consortium can' is grammatically inappropriate for this formal commercial context.",
+        "wrong_D": "Option 'was our consortium could' is ungrammatical in standard business English."
+      },
+      "cz_learning_point": "High-stakes commercial tenders prioritize formal subjunctive ('insisted that it be capped') and negative inversion ('Rarely does a buyer agree').",
+      "workplace_track": "Commercial Negotiation & Payment Milestones"
+    },
+    {
+      "id": "TTR-SALES-B2-004-Q10",
+      "prompt": "Were the ministry _____ the tender specifications to exclude all air-cooled engines, our legal counsel would file an immediate procurement protest.",
+      "options": [
+        {
+          "key": "A",
+          "text": "revises"
+        },
+        {
+          "key": "B",
+          "text": "to revise"
+        },
+        {
+          "key": "C",
+          "text": "will revise"
+        },
+        {
+          "key": "D",
+          "text": "would revise"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "B2 commercial negotiation syntax: Inverted Second Conditional: 'Were the ministry to revise...' expresses hypothetical future possibility.",
+        "wrong_A": "Option 'revises' fails to apply the required inversion or subjunctive base form.",
+        "wrong_C": "Option 'will revise' is grammatically inappropriate for this formal commercial context.",
+        "wrong_D": "Option 'would revise' is ungrammatical in standard business English."
+      },
+      "cz_learning_point": "High-stakes commercial tenders prioritize formal subjunctive ('insisted that it be capped') and negative inversion ('Rarely does a buyer agree').",
+      "workplace_track": "Commercial Negotiation & Payment Milestones"
+    }
+  ]
+}

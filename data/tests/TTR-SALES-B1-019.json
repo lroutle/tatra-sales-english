@@ -1,0 +1,326 @@
+{
+  "test_id": "TTR-SALES-B1-019",
+  "title": "Tender Performance Bond Bank Guarantees & Escrow Accounts",
+  "level": "B1",
+  "category": "core",
+  "workplace_track": "Commercial Negotiation & Payment Milestones",
+  "estimated_time_minutes": 15,
+  "description": "Intermediate sales and logistics module analyzing tender performance bond bank guarantees & escrow accounts.",
+  "learning_objectives": [
+    "Master professional Obligation Verbs (shall, must, undertake) in technical sales and export contracts",
+    "Eliminate common Czech interference errors in tender performance bond bank guarantees & escrow accounts",
+    "Demonstrate mastery in international negotiations and Incoterms documentation"
+  ],
+  "questions": [
+    {
+      "id": "TTR-SALES-B1-019-Q1",
+      "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will sign"
+        },
+        {
+          "key": "B",
+          "text": "signs"
+        },
+        {
+          "key": "C",
+          "text": "would sign"
+        },
+        {
+          "key": "D",
+          "text": "signed"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
+        "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
+        "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
+        "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+      },
+      "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+      "workplace_track": "Commercial Negotiation & Payment Milestones"
+    },
+    {
+      "id": "TTR-SALES-B1-019-Q2",
+      "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will sign"
+        },
+        {
+          "key": "B",
+          "text": "would sign"
+        },
+        {
+          "key": "C",
+          "text": "signs"
+        },
+        {
+          "key": "D",
+          "text": "signed"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
+        "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
+        "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
+        "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+      },
+      "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+      "workplace_track": "Commercial Negotiation & Payment Milestones"
+    },
+    {
+      "id": "TTR-SALES-B1-019-Q3",
+      "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+      "options": [
+        {
+          "key": "A",
+          "text": "signs"
+        },
+        {
+          "key": "B",
+          "text": "will sign"
+        },
+        {
+          "key": "C",
+          "text": "would sign"
+        },
+        {
+          "key": "D",
+          "text": "signed"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
+        "wrong_B": "Cannot use 'will' in the if-clause of commercial contracts.",
+        "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
+        "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+      },
+      "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+      "workplace_track": "Commercial Negotiation & Payment Milestones"
+    },
+    {
+      "id": "TTR-SALES-B1-019-Q4",
+      "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will sign"
+        },
+        {
+          "key": "B",
+          "text": "would sign"
+        },
+        {
+          "key": "C",
+          "text": "signed"
+        },
+        {
+          "key": "D",
+          "text": "signs"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
+        "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
+        "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
+        "wrong_C": "Past 'signed' would create an unreal Second Conditional."
+      },
+      "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+      "workplace_track": "Commercial Negotiation & Payment Milestones"
+    },
+    {
+      "id": "TTR-SALES-B1-019-Q5",
+      "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will sign"
+        },
+        {
+          "key": "B",
+          "text": "would sign"
+        },
+        {
+          "key": "C",
+          "text": "signs"
+        },
+        {
+          "key": "D",
+          "text": "signed"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
+        "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
+        "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
+        "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+      },
+      "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+      "workplace_track": "Commercial Negotiation & Payment Milestones"
+    },
+    {
+      "id": "TTR-SALES-B1-019-Q6",
+      "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will sign"
+        },
+        {
+          "key": "B",
+          "text": "signs"
+        },
+        {
+          "key": "C",
+          "text": "would sign"
+        },
+        {
+          "key": "D",
+          "text": "signed"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
+        "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
+        "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
+        "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+      },
+      "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+      "workplace_track": "Commercial Negotiation & Payment Milestones"
+    },
+    {
+      "id": "TTR-SALES-B1-019-Q7",
+      "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will sign"
+        },
+        {
+          "key": "B",
+          "text": "would sign"
+        },
+        {
+          "key": "C",
+          "text": "signed"
+        },
+        {
+          "key": "D",
+          "text": "signs"
+        }
+      ],
+      "correct_key": "D",
+      "explanations": {
+        "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
+        "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
+        "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
+        "wrong_C": "Past 'signed' would create an unreal Second Conditional."
+      },
+      "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+      "workplace_track": "Commercial Negotiation & Payment Milestones"
+    },
+    {
+      "id": "TTR-SALES-B1-019-Q8",
+      "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+      "options": [
+        {
+          "key": "A",
+          "text": "signs"
+        },
+        {
+          "key": "B",
+          "text": "will sign"
+        },
+        {
+          "key": "C",
+          "text": "would sign"
+        },
+        {
+          "key": "D",
+          "text": "signed"
+        }
+      ],
+      "correct_key": "A",
+      "explanations": {
+        "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
+        "wrong_B": "Cannot use 'will' in the if-clause of commercial contracts.",
+        "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
+        "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+      },
+      "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+      "workplace_track": "Commercial Negotiation & Payment Milestones"
+    },
+    {
+      "id": "TTR-SALES-B1-019-Q9",
+      "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will sign"
+        },
+        {
+          "key": "B",
+          "text": "would sign"
+        },
+        {
+          "key": "C",
+          "text": "signs"
+        },
+        {
+          "key": "D",
+          "text": "signed"
+        }
+      ],
+      "correct_key": "C",
+      "explanations": {
+        "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
+        "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
+        "wrong_B": "Cannot use 'would' in a real First Conditional commercial offer.",
+        "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+      },
+      "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+      "workplace_track": "Commercial Negotiation & Payment Milestones"
+    },
+    {
+      "id": "TTR-SALES-B1-019-Q10",
+      "prompt": "If the defense ministry _____ the contract by June 30, Tatra will guarantee delivery before the fiscal year-end.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will sign"
+        },
+        {
+          "key": "B",
+          "text": "signs"
+        },
+        {
+          "key": "C",
+          "text": "would sign"
+        },
+        {
+          "key": "D",
+          "text": "signed"
+        }
+      ],
+      "correct_key": "B",
+      "explanations": {
+        "correct": "First conditional if-clause requires Present Simple ('signs') for commercial offers.",
+        "wrong_A": "Cannot use 'will' in the if-clause of commercial contracts.",
+        "wrong_C": "Cannot use 'would' in a real First Conditional commercial offer.",
+        "wrong_D": "Past 'signed' would create an unreal Second Conditional."
+      },
+      "cz_learning_point": "Contractual conditions: Never write *If the ministry will sign*. Use Present Simple: 'If the ministry signs'.",
+      "workplace_track": "Commercial Negotiation & Payment Milestones"
+    }
+  ]
+}
